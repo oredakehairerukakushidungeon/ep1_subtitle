@@ -1,0 +1,445 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (América Latina)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Trebuchet MS,18,&H00ECF6FF,&H000000FF,&H001500BA,&H2C090A5E,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0045,0020,1
+Style: Cart_TitleSerie,Arial,30,&H00612CD4,&H000000FF,&H00FFFFFF,&H00753228,-1,0,0,0,100,100,0,0,1,3,2,8,0010,0010,0080,1
+Style: Cart_Avance,Trebuchet MS,20,&H000E6FE8,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0025,0020,0010,1
+Style: Cart_Ventana,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00232323,&H00232323,-1,0,0,0,100,100,0,0,1,1,1,5,0020,0020,0020,1
+Style: Cart_Descripciones,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00363636,&H00363636,-1,0,0,0,100,100,0,0,1,1,1,5,0020,0020,0020,1
+Style: Cart_A_Tre,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleNext,Trebuchet MS,22,&H00FDF6F7,&H000000FF,&H00000000,&H007F7F7F,0,0,0,0,100,100,2,0,1,2,0,1,0020,0020,0100,1
+Style: Cart_C_TreNo,Trebuchet MS,22,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_Ilus,Trebuchet MS,20,&H00DE60E6,&H000000FF,&H00FFFFFF,&H00DE60E6,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,1
+Style: Cart_C_TreNoShad,Trebuchet MS,22,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.36,0:00:12.82,Gen_Italics,Narrator,0000,0000,0000,,Este mundo está repleto\Nde todo tipo de guaridas.
+Dialogue: 0,0:00:24.87,0:00:30.76,Gen_Italics,Narrator,0000,0000,0000,,Algunas de ellas contienen laberintos\Nque superan a cualquier aventurero.
+Dialogue: 0,0:00:31.26,0:00:32.38,Gen_Italics,Narrator,0000,0000,0000,,Sin descubrir.
+Dialogue: 0,0:00:32.55,0:00:33.55,Gen_Italics,Narrator,0000,0000,0000,,Inexploradas.
+Dialogue: 0,0:00:33.72,0:00:35.30,Gen_Italics,Narrator,0000,0000,0000,,Inalcanzables.
+Dialogue: 0,0:00:35.84,0:00:40.04,Gen_Italics,Narrator,0000,0000,0000,,La gente suele llamar\Na estos lugares llenos de misterio…
+Dialogue: 0,0:00:40.68,0:00:42.61,Gen_Italics,Narrator,0000,0000,0000,,¡mazmorras ocultas!
+Dialogue: 0,0:00:52.11,0:00:54.50,Gen_Italics,Olivia,0000,0000,0000,,Bienvenido…
+Dialogue: 0,0:00:56.41,0:01:00.08,Gen_Italics,Olivia,0000,0000,0000,,Sigue adelante, alma intrépida.
+Dialogue: 0,0:01:01.41,0:01:04.25,Gen_Italics,Olivia,0000,0000,0000,,Te espero en el segundo piso.
+Dialogue: 0,0:01:14.22,0:01:15.68,Gen_Italics,Olivia,0000,0000,0000,,Por aquí.
+Dialogue: 0,0:01:24.64,0:01:26.10,Gen_Italics,Olivia,0000,0000,0000,,Por aquí.
+Dialogue: 0,0:01:45.70,0:01:49.71,Cart_TitleNext,Sign,0000,0000,0000,,{\blur1.5\fscx96\pos(339,305)\fad(500,500)}#01 "Poderosas habilidades"
+Dialogue: 0,0:01:52.25,0:01:55.76,Gen_Italics,Noir,0000,0000,0000,,Me llamo Noir Stardia,\Nsoy el tercer hijo de un noble.
+Dialogue: 0,0:01:56.80,0:01:59.18,Gen_Italics,Noir,0000,0000,0000,,Tras graduarme\Nde la preparatoria de Jastal,
+Dialogue: 0,0:01:59.34,0:02:01.89,Gen_Italics,Noir,0000,0000,0000,,decidí trabajar\Nen vez de seguir estudiando.
+Dialogue: 0,0:02:05.81,0:02:08.62,Gen_Italics,Noir,0000,0000,0000,,Hoy debía ser\Nmi primer día de trabajo, pero…
+Dialogue: 0,0:02:11.56,0:02:14.73,Gen_Main,Noir,0000,0000,0000,,¿Padre? ¿Madre? ¿Qué sucede?
+Dialogue: 0,0:02:14.90,0:02:17.84,Gen_Main,Father,0000,0000,0000,,La biblioteca en la que ibas a trabajar…
+Dialogue: 0,0:02:18.40,0:02:20.87,Gen_Main,Noir,0000,0000,0000,,Sí, hoy es mi primer día.
+Dialogue: 0,0:02:21.03,0:02:24.11,Gen_Main,Father,0000,0000,0000,,¡El hijo del vizconde se interpuso
+Dialogue: 0,0:02:24.29,0:02:26.20,Gen_Main,Father,0000,0000,0000,,y ya no podrás trabajar allí!
+Dialogue: 0,0:02:26.37,0:02:27.49,Gen_Main,Noir,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:02:29.12,0:02:30.88,Cart_C_Tim,Sign,0000,0000,0000,,{\fad(320,689)\pos(320,75)\shad3\fs36\c&H6FC1C7&\4c&H446071&}Aristocracia
+Dialogue: 0,0:02:30.88,0:02:34.43,Gen_Italics,Noir,0000,0000,0000,,Aunque seamos nobles,\Nlos Stardia somos simples baronetes.{N: Me molesta un poco esto, pero es el equivalente japo a un título británico inferior al barón que no existe en ES. En España, por debajo del barón está el señor y el caballero. Si nos vamos más atrás en el tiempo, podríamos arriesgarnos con "hidalgo".}{H: Debo decir que yo he escuchado el "Baronet" en más de una serie, aunque obviamente en contexto británico, así que no creo que sea un problema}
+Dialogue: 0,0:02:30.96,0:02:35.13,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(316,685)\fs20\shad1\bord2\pos(318,242)\3c&H7B395F&}Baronet
+Dialogue: 0,0:02:31.00,0:02:35.13,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(526,685)\fs20\shad1\bord2\pos(318,157)\3c&H18854E&}Vizconde
+Dialogue: 0,0:02:31.00,0:02:35.13,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(442,685)\fs20\shad1\bord2\pos(318,199)\3c&HAF703A&}Barón
+Dialogue: 0,0:02:31.04,0:02:35.13,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(611,685)\fs20\shad1\bord2\pos(318,117)\3c&H2D9BC4&}Conde
+Dialogue: 0,0:02:31.08,0:02:35.13,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(696,685)\fs20\shad1\bord2\pos(318,74)\3c&H3D2490&}Marqués
+Dialogue: 0,0:02:31.17,0:02:35.13,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(731,685)\fs20\shad1\bord2\pos(318,29)\3c&H466D7E&}Duque
+Dialogue: 0,0:02:34.46,0:02:40.43,Cart_C_Tim,Sign,0000,0000,0000,,{\fad(695,980)\b1\fs28\c&H000000&\bord2\shad0\an5\pos(316,270)}Bibliotecario
+Dialogue: 0,0:02:34.46,0:02:40.43,Cart_C_TreNo,Sign,0000,0000,0000,,{\fad(695,980)\pos(157,81)}Barón
+Dialogue: 0,0:02:34.46,0:02:40.43,Cart_C_TreNo,Sign,0000,0000,0000,,{\fad(695,980)\pos(251,84)}Barón
+Dialogue: 0,0:02:34.46,0:02:40.43,Cart_C_TreNo,Sign,0000,0000,0000,,{\fad(695,980)\fscx80\pos(391,82)}Vizconde
+Dialogue: 0,0:02:34.46,0:02:40.43,Cart_C_TreNo,Sign,0000,0000,0000,,{\fad(695,980)\pos(482,88)}Conde
+Dialogue: 0,0:02:36.30,0:02:40.43,Cart_C_TreNo,Sign,0000,0000,0000,,{\fad(1,980)\pos(329,23)}Vizconde
+Dialogue: 0,0:02:36.80,0:02:39.86,Gen_Italics,Noir,0000,0000,0000,,Nobles pobretones e indefensos\Nante nobles superiores.
+Dialogue: 0,0:02:42.72,0:02:45.73,Gen_Main,Noir,0000,0000,0000,,Padre, levanta la cabeza.
+Dialogue: 0,0:02:45.89,0:02:48.95,Gen_Main,Noir,0000,0000,0000,,Sabes lo mucho que te desprecio.\NDigo, aprecio.
+Dialogue: 0,0:02:49.10,0:02:51.29,Gen_Main,Noir's Father,0000,0000,0000,,¡Sí me desprecias!
+Dialogue: 0,0:02:51.44,0:02:54.74,Gen_Main,Noir,0000,0000,0000,,Ahora me pregunto,\N¿qué es lo que voy a hacer?
+Dialogue: 0,0:02:54.90,0:02:57.23,Gen_Main,Noir,0000,0000,0000,,Viejo de porquería. Digo, padre.
+Dialogue: 0,0:02:57.40,0:03:00.62,Gen_Main,Noir's Father,0000,0000,0000,,¡Esta vez ni lo disimulaste!\N¡Pude sentir la malicia!
+Dialogue: 0,0:03:00.78,0:03:03.30,Gen_Main,Noir's Father,0000,0000,0000,,¡Siento tu enojo, hijo mío!
+Dialogue: 0,0:03:03.45,0:03:04.78,Gen_Main,Alice,0000,0000,0000,,¡No lo toleraré!
+Dialogue: 0,0:03:05.20,0:03:08.42,Gen_Main,Alice,0000,0000,0000,,¿Quién le arrebató el trabajo\Na mi querido hermano?
+Dialogue: 0,0:03:08.58,0:03:09.89,Gen_Main,Alice,0000,0000,0000,,¡Iré a hablar con él!
+Dialogue: 0,0:03:10.04,0:03:15.25,Gen_Main,Noir,0000,0000,0000,,Alice, aprecio la intención,\Npero es el hijo de un vizconde.
+Dialogue: 0,0:03:17.42,0:03:20.45,Gen_Main,Alice,0000,0000,0000,,¡Pero siento mucha lástima por ti!
+Dialogue: 0,0:03:20.84,0:03:25.64,Gen_Main,Alice,0000,0000,0000,,¡Ya sé! ¿Y si vas al examen para\Ningresar a la academia de héroes?
+Dialogue: 0,0:03:26.10,0:03:28.02,Gen_Main,Noir,0000,0000,0000,,¿La academia de héroes?
+Dialogue: 0,0:03:28.64,0:03:33.61,Gen_Italics,Noir,0000,0000,0000,,Quienes se gradúan de esa academia\Nse vuelven cazadores o caballeros.
+Dialogue: 0,0:03:33.77,0:03:37.18,Gen_Italics,Noir,0000,0000,0000,,Es decir, tienen la vida resuelta.
+Dialogue: 0,0:03:38.69,0:03:40.64,Gen_Main,Noir,0000,0000,0000,,Jamás aprobaría.
+Dialogue: 0,0:03:40.82,0:03:42.46,Gen_Main,Alice,0000,0000,0000,,¡Al menos inténtalo!
+Dialogue: 0,0:03:42.61,0:03:45.16,Gen_Main,Alice,0000,0000,0000,,¡Si fallas, yo te mantendré!
+Dialogue: 0,0:03:45.78,0:03:47.91,Gen_Main,Noir,0000,0000,0000,,Claro…
+Dialogue: 0,0:03:51.75,0:03:53.56,Gen_Main,Emma,0000,0000,0000,,¡Noir!
+Dialogue: 0,0:03:56.71,0:03:58.49,Gen_Main,Emma,0000,0000,0000,,¡Hola!
+Dialogue: 0,0:03:59.13,0:04:00.52,Gen_Main,Emma,0000,0000,0000,,¡Buenos días!
+Dialogue: 0,0:04:00.97,0:04:02.62,Gen_Main,Noir,0000,0000,0000,,Buenos días, Emma.
+Dialogue: 0,0:04:02.80,0:04:05.44,Gen_Italics,Noir,0000,0000,0000,,Esta es Emma Brightness.{N: nada que ver con Darkness de Konosuba xD}{H: Este anime es original al diez mil millones por ciento}
+Dialogue: 0,0:04:05.59,0:04:08.75,Gen_Italics,Noir,0000,0000,0000,,Su familia es de barones,\Nes decir, acaudalada,
+Dialogue: 0,0:04:08.93,0:04:12.60,Gen_Italics,Noir,0000,0000,0000,,pero nuestros padres son amigos\Ny nos conocemos desde pequeños.
+Dialogue: 0,0:04:12.77,0:04:15.58,Gen_Main,Emma,0000,0000,0000,,¡Vamos a trabajar juntos\Ncomo bibliotecarios!
+Dialogue: 0,0:04:15.73,0:04:17.11,Gen_Main,Emma,0000,0000,0000,,Esforcémonos, ¿sí?
+Dialogue: 0,0:04:17.90,0:04:20.99,Gen_Main,Noir,0000,0000,0000,,En cuanto a eso, Emma…
+Dialogue: 0,0:04:21.15,0:04:22.36,Gen_Main,Emma,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:04:22.53,0:04:26.02,Gen_Main,Emma,0000,0000,0000,,O sea, ¿que no vas a ser bibliotecario?
+Dialogue: 0,0:04:26.45,0:04:27.48,Gen_Main,Noir,0000,0000,0000,,No…
+Dialogue: 0,0:04:28.20,0:04:29.49,Gen_Main,Emma,0000,0000,0000,,Pero…
+Dialogue: 0,0:04:31.33,0:04:33.49,Gen_Main,Noir,0000,0000,0000,,¿Tanto te decepciona?
+Dialogue: 0,0:04:33.66,0:04:37.61,Gen_Main,Emma,0000,0000,0000,,¡Es que era la ocasión perfecta\Npara darte unas muy buenas noticias!
+Dialogue: 0,0:04:38.29,0:04:40.09,Gen_Main,Emma,0000,0000,0000,,Es sobre tu habilidad.
+Dialogue: 0,0:04:40.25,0:04:42.76,Gen_Main,Noir,0000,0000,0000,,¿Mi habilidad? ¿Gran sabio?
+Dialogue: 0,0:04:43.13,0:04:50.89,Cart_A_Ari,Sign,0000,0000,0000,,{\fad(403,1)}Habilidad {\fs30\fscy110}[Gran sabio]
+Dialogue: 0,0:04:43.51,0:04:46.32,Gen_Italics,Noir,0000,0000,0000,,Gran sabio es mi única habilidad.
+Dialogue: 0,0:04:46.22,0:04:50.89,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(399,1)\an8}Le cuenta al usuario todo sobre el mundo\N(Incluso lo desconocido)
+Dialogue: 0,0:04:46.93,0:04:49.27,Gen_Italics,Noir,0000,0000,0000,,Puede contarme cualquier cosa del mundo.
+Dialogue: 0,0:04:49.43,0:04:50.89,Gen_Italics,Noir,0000,0000,0000,,Es de lo más inusual.
+Dialogue: 0,0:04:51.06,0:04:55.73,Gen_Italics,Noir,0000,0000,0000,,Mis padres saltaron de alegría cuando\Ndescubrieron mi habilidad en la iglesia.
+Dialogue: 0,0:04:56.23,0:04:57.56,Gen_Italics,Noir,0000,0000,0000,,Pero…
+Dialogue: 0,0:04:58.48,0:05:00.65,Gen_Italics,Noir,0000,0000,0000,,No puedo usar la habilidad Gran sabio.
+Dialogue: 0,0:05:00.52,0:05:03.57,Cart_C_TreNoShad,Sign,0000,0000,0000,,{\an4\c&HC67666&\blur0.3\bord0\pos(16,156)}P: ¿Cómo estará\Nel tiempo mañana?
+Dialogue: 0,0:05:01.86,0:05:03.57,Gen_Italics,Noir,0000,0000,0000,,De hecho, sí puedo…
+Dialogue: 0,0:05:01.98,0:05:03.57,Cart_C_TreNoShad,Sign,0000,0000,0000,,{\an4\c&H462FE4&\blur0.3\bord0\pos(450,159)}R: ¡Soleado!
+Dialogue: 0,0:05:04.03,0:05:05.55,Gen_Italics,Noir,0000,0000,0000,,pero al utilizarla
+Dialogue: 0,0:05:05.70,0:05:08.96,Gen_Italics,Noir,0000,0000,0000,,me da una jaqueca tan intensa\Nque deseo la muerte.
+Dialogue: 0,0:05:09.12,0:05:11.26,Gen_Italics,Noir,0000,0000,0000,,Y por eso no la uso.
+Dialogue: 0,0:05:11.91,0:05:16.82,Gen_Main,Emma,0000,0000,0000,,Ayer revisaba unos textos antiguos\Ny me encontré con algo que decía…
+Dialogue: 0,0:05:17.83,0:05:22.20,Gen_Main,Emma,0000,0000,0000,,"Cuando Marlin, el antiguo gran sabio,\Nsufría de terribles jaquecas,
+Dialogue: 0,0:05:22.38,0:05:26.28,Gen_Main,Emma,0000,0000,0000,,reunía a sus esposas\Ny les pedía que lo besaran".
+Dialogue: 0,0:05:26.84,0:05:28.40,Gen_Main,Noir,0000,0000,0000,,¿Y por qué?
+Dialogue: 0,0:05:28.55,0:05:32.42,Gen_Main,Emma,0000,0000,0000,,¡De seguro servían de algo\Ncontra las jaquecas!
+Dialogue: 0,0:05:32.54,0:05:33.52,Gen_Main,Noir,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:05:33.68,0:05:36.14,Gen_Main,Emma,0000,0000,0000,,Tiene sentido, ¿no?
+Dialogue: 0,0:05:37.14,0:05:39.03,Gen_Main,Noir,0000,0000,0000,,No me parece imposible.
+Dialogue: 0,0:05:41.19,0:05:43.90,Gen_Main,Emma,0000,0000,0000,,¿Quieres que nos besemos?
+Dialogue: 0,0:05:44.11,0:05:45.24,Gen_Main,Noir,0000,0000,0000,,¿Segura?
+Dialogue: 0,0:05:46.07,0:05:48.59,Gen_Main,Emma,0000,0000,0000,,¡Pues claro! ¿Con quién más lo harías?
+Dialogue: 0,0:05:48.74,0:05:51.63,Gen_Main,Emma,0000,0000,0000,,¡Solo es un besito!\N¡Y nos conocemos desde siempre!
+Dialogue: 0,0:05:51.78,0:05:54.52,Gen_Main,Emma,0000,0000,0000,,¡Además, somos prácticamente adultos!
+Dialogue: 0,0:05:55.70,0:05:56.73,Gen_Main,Noir,0000,0000,0000,,Entonces…
+Dialogue: 0,0:06:01.17,0:06:02.87,Gen_Main,Emma,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:06:03.59,0:06:06.80,Gen_Main,Emma,0000,0000,0000,,Busquemos un lugar mejor…
+Dialogue: 0,0:06:13.81,0:06:15.98,Gen_Main,Emma,0000,0000,0000,,Adelante…
+Dialogue: 0,0:06:19.98,0:06:21.15,Gen_Main,Noir,0000,0000,0000,,Con tu permiso…
+Dialogue: 0,0:06:38.87,0:06:39.96,Gen_Main,Emma,0000,0000,0000,,Ánimo.
+Dialogue: 0,0:06:43.25,0:06:45.90,Gen_Italics,Noir,0000,0000,0000,,Respóndeme, Gran sabio.
+Dialogue: 0,0:06:48.22,0:06:49.33,Gen_Main,Great Sage,0000,0000,0000,,Adelante.
+Dialogue: 0,0:06:49.93,0:06:53.58,Gen_Italics,Noir,0000,0000,0000,,Quiero fortalecerme para aprobar\Nel examen de la academia de héroes.
+Dialogue: 0,0:06:53.76,0:06:55.89,Gen_Italics,Noir,0000,0000,0000,,¿Cuál es la manera más eficiente?
+Dialogue: 0,0:06:56.31,0:06:58.77,Gen_Main,Great Sage,0000,0000,0000,,Explora una mazmorra oculta.
+Dialogue: 0,0:06:58.93,0:07:02.52,Gen_Italics,Noir,0000,0000,0000,,¿Una mazmorra oculta?\N¿Cuál es la más cercana?
+Dialogue: 0,0:07:02.69,0:07:06.67,Gen_Main,Great Sage,0000,0000,0000,,Hay una cueva a 15,000 metros\Nal suroeste de aquí.
+Dialogue: 0,0:07:06.82,0:07:10.53,Gen_Main,Great Sage,0000,0000,0000,,Si activas el interruptor en la pared,\Nencontrarás el laberinto infini…
+Dialogue: 0,0:07:12.24,0:07:13.53,Gen_Main,Noir,0000,0000,0000,,¡Qué dolor!
+Dialogue: 0,0:07:14.07,0:07:16.83,Gen_Main,Emma/Noir,0000,0000,0000,,-¿Nos besamos de nuevo?\N-¡Sí, por favor!
+Dialogue: 0,0:07:25.50,0:07:27.55,Gen_Italics,Noir,0000,0000,0000,,Ya no me duele tanto…
+Dialogue: 0,0:07:40.31,0:07:43.35,Gen_Main,Emma,0000,0000,0000,,¿Aún te duele la cabeza?
+Dialogue: 0,0:07:43.52,0:07:44.61,Gen_Main,Noir,0000,0000,0000,,Sí.
+Dialogue: 0,0:07:52.11,0:07:53.61,Gen_Italics,Noir,0000,0000,0000,,Traje el equipo adecuado.
+Dialogue: 0,0:07:54.41,0:07:56.87,Gen_Italics,Noir,0000,0000,0000,,Hasta tomé una espada de mi padre.
+Dialogue: 0,0:08:05.75,0:08:09.22,Gen_Italics,Noir,0000,0000,0000,,¿Será este el interruptor?
+Dialogue: 0,0:08:22.23,0:08:25.14,Gen_Main,Great Sage,0000,0000,0000,,Hace falta un hechizo\Npara abrir la puerta.
+Dialogue: 0,0:08:25.31,0:08:27.23,Gen_Main,Great sage,0000,0000,0000,,Dicho hechizo es…
+Dialogue: 0,0:08:29.57,0:08:32.06,Gen_Main,Noir,0000,0000,0000,,¡Mazmorra oculta\Na la que solo yo puedo entrar,
+Dialogue: 0,0:08:32.24,0:08:34.57,Gen_Main,Noir,0000,0000,0000,,quiero entrenar en secreto\Npara ser el más fuerte!
+Dialogue: 0,0:08:50.92,0:08:52.30,Gen_Italics,Olivia,0000,0000,0000,,Por aquí.
+Dialogue: 0,0:09:12.78,0:09:15.89,Gen_Main,Noir,0000,0000,0000,,Oye, estás viva, ¿cierto?
+Dialogue: 0,0:09:16.20,0:09:18.49,Gen_Italics,Olivia,0000,0000,0000,,Toca mi cabeza, por favor.
+Dialogue: 0,0:09:24.50,0:09:26.83,Gen_Italics,Olivia,0000,0000,0000,,¡Soy Olivia Servant!
+Dialogue: 0,0:09:24.54,0:09:29.88,Cart_A_Tim,Sign,0000,0000,0000,,{\shad0\kf65\bord0\pos(320,114)\c&HE6E3CE&}Soy Olivia Servant
+Dialogue: 0,0:09:25.16,0:09:29.88,Cart_A_Tim,Sign,0000,0000,0000,,{\shad0\bord0\kf390\pos(320,205)\c&HE6E3CE&}una aventurera de lo más, más, más genial
+Dialogue: 0,0:09:27.00,0:09:29.88,Gen_Italics,Olivia,0000,0000,0000,,¡Una aventurera\Nde lo más, más, más genial!
+Dialogue: 0,0:09:30.04,0:09:33.80,Gen_Italics,Olivia,0000,0000,0000,,Mientras paseaba, me encontré\Ncon esta mazmorra oculta.
+Dialogue: 0,0:09:33.96,0:09:36.59,Gen_Italics,Olivia,0000,0000,0000,,Descubrí cómo entrar yo solita.
+Dialogue: 0,0:09:36.76,0:09:40.72,Gen_Italics,Olivia,0000,0000,0000,,Había un monstruo en el segundo piso,\Npero lo maté en dos segundos.
+Dialogue: 0,0:09:40.89,0:09:42.72,Gen_Italics,Olivia,0000,0000,0000,,Creía que todo iba bien,
+Dialogue: 0,0:09:43.60,0:09:45.60,Gen_Italics,Olivia,0000,0000,0000,,pero se activó una trampa.
+Dialogue: 0,0:09:47.14,0:09:50.47,Gen_Italics,Olivia,0000,0000,0000,,Y llevo 200 años atrapada aquí.
+Dialogue: 0,0:09:50.65,0:09:52.80,Gen_Main,Noir,0000,0000,0000,,¡¿Doscientos años?! Te soltaré…
+Dialogue: 0,0:09:52.94,0:09:56.74,Gen_Italics,Olivia,0000,0000,0000,,¡No, no! Son ataduras especiales\Nllamadas Grilletes mortales.
+Dialogue: 0,0:09:56.90,0:09:59.36,Gen_Italics,Olivia,0000,0000,0000,,Si las cortas, me matas.
+Dialogue: 0,0:09:59.53,0:10:02.03,Gen_Main,Noir,0000,0000,0000,,¿Eh? ¿Y para qué me llamaste?
+Dialogue: 0,0:10:02.20,0:10:04.34,Gen_Italics,Olivia,0000,0000,0000,,Quería conversar con alguien.
+Dialogue: 0,0:10:04.49,0:10:08.80,Gen_Italics,Olivia,0000,0000,0000,,¡Creía que nadie me escucharía,\Npero de verdad llegó alguien!
+Dialogue: 0,0:10:09.83,0:10:14.03,Gen_Italics,Olivia,0000,0000,0000,,¡No sabes lo mucho\Nque esperé este momento!
+Dialogue: 0,0:10:14.76,0:10:19.48,Gen_Italics,Olivia,0000,0000,0000,,A todo esto, como encontraste esta\Nmazmorra, has de tener algún talento.
+Dialogue: 0,0:10:19.64,0:10:20.92,Gen_Italics,Olivia,0000,0000,0000,,¿Cómo te llamas?
+Dialogue: 0,0:10:21.09,0:10:22.47,Gen_Main,Noir,0000,0000,0000,,Noir Stardia.
+Dialogue: 0,0:10:22.64,0:10:24.13,Gen_Italics,Olivia,0000,0000,0000,,Conque Noir, ¿eh?
+Dialogue: 0,0:10:24.31,0:10:26.35,Gen_Italics,Olivia,0000,0000,0000,,¿Y qué te trajo por aquí?
+Dialogue: 0,0:10:26.52,0:10:27.84,Gen_Main,Noir,0000,0000,0000,,Pues…
+Dialogue: 0,0:10:30.27,0:10:32.94,Gen_Italics,Olivia,0000,0000,0000,,Ya veo. Te comprendo.
+Dialogue: 0,0:10:33.94,0:10:36.36,Gen_Italics,Olivia,0000,0000,0000,,De seguro Gran sabio también te dijo:
+Dialogue: 0,0:10:36.53,0:10:40.52,Gen_Italics,Olivia,0000,0000,0000,,"La bella y sensual Olivia\Nestá atrapada en el segundo piso".
+Dialogue: 0,0:10:40.70,0:10:42.87,Gen_Main,Noir,0000,0000,0000,,No, seguro que ni sabía de ti.
+Dialogue: 0,0:10:43.03,0:10:46.94,Gen_Italics,Olivia,0000,0000,0000,,Bueno, da igual.\NPero quieres fortalecerte, ¿no?
+Dialogue: 0,0:10:47.12,0:10:49.52,Gen_Italics,Olivia,0000,0000,0000,,En ese caso, te daré mis habilidades.
+Dialogue: 0,0:10:49.67,0:10:50.37,Gen_Main,Noir,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:10:50.54,0:10:52.70,Gen_Italics,Olivia,0000,0000,0000,,No me sirven de mucho estando así…
+Dialogue: 0,0:10:52.88,0:10:55.76,Gen_Italics,Olivia,0000,0000,0000,,En fin, ¿juntarías tu frente con la mía?
+Dialogue: 0,0:10:55.92,0:10:58.26,Gen_Main,Noir,0000,0000,0000,,¿Así?
+Dialogue: 0,0:11:01.97,0:11:03.70,Gen_Italics,Olivia,0000,0000,0000,,¡Tan, ta, tatán!
+Dialogue: 0,0:11:03.85,0:11:07.38,Gen_Italics,Olivia,0000,0000,0000,,¡Acabas de obtener mis habilidades!
+Dialogue: 0,0:11:07.97,0:11:10.59,Gen_Italics,Olivia,0000,0000,0000,,Ahora podré morir en paz.
+Dialogue: 0,0:11:11.19,0:11:13.27,Gen_Main,Noir,0000,0000,0000,,¡Espera! ¡No te mueras!
+Dialogue: 0,0:11:13.44,0:11:15.18,Gen_Italics,Olivia,0000,0000,0000,,Te la creíste.
+Dialogue: 0,0:11:15.44,0:11:18.18,Gen_Italics,Olivia,0000,0000,0000,,Puedes llamarme "maestra"\Na partir de ahora.
+Dialogue: 0,0:11:19.28,0:11:22.53,Gen_Italics,Olivia,0000,0000,0000,,Te explicaré brevemente\Ncómo funcionan mis habilidades.
+Dialogue: 0,0:11:23.20,0:11:24.41,Gen_Italics,Olivia,0000,0000,0000,,"Crear".
+Dialogue: 0,0:11:24.78,0:11:28.40,Gen_Italics,Olivia,0000,0000,0000,,Con ella puedes crear cualquier\Nhabilidad que se te ocurra.
+Dialogue: 0,0:11:28.87,0:11:30.27,Gen_Italics,Olivia,0000,0000,0000,,"Otorgar".
+Dialogue: 0,0:11:30.41,0:11:34.00,Gen_Italics,Olivia,0000,0000,0000,,Te permite otorgarles a personas\Nu objetos las habilidades que creas.
+Dialogue: 0,0:11:31.12,0:11:31.79,Cart_Ventana,Sign,0000,0000,0000,,{\fad(69,1)\pos(438,149)}Noir
+Dialogue: 0,0:11:31.33,0:11:31.79,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(69,1)\an5\fs22\pos(455,231)}Alas
+Dialogue: 0,0:11:34.75,0:11:36.31,Gen_Italics,Olivia,0000,0000,0000,,"Editar".
+Dialogue: 0,0:11:36.29,0:11:37.25,Cart_Ventana,Sign,0000,0000,0000,,{\fad(1,54)\pos(456,217)}Noir
+Dialogue: 0,0:11:36.29,0:11:37.25,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(1,54)\an5\fs22\pos(472,300)}Alas
+Dialogue: 0,0:11:36.63,0:11:39.81,Gen_Italics,Olivia,0000,0000,0000,,Te permite editar\Ntus habilidades o las de otros.
+Dialogue: 0,0:11:36.88,0:11:37.25,Cart_C_TreNoShad,,0000,0000,0000,,{\fad(66,54)\c&H2F1FB1&\bord0\shad0\fnArial\fscy210\pos(471,276)\frz5.787}———
+Dialogue: 0,0:11:40.67,0:11:52.23,Cart_C_Ari,Sign,0000,0000,0000,,{\fad(1,937)\pos(321,57)}Habilidades
+Dialogue: 0,0:11:40.67,0:11:52.23,Cart_C_Ari,Sign,0000,0000,0000,,{\q2\pos(104,160)\c&H34D236&\fad(1,937)}Crear
+Dialogue: 0,0:11:40.84,0:11:43.67,Gen_Main,Noir,0000,0000,0000,,Crear, Otorgar y Editar.
+Dialogue: 0,0:11:41.80,0:11:52.23,Cart_C_Ari,Sign,0000,0000,0000,,{\pos(320,160)\c&H1377EC&\fad(1,937)}Otorgar
+Dialogue: 0,0:11:42.55,0:11:52.23,Cart_C_Ari,Sign,0000,0000,0000,,{\c&HC03079&\pos(536,160)\fad(1,937)}Editar
+Dialogue: 0,0:11:43.84,0:11:47.24,Gen_Main,Noir,0000,0000,0000,,Si las uso bien,\Npodría crear ataques muy poderosos.
+Dialogue: 0,0:11:47.39,0:11:49.02,Gen_Italics,Olivia,0000,0000,0000,,Pero ten mucho cuidado.
+Dialogue: 0,0:11:49.18,0:11:53.47,Gen_Italics,Olivia,0000,0000,0000,,Para usar mis habilidades,\Nnecesitas puntos de vida, o PV.
+Dialogue: 0,0:11:51.35,0:11:53.94,Cart_C_Ari,Sign,0000,0000,0000,,{\fad(903,1)\q2\c&H535353&\pos(330,175)}Puntos de vida
+Dialogue: 0,0:11:53.94,0:12:00.82,Cart_C_Ari,Sign,0000,0000,0000,,{\fad(1,518)\pos(136,84)\c&H0906A7&}Lento
+Dialogue: 0,0:11:53.94,0:12:00.82,Cart_C_Ari,Sign,0000,0000,0000,,{\fad(1,518)\pos(303,84)\c&HDA7818&}Veloz
+Dialogue: 0,0:11:54.02,0:11:57.35,Gen_Italics,Olivia,0000,0000,0000,,Y cuanto más poderosa sea\Nla habilidad, más PV consumirá,
+Dialogue: 0,0:11:57.52,0:12:00.70,Gen_Italics,Olivia,0000,0000,0000,,así que procura utilizar\N"Convertir PV" cuando ocurra.
+Dialogue: 0,0:12:00.32,0:12:08.70,Cart_C_Ari,Sign,0000,0000,0000,,{\fad(525,1)\pos(320,130)\c&H54BAEA&\fs28}Convertir {\c&HAA8416&}PV
+Dialogue: 0,0:12:00.86,0:12:02.51,Gen_Main,Noir,0000,0000,0000,,¿Convertir PV?
+Dialogue: 0,0:12:02.65,0:12:07.81,Gen_Italics,Olivia,0000,0000,0000,,Si haces algo que se sienta bien,\Ntu satisfacción se convertirá en PV.
+Dialogue: 0,0:12:07.95,0:12:08.70,Gen_Main,Noir,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:12:08.87,0:12:13.16,Gen_Italics,Olivia,0000,0000,0000,,Por ejemplo, saciar tu apetito\Nsexual con alguien que te atraiga.
+Dialogue: 0,0:12:13.33,0:12:14.85,Gen_Italics,Olivia,0000,0000,0000,,También está el hambre.
+Dialogue: 0,0:12:15.00,0:12:17.66,Gen_Italics,Olivia,0000,0000,0000,,Puedes comer cosas ricas o lujosas.
+Dialogue: 0,0:12:17.84,0:12:19.17,Gen_Italics,Olivia,0000,0000,0000,,Por último, la codicia.
+Dialogue: 0,0:12:19.34,0:12:21.98,Gen_Italics,Olivia,0000,0000,0000,,Puedes ganar y gastar dinero\Ncon el mismo efecto.
+Dialogue: 0,0:12:22.63,0:12:24.96,Gen_Main,Noir,0000,0000,0000,,¿Tengo que ser un hedonista?
+Dialogue: 0,0:12:25.68,0:12:29.12,Gen_Italics,Olivia,0000,0000,0000,,Ah, pero si tus PV\Nllegan a cero, te mueres.
+Dialogue: 0,0:12:29.26,0:12:31.59,Gen_Italics,Noir,0000,0000,0000,,¿Por qué no me lo dijiste antes?
+Dialogue: 0,0:12:31.77,0:12:33.92,Gen_Italics,Olivia,0000,0000,0000,,¿Cuántos PV tienes ahora mismo?
+Dialogue: 0,0:12:34.10,0:12:35.27,Gen_Italics,Olivia,0000,0000,0000,,Concéntrate.
+Dialogue: 0,0:12:35.44,0:12:36.89,Gen_Main,Noir,0000,0000,0000,,Claro…
+Dialogue: 0,0:12:38.11,0:12:39.61,Gen_Main,Noir,0000,0000,0000,,Tengo 550.
+Dialogue: 0,0:12:39.78,0:12:43.74,Gen_Italics,Olivia,0000,0000,0000,,Conque 550, ¿eh?\N¿Por qué no intentas utilizar Crear?
+Dialogue: 0,0:12:43.90,0:12:45.33,Gen_Main,Noir,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:12:45.49,0:12:46.37,Gen_Main,Noir,0000,0000,0000,,Aquí voy.
+Dialogue: 0,0:12:53.00,0:12:55.61,Gen_Main,Noir,0000,0000,0000,,Crear: Habilidad Bala de piedra.
+Dialogue: 0,0:12:58.71,0:13:00.00,Cart_A_Ari,Sign,0000,0000,0000,,{\fs24\an8\fad(0,300)\shad2\pos(142,60)\3c&H524947&\4c&H524947&}Habilidad
+Dialogue: 0,0:12:58.71,0:13:00.00,Cart_A_Ari,Sign,0000,0000,0000,,{\fs30\an8\fad(0,300)\shad2\3c&H524947&\4c&H524947&\pos(484,44)}Bala de piedra
+Dialogue: 0,0:13:00.59,0:13:03.59,Cart_Ventana,Sign,0000,0000,0000,,{\fs16\an1\shad1\bord1\pos(409,90)}Noir Stardia
+Dialogue: 0,0:13:00.59,0:13:03.59,Cart_Descripciones,Sign,0000,0000,0000,,{\fs12\an4\4a&H88&\pos(405,189)}Habilidad {\fs14}[Gran sabio]\N{\fs12\alpha&HFF&}Habilidad {\fs14\alpha&H00&\4a&H88&}[Crear] [Editar] [Otorgar]\N{\fs12\alpha&HFF&}Habilidad {\fs14\alpha&H00&\4a&H88&}[Convertir PV] {\alpha&HFF&\t(2359,2567,1 \alpha&H00&\4a&H88&)}[Bala de piedra]
+Dialogue: 0,0:13:05.72,0:13:09.68,Gen_Italics,Noir,0000,0000,0000,,Bala de piedra condensa el polvo\Nen el aire delante de mi mano…
+Dialogue: 0,0:13:10.35,0:13:11.34,Gen_Italics,Noir,0000,0000,0000,,¡y lo dispara!
+Dialogue: 0,0:13:14.98,0:13:16.77,Gen_Main,Noir,0000,0000,0000,,Lo derroté…
+Dialogue: 0,0:13:17.69,0:13:19.61,Gen_Main,Noir,0000,0000,0000,,Pero estoy exhausto.
+Dialogue: 0,0:13:20.52,0:13:24.42,Gen_Main,Noir,0000,0000,0000,,Tendré que buscar\Nmaneras de acumular PV.
+Dialogue: 0,0:13:25.11,0:13:27.61,Gen_Main,Noir,0000,0000,0000,,Pero creo que por hoy…
+Dialogue: 0,0:13:30.49,0:13:32.59,Gen_Main,Alice,0000,0000,0000,,¡Ay, hermano!
+Dialogue: 0,0:13:34.04,0:13:38.67,Gen_Main,Alice,0000,0000,0000,,¿Estás cómodo en mi regazo?
+Dialogue: 0,0:13:38.83,0:13:41.42,Gen_Main,Noir,0000,0000,0000,,Cielos, vuelvo a la vida.
+Dialogue: 0,0:13:41.92,0:13:44.23,Gen_Main,Noir,0000,0000,0000,,¿Puedes darme un abrazo\Nde buenas noches?
+Dialogue: 0,0:13:44.38,0:13:45.01,Gen_Main,Alice,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:13:46.05,0:13:50.38,Gen_Main,Noir,0000,0000,0000,,¡Soy afortunado de tener\Nuna hermanita tan buena y adorable!
+Dialogue: 0,0:13:50.47,0:13:52.93,Cart_Ventana,Sign,0000,0000,0000,,{\fad(443,1)\fs18\3a&H66&\4a&H66&\an1\pos(447,215)}Noir Stardia
+Dialogue: 0,0:13:54.18,0:13:56.68,Gen_Main,Alice,0000,0000,0000,,{\i1}La mazmorra oculta\Na la que solo yo puedo entrar{\i0}.
+Dialogue: 0,0:14:01.82,0:14:03.88,Gen_Main,Emma,0000,0000,0000,,Siento la tardanza, Noir.
+Dialogue: 0,0:14:05.15,0:14:08.64,Gen_Main,Noir,0000,0000,0000,,Siento haberte llamado sin previo aviso.
+Dialogue: 0,0:14:08.82,0:14:11.14,Gen_Main,Emma,0000,0000,0000,,Descuida. ¿De qué querías hablar?
+Dialogue: 0,0:14:11.28,0:14:12.82,Gen_Main,Noir,0000,0000,0000,,Necesito un favor.
+Dialogue: 0,0:14:13.12,0:14:15.97,Gen_Main,Noir,0000,0000,0000,,Por cierto, luces diferente hoy.
+Dialogue: 0,0:14:16.12,0:14:18.31,Gen_Main,Emma,0000,0000,0000,,¿Tú crees?
+Dialogue: 0,0:14:18.46,0:14:20.84,Gen_Main,Noir,0000,0000,0000,,Normalmente eres más recatada.
+Dialogue: 0,0:14:21.00,0:14:23.28,Gen_Main,Emma,0000,0000,0000,,¡Es porque todos me miran el pecho!
+Dialogue: 0,0:14:23.46,0:14:25.17,Gen_Main,Emma,0000,0000,0000,,Claro que querría ocultarlo.
+Dialogue: 0,0:14:26.01,0:14:28.05,Gen_Main,Noir,0000,0000,0000,,Pero ese atuendo no ayuda mucho…
+Dialogue: 0,0:14:28.22,0:14:30.86,Gen_Main,Emma,0000,0000,0000,,¡Creí que esta sería\Nuna ocasión especial!
+Dialogue: 0,0:14:31.01,0:14:32.28,Gen_Main,Emma,0000,0000,0000,,Eres un tonto, Noir.
+Dialogue: 0,0:14:32.43,0:14:34.33,Gen_Main,Noir,0000,0000,0000,,¡Lo siento! Estaba preocupado.
+Dialogue: 0,0:14:34.47,0:14:36.95,Gen_Main,Noir,0000,0000,0000,,Eres mi querida amiga de la infancia.
+Dialogue: 0,0:14:37.10,0:14:40.19,Gen_Main,Emma,0000,0000,0000,,¡No conseguirás nada solo con palabras!
+Dialogue: 0,0:14:40.35,0:14:43.15,Gen_Main,Noir,0000,0000,0000,,Entonces, ¿puedo abrazarte?
+Dialogue: 0,0:14:44.27,0:14:45.61,Gen_Main,Emma,0000,0000,0000,,Sí…
+Dialogue: 0,0:14:47.99,0:14:50.36,Gen_Main,Noir,0000,0000,0000,,Bien, aquí voy.
+Dialogue: 0,0:14:52.16,0:14:55.19,Gen_Main,Noir,0000,0000,0000,,Tu aroma es muy reconfortante.
+Dialogue: 0,0:14:55.37,0:14:56.66,Gen_Main,Noir,0000,0000,0000,,Y también…
+Dialogue: 0,0:14:56.66,0:14:58.66,Cart_Ventana,Sign,0000,0000,0000,,{\fs16\3a&H66&\4a&H66&\an1\b1\bord1\pos(461,15)}Noir Stardia
+Dialogue: 0,0:14:58.75,0:15:01.42,Cart_A_Ari,Sign,0000,0000,0000,,{\blur4\shad0\pos(318,248)\fad(350,0)\3c&H6F6F70&}Hace unas horas
+Dialogue: 0,0:15:01.88,0:15:03.83,Gen_Main,Noir,0000,0000,0000,,Oye, Olivia…
+Dialogue: 0,0:15:04.00,0:15:05.20,Gen_Italics,Olivia,0000,0000,0000,,Hmm…
+Dialogue: 0,0:15:06.05,0:15:07.84,Gen_Main,Noir,0000,0000,0000,,Maestra…
+Dialogue: 0,0:15:08.01,0:15:09.05,Gen_Italics,Olivia,0000,0000,0000,,¿Dime?
+Dialogue: 0,0:15:09.22,0:15:13.93,Gen_Main,Noir,0000,0000,0000,,Quiero hacer un hechizo que me ayude\Ncon el examen de la academia de héroes.
+Dialogue: 0,0:15:14.10,0:15:16.09,Gen_Italics,Olivia,0000,0000,0000,,¡Llegó la hora de hacer trampa!
+Dialogue: 0,0:15:16.26,0:15:17.56,Gen_Main,Noir,0000,0000,0000,,Eres de lo peor.
+Dialogue: 0,0:15:17.72,0:15:19.87,Gen_Italics,Olivia,0000,0000,0000,,Y tú eres demasiado santurrón.
+Dialogue: 0,0:15:20.02,0:15:22.46,Gen_Italics,Olivia,0000,0000,0000,,Por eso te quitaron el trabajo.
+Dialogue: 0,0:15:23.69,0:15:27.61,Gen_Italics,Olivia,0000,0000,0000,,Puedo recomendarte una habilidad,\Npero te costará 300 PV.
+Dialogue: 0,0:15:27.78,0:15:28.90,Gen_Italics,Olivia,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:15:29.07,0:15:30.28,Gen_Main,Noir,0000,0000,0000,,¡Cuéntame más!
+Dialogue: 0,0:15:30.82,0:15:32.28,Gen_Italics,Olivia,0000,0000,0000,,Verás…
+Dialogue: 0,0:15:32.61,0:15:40.16,Cart_Ventana,Sign,0000,0000,0000,,{\fad(447,347)\an7\3c&H43463A&\pos(412,63)}Ojo analítico{H: ojo clínico xd}
+Dialogue: 0,0:15:32.61,0:15:40.16,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(447,347)\an7\pos(416,195)}Echa un vistazo a la\Ninformación de cualquier\Nser vivo u objeto.
+Dialogue: 0,0:15:33.11,0:15:37.01,Gen_Italics,Olivia,0000,0000,0000,,¡Ojo analítico te dejaría averiguar\Ntodo tipo de información!
+Dialogue: 0,0:15:37.16,0:15:40.29,Gen_Italics,Olivia,0000,0000,0000,,¡Seguro que te va bien\Nen el examen con su ayuda!
+Dialogue: 0,0:15:41.00,0:15:42.50,Gen_Main,Noir,0000,0000,0000,,Gracias, Emma.
+Dialogue: 0,0:15:42.67,0:15:45.63,Gen_Main,Emma,0000,0000,0000,,No fue nada, es prácticamente un saludo.
+Dialogue: 0,0:15:46.17,0:15:49.23,Gen_Italics,Noir,0000,0000,0000,,Bien, es hora de crear\Nla habilidad Ojo analítico.
+Dialogue: 0,0:15:49.17,0:15:50.55,Cart_Ventana,Sign,0000,0000,0000,,{\fad(403,1)\fs22\shad1\an2\bord1\pos(483,151)}Noir Stardia  {\fs18}PV.{\fs30}950
+Dialogue: 0,0:15:49.17,0:15:52.13,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(403,1)\fs14\an4\4a&H88&\move(380,190,380,173,1363,1617)}Habilidad {\fs15}[Gran sabio]\N{\fs14\alpha&HFF&}Habilidad {\fs15\alpha&H00&\4a&H88&}[Crear] [Editar] [Otorgar]\N{\fs14\alpha&HFF&}Habilidad {\fs15\alpha&H00&\4a&H88&}[Convertir PV] [Bala de piedra]\N{\fs14\alpha&HFF&}Habilidad {\fs15\alpha&HFF&\t(1363,1738,1\alpha&H00&\4a&H88&)}[Ojo analítico]{H: Mira cómo dejo este cartel solo cambiando el estilo}
+Dialogue: 0,0:15:49.17,0:15:52.13,Cart_Ventana,Sign,0000,0000,0000,,{\fs22\shad1\an2\bord1\move(483,151,483,137,1363,1613)\alpha&HFF&\t(488,1362,1 \alpha&H00&)}Noir Stardia  {\fs18}PV.{\fs30\t(488,1362,1 \alpha&H00&)}650
+Dialogue: 0,0:15:53.51,0:15:54.97,Gen_Italics,Noir,0000,0000,0000,,Pongámoslo a prueba.
+Dialogue: 0,0:15:56.55,0:16:03.27,Cart_Ventana,Sign,0000,0000,0000,,{\fad(406,892)\an4\pos(48,21.333)\fs22}Emma Brightness  {\fs18}Nv.{\fs30}17
+Dialogue: 0,0:15:56.55,0:16:03.27,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(406,892)\an9\fs15\pos(110,40)\fscy120}Especie\N{\fscx95}Trabajo\N{\fscx100}Habilidades
+Dialogue: 0,0:15:57.01,0:16:03.27,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(1,892)\an7\fs16\pos(118,40)\fscy120\alpha&HFF&\t(1,196,1 \alpha&H00&)}[Humana]\N{\alpha&HFF&\t(30,237,1 \alpha&H00&)}[Bibliotecaria]\N{\alpha&HFF&\fscx78\t(72,279,1 \alpha&H00&)}[Dagas dobles (Grado C)]\N{\alpha&HFF&\fscx100\t(113,321,1 \alpha&H00&)}[Golpe de viento]
+Dialogue: 0,0:15:57.31,0:15:58.18,Gen_Italics,Noir,0000,0000,0000,,¡Puedo verla!
+Dialogue: 0,0:15:58.35,0:16:00.33,Gen_Italics,Noir,0000,0000,0000,,¡Seguro que apruebo con esto!
+Dialogue: 0,0:16:00.57,0:16:02.68,Gen_Italics,Noir,0000,0000,0000,,Tengo que darle las gracias a Emma.
+Dialogue: 0,0:16:03.60,0:16:06.22,Gen_Main,Emma,0000,0000,0000,,Cielos, tengo los hombros muy tensos.
+Dialogue: 0,0:16:06.40,0:16:07.73,Gen_Main,Emma,0000,0000,0000,,Me pesa el pecho.
+Dialogue: 0,0:16:08.02,0:16:09.07,Gen_Italics,Noir,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:16:09.07,0:16:15.07,Cart_A_Ari,Sign,0000,0000,0000,,{\fs28\an8\shad2\4a&H00&\pos(133,108)}Habilidad
+Dialogue: 0,0:16:09.07,0:16:15.07,Cart_A_Ari,Sign,0000,0000,0000,,{\fs32\an8\shad2\4a&H00&\pos(502,104)}Senos pequeños
+Dialogue: 0,0:16:09.48,0:16:12.03,Gen_Italics,Noir,0000,0000,0000,,Usaré Crear para darle\NSenos pequeños a Emma.
+Dialogue: 0,0:16:12.07,0:16:15.07,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(359,1)\an4\fs18\pos(424,180)}Para Crear           PV.{\fs30}30\N{\fs18\alpha&HFF&\t(153,570,1\3a&H44&\4a&H44&\1a&H00&)}Otorgar a Emma  PV.{\fs30}50
+Dialogue: 0,0:16:12.20,0:16:15.06,Gen_Main,Noir,0000,0000,0000,,Me costará 80 PV en total, pero…
+Dialogue: 0,0:16:15.57,0:16:16.68,Gen_Main,Noir,0000,0000,0000,,¡Toma!
+Dialogue: 0,0:16:27.17,0:16:29.71,Gen_Main,Emma,0000,0000,0000,,¡¿Qué pasó?!
+Dialogue: 0,0:16:29.88,0:16:32.32,Gen_Main,Emma,0000,0000,0000,,¡¿Por qué?! ¡¿Cómo?!
+Dialogue: 0,0:16:32.47,0:16:34.80,Gen_Main,Noir,0000,0000,0000,,Ya no sentirás los hombros tensos.
+Dialogue: 0,0:16:34.98,0:16:37.81,Gen_Main,Noir,0000,0000,0000,,Descuida, a muchos\Nles gustan los pechos planos.
+Dialogue: 0,0:16:37.97,0:16:39.35,Gen_Main,Emma,0000,0000,0000,,¿Hablas en serio?
+Dialogue: 0,0:16:39.51,0:16:42.43,Gen_Main,Noir,0000,0000,0000,,Sí. Aunque yo los prefiero grandes.
+Dialogue: 0,0:16:42.60,0:16:46.19,Gen_Main,Emma,0000,0000,0000,,¡Regrésame a la normalidad, tonto!
+Dialogue: 0,0:16:46.57,0:16:49.65,Gen_Italics,Noir,0000,0000,0000,,Tuve que utilizar Editar\Npara devolverle sus senos.
+Dialogue: 0,0:16:49.90,0:16:51.94,Gen_Italics,Noir,0000,0000,0000,,Vaya desperdicio de PV.
+Dialogue: 0,0:16:52.74,0:16:54.95,Cart_A_Ari,Sign,0000,0000,0000,,{\blur5\fad(981,1)\shad0\3c&H505054&\pos(320,270)}Academia de héroes, día del examen
+Dialogue: 0,0:16:54.95,0:16:57.53,Gen_Main,Male Noble 1,0000,0000,0000,,-¿Te sientes confiado?\N-Por supuesto.
+Dialogue: 0,0:16:57.70,0:16:59.48,Gen_Italics,Noir,0000,0000,0000,,Barones y vizcondes…
+Dialogue: 0,0:16:59.66,0:17:02.91,Gen_Italics,Noir,0000,0000,0000,,No se parecen en nada\Na un baronet como yo.
+Dialogue: 0,0:17:03.66,0:17:06.04,Gen_Main,Director,0000,0000,0000,,Daremos inicio al examen de admisión.
+Dialogue: 0,0:17:06.21,0:17:09.33,Gen_Main,Director,0000,0000,0000,,Recolectarán materiales de monstruos.
+Dialogue: 0,0:17:09.50,0:17:12.30,Gen_Main,Director,0000,0000,0000,,Los juzgaremos por su cantidad y rareza.
+Dialogue: 0,0:17:12.46,0:17:16.43,Gen_Main,Director,0000,0000,0000,,Por último, tendrán que trabajar\Nen equipos de tres personas.
+Dialogue: 0,0:17:16.80,0:17:19.80,Gen_Main,Director,0000,0000,0000,,¡Si vuelven sin nada, reprobarán!\N¡Eso es todo!
+Dialogue: 0,0:17:19.97,0:17:22.57,Gen_Main,Examinee 3,0000,0000,0000,,-¿Es en equipos?\N-¡Nadie me dijo nada!
+Dialogue: 0,0:17:22.72,0:17:24.52,Gen_Main,Examinee 5,0000,0000,0000,,¡Tengo que formar un equipo!
+Dialogue: 0,0:17:25.35,0:17:27.58,Gen_Main,Noir,0000,0000,0000,,Disculpen, ¿les gustaría…?
+Dialogue: 0,0:17:27.73,0:17:31.20,Gen_Main,Examinee 6,0000,0000,0000,,¿Eh? Apestas a baronet.
+Dialogue: 0,0:17:36.49,0:17:37.78,Gen_Main,Noir,0000,0000,0000,,Este…
+Dialogue: 0,0:17:38.49,0:17:40.61,Gen_Main,Examinee 7,0000,0000,0000,,No me relaciono con basura.
+Dialogue: 0,0:17:43.37,0:17:44.75,Gen_Italics,Noir,0000,0000,0000,,Basura, ¿eh?
+Dialogue: 0,0:17:49.08,0:17:50.42,Gen_Main,Emma,0000,0000,0000,,¿Hacemos equipo?
+Dialogue: 0,0:17:51.50,0:17:53.74,Gen_Main,Emma,0000,0000,0000,,¡Hola, Noir!
+Dialogue: 0,0:17:53.92,0:17:56.38,Gen_Main,Noir,0000,0000,0000,,¡¿Emma?! ¿Qué haces aquí?
+Dialogue: 0,0:17:56.55,0:17:59.32,Gen_Main,Noir,0000,0000,0000,,-¿Y tu trabajo en la biblioteca?\N-Renuncié.
+Dialogue: 0,0:17:59.76,0:18:02.43,Gen_Main,Emma,0000,0000,0000,,Quería probar suerte\Nen la academia de héroes.
+Dialogue: 0,0:18:02.60,0:18:05.56,Gen_Main,Noir,0000,0000,0000,,¿Y renunciaste solo por eso?
+Dialogue: 0,0:18:05.73,0:18:08.31,Gen_Main,Emma,0000,0000,0000,,-No podía estar contigo.\N-¿Eh?
+Dialogue: 0,0:18:08.48,0:18:11.94,Gen_Main,Emma,0000,0000,0000,,Qué tonto eres, Noir.\NVamos, formemos equipo.
+Dialogue: 0,0:18:13.86,0:18:15.64,Gen_Main,Lenore,0000,0000,0000,,Oigan, ¿hacemos equipo?
+Dialogue: 0,0:18:16.65,0:18:18.79,Gen_Main,Lenore,0000,0000,0000,,Soy Lenore Bludon.
+Dialogue: 0,0:18:18.95,0:18:21.49,Gen_Main,Lenore,0000,0000,0000,,No hace falta que sean formales conmigo.
+Dialogue: 0,0:18:22.16,0:18:25.39,Gen_Main,Emma,0000,0000,0000,,Yo soy Emma Brightness.
+Dialogue: 0,0:18:25.54,0:18:29.06,Gen_Main,Lenore,0000,0000,0000,,¿Brightness? Ah, ¿de los barones?
+Dialogue: 0,0:18:29.67,0:18:31.53,Gen_Main,Noir,0000,0000,0000,,Soy Noir Stardia.
+Dialogue: 0,0:18:31.71,0:18:33.64,Gen_Main,Lenore,0000,0000,0000,,No te pregunté tu nombre.
+Dialogue: 0,0:18:34.05,0:18:37.57,Gen_Main,Lenore,0000,0000,0000,,¿Por qué me molestaría\Nen recordar el nombre de un baronet?
+Dialogue: 0,0:18:38.38,0:18:39.58,Gen_Main,Director,0000,0000,0000,,Muy bien…
+Dialogue: 0,0:18:39.76,0:18:44.11,Gen_Main,Director,0000,0000,0000,,Tienen hasta mañana\Nal mediodía para juntar materiales.
+Dialogue: 0,0:18:44.72,0:18:46.45,Gen_Main,Director,0000,0000,0000,,Consíganlos como quieran.
+Dialogue: 0,0:18:46.64,0:18:47.77,Gen_Main,Director,0000,0000,0000,,¡Empiecen!
+Dialogue: 0,0:18:47.93,0:18:49.64,Gen_Main,Examinee 8,0000,0000,0000,,-¡Al mercado!\N-¡Lo compraré todo!
+Dialogue: 0,0:18:49.81,0:18:52.91,Gen_Main,Emma,0000,0000,0000,,¿También se pueden comprar\Nlos materiales?
+Dialogue: 0,0:18:53.06,0:18:56.65,Gen_Main,Noir,0000,0000,0000,,Supongo, nunca nos dijo\Nque había que vencer monstruos…
+Dialogue: 0,0:18:56.82,0:18:59.40,Gen_Main,Lenore,0000,0000,0000,,Trabajemos por separado.
+Dialogue: 0,0:18:59.90,0:19:03.74,Gen_Main,Lenore,0000,0000,0000,,No nos estorbes,\Nescoria de la aristocracia.
+Dialogue: 0,0:19:04.41,0:19:07.18,Gen_Main,Emma,0000,0000,0000,,Parece que los ricachones\Ntienen la ventaja.
+Dialogue: 0,0:19:07.37,0:19:08.44,Gen_Main,Noir,0000,0000,0000,,Sí…
+Dialogue: 0,0:19:08.80,0:19:10.40,Gen_Main,Emma,0000,0000,0000,,¿Qué harás, Noir?
+Dialogue: 0,0:19:10.68,0:19:13.63,Gen_Main,Emma,0000,0000,0000,,Si saldrás de cacería, voy contigo.
+Dialogue: 0,0:19:13.79,0:19:16.10,Gen_Main,Noir,0000,0000,0000,,No. Espérame, Emma.
+Dialogue: 0,0:19:16.67,0:19:18.52,Gen_Main,Noir,0000,0000,0000,,Tengo una idea.
+Dialogue: 0,0:19:19.74,0:19:22.93,Gen_Italics,Noir,0000,0000,0000,,Supuse que habría monstruos\Nraros en la mazmorra oculta.
+Dialogue: 0,0:19:23.09,0:19:26.39,Gen_Italics,Noir,0000,0000,0000,,Y por eso vine\Nhasta el tercer piso, pero…
+Dialogue: 0,0:19:27.60,0:19:29.85,Gen_Main,Noir,0000,0000,0000,,¡¿Qué hace esto aquí?!
+Dialogue: 0,0:19:30.94,0:19:37.69,Cart_Ventana,Sign,0000,0000,0000,,{\an2\move(489,156,489,100,2900,3483)}La muerte Nv.{\fs36}99
+Dialogue: 0,0:19:30.94,0:19:37.69,Cart_Descripciones,Sign,0000,0000,0000,,{\fs15\an7\fscx85\fscy120\move(367,166,367,110,2900,3483)}Habilidad [Corte ejecutor]\N{\alpha&HFF&}Habilidad {\alpha&HFF&\t(2983,3024,1 \alpha&H00&)}Todo daño infligido al enemigo\N{\alpha&HFF&}Habilidad {\alpha&HFF&\t(3108,3149,1 \alpha&H00&)}con la hoz mata instantáneamente.\N{\alpha&HFF&}Habilidad {\alpha&HFF&\t(3275,3316,1 \alpha&H00&)}Efecto inevitable sin protección\N{\alpha&HFF&}Habilidad {\alpha&HFF&\t(3275,3316,1 \alpha&H00&)}específica.
+Dialogue: 0,0:19:31.10,0:19:33.37,Gen_Italics,Noir,0000,0000,0000,,Mi nivel es apenas 23…
+Dialogue: 0,0:19:33.90,0:19:36.96,Gen_Italics,Noir,0000,0000,0000,,Además, si me toca su hoz,\Nestoy muerto.
+Dialogue: 0,0:19:47.37,0:19:51.33,Gen_Italics,Noir,0000,0000,0000,,¿Y si uso Editar para borrar\Nsu ataque de muerte instantánea?
+Dialogue: 0,0:19:52.33,0:19:56.79,Cart_Ventana,Sign,0000,0000,0000,,{\fad(570,470)\an2\fs18\pos(476,169)}Hab. {\fs24\fscx90}[Corte ejecutor]
+Dialogue: 0,0:19:52.54,0:19:56.79,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(401,470)\pos(476,190)\fs18\an5\b0}PV necesarios: {\fs32\b1}4000
+Dialogue: 0,0:19:53.67,0:19:55.88,Gen_Italics,Noir,0000,0000,0000,,¡Es imposible! ¡Moriría ocho veces!
+Dialogue: 0,0:19:59.05,0:20:08.01,Cart_Ventana,Sign,0000,0000,0000,,{\fad(1,513)\an1\fs18\pos(420,207)}Noir Stardia
+Dialogue: 0,0:19:59.59,0:20:01.78,Gen_Italics,Noir,0000,0000,0000,,Creé y le otorgué la habilidad Pesado.
+Dialogue: 0,0:20:03.01,0:20:04.90,Gen_Italics,Noir,0000,0000,0000,,Logré detenerlo de momento,
+Dialogue: 0,0:20:05.05,0:20:07.72,Gen_Italics,Noir,0000,0000,0000,,pero esta jugada me costó 200 PV.
+Dialogue: 0,0:20:10.52,0:20:12.38,Gen_Italics,Noir,0000,0000,0000,,Me siento tan débil…
+Dialogue: 0,0:20:13.50,0:20:17.02,Gen_Italics,Noir,0000,0000,0000,,Perdí tantos PV que siento\Nque la vida deja mi cuerpo…
+Dialogue: 0,0:20:17.40,0:20:19.46,Gen_Italics,Noir,0000,0000,0000,,Pero no tengo opción…
+Dialogue: 0,0:20:19.61,0:20:20.99,Gen_Italics,Noir,0000,0000,0000,,¡Tengo que hacerlo!
+Dialogue: 0,0:20:28.03,0:20:32.50,Gen_Main,Noir,0000,0000,0000,,{\an8}¡Usaré 100 PV para editar el tamaño\Nde Bala de piedra a 100 centímetros!
+Dialogue: 0,0:20:29.04,0:20:34.00,Gen_Main,Sign,0000,0000,0000,,{\fad(858,1)\an1\fnTrebuchet MS\fs18\3c&H24211E&\4c&H25221E&\pos(420,197)}Noir Stardia
+Dialogue: 0,0:20:29.04,0:20:34.00,Gen_Main,Sign,0000,0000,0000,,{\fad(858,1)\an1\fnTrebuchet MS\fs18\3c&H24211E&\shad0\pos(423,316)\fscx80}Bala de piedra.
+Dialogue: 0,0:20:35.58,0:20:38.88,Gen_Main,Noir,0000,0000,0000,,¿Sabes? Te ves un poco delgado.\N¿Has estado comiendo bien?
+Dialogue: 0,0:20:39.05,0:20:42.33,Gen_Main,Noir,0000,0000,0000,,¡Toma esto,\Nte dejará más que satisfecho!
+Dialogue: 0,0:20:43.84,0:20:45.39,Gen_Main,Noir,0000,0000,0000,,¡Bala de piedra 100!
+Dialogue: 0,0:20:55.98,0:20:58.73,Cart_Ventana,Sign,0000,0000,0000,,{\fad(858,1)\an7\pos(210,13)}Noir Stardia
+Dialogue: 0,0:20:57.02,0:20:58.73,Gen_Main,Noir,0000,0000,0000,,Qué cansancio…{H: Yo ahora mismo}
+Dialogue: 0,0:21:03.61,0:21:08.49,Gen_Main,Director,0000,0000,0000,,¡Atención, voy a anunciar a los tres\Nmejores equipos del examen de ingreso!
+Dialogue: 0,0:21:08.66,0:21:12.37,Gen_Main,Lenore,0000,0000,0000,,No anunciaron nuestros resultados\Nen ningún momento.
+Dialogue: 0,0:21:12.54,0:21:14.04,Gen_Main,Noir,0000,0000,0000,,No…
+Dialogue: 0,0:21:14.62,0:21:20.21,Gen_Main,Director,0000,0000,0000,,En tercer lugar,\Nel equipo Genos con 5,890 puntos.
+Dialogue: 0,0:21:21.13,0:21:26.07,Gen_Main,Director,0000,0000,0000,,¡En segundo lugar, el equipo\NElizabeth con 11,550 puntos!
+Dialogue: 0,0:21:26.22,0:21:28.31,Gen_Main,Lenore,0000,0000,0000,,Sigue sin llamarnos.
+Dialogue: 0,0:21:28.68,0:21:30.43,Gen_Main,Emma,0000,0000,0000,,¿Ni siquiera clasificamos?
+Dialogue: 0,0:21:30.60,0:21:33.28,Gen_Italics,Noir,0000,0000,0000,,Deberíamos estar bien.
+Dialogue: 0,0:21:33.43,0:21:35.06,Gen_Italics,Noir,0000,0000,0000,,La maestra me dijo…
+Dialogue: 0,0:21:35.98,0:21:39.18,Gen_Main,Noir,0000,0000,0000,,¿Se vería demasiado extraño\Nque presentara esto en el examen?
+Dialogue: 0,0:21:39.40,0:21:40.23,Gen_Italics,Olivia,0000,0000,0000,,No.
+Dialogue: 0,0:21:40.40,0:21:43.98,Gen_Italics,Olivia,0000,0000,0000,,Es mejor que mostrar un slime dorado\Nque no existe en este continente.
+Dialogue: 0,0:21:44.15,0:21:46.11,Gen_Italics,Olivia,0000,0000,0000,,Y es un debilucho. Tranquilo.
+Dialogue: 0,0:21:46.57,0:21:50.21,Gen_Italics,Noir,0000,0000,0000,,Pero si no nos llama ahora…
+Dialogue: 0,0:21:52.12,0:21:53.50,Gen_Main,Director,0000,0000,0000,,Y en primer lugar…
+Dialogue: 0,0:21:57.00,0:22:00.46,Gen_Main,Director,0000,0000,0000,,¡El equipo Lenore con 128,000 puntos!
+Dialogue: 0,0:22:01.25,0:22:03.42,Gen_Main,Emma,0000,0000,0000,,Ciento veintiocho…
+Dialogue: 0,0:22:03.80,0:22:05.09,Gen_Main,Noir,0000,0000,0000,,…mil.
+Dialogue: 0,0:22:05.26,0:22:09.09,Gen_Main,Director,0000,0000,0000,,¡Entre sus materiales estaba\Nel cráneo de la diabólica muerte!
+Dialogue: 0,0:22:09.26,0:22:12.34,Gen_Main,Director,0000,0000,0000,,¡Por lo cual,\Nhan aprobado y reescrito la historia!
+Dialogue: 0,0:22:12.51,0:22:16.39,Gen_Italics,Noir,0000,0000,0000,,¿Por qué me dijiste\Nque era un debilucho, maestra?
+Dialogue: 0,0:22:16.56,0:22:19.29,Gen_Italics,Olivia,0000,0000,0000,,Rayos, creo que metí la pata.
+Dialogue: 0,0:22:19.44,0:22:22.24,Gen_Italics,Olivia,0000,0000,0000,,Aunque la muerte no es rival para mí,
+Dialogue: 0,0:22:22.40,0:22:25.19,Gen_Italics,Olivia,0000,0000,0000,,sería un milagro\Nque la cazara un estudiante.
+Dialogue: 0,0:22:25.86,0:22:27.50,Gen_Italics,Olivia,0000,0000,0000,,Bueno, da igual.
+Dialogue: 0,0:22:29.36,0:22:33.45,Gen_Italics,Noir,0000,0000,0000,,Y así, aprobé el examen\Nde ingreso sano y salvo.
+Dialogue: 0,0:22:33.62,0:22:37.46,Gen_Italics,Noir,0000,0000,0000,,Mi familia estaba encantada\Ny se alegró el ambiente en la casa.
+Dialogue: 0,0:22:37.83,0:22:40.48,Gen_Italics,Noir,0000,0000,0000,,Hasta que vi\Ncuánto costaba la matrícula.
+Dialogue: 0,0:22:41.36,0:22:43.16,Gen_Main,Noir,0000,0000,0000,,¿Trescientos mil?
+Dialogue: 0,0:22:43.34,0:22:45.96,Gen_Main,Noir,0000,0000,0000,,¿Cómo voy a pagar esto?
+Dialogue: 0,0:24:17.89,0:24:20.27,Gen_Main,Noir,0000,0000,0000,,{\an8}Próximamente:\N"El gremio y la recepcionista".
+Dialogue: 0,0:24:18.31,0:24:21.98,Cart_TitleNext,Sign,0000,0000,0000,,{\blur1\fad(647,1)\pos(40,300)}#02 "El gremio y la recepcionista"
+Dialogue: 0,0:24:21.98,0:24:27.73,Cart_Ilus,Sign,0000,0000,0000,,{\pos(499,315)}Ilustración: Shiratama

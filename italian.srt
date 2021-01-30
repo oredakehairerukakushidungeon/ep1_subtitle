@@ -1,0 +1,1796 @@
+﻿1
+00:00:09,210 --> 00:00:12,820
+Numerosi dungeon sono sparsi per il mondo.
+
+2
+00:00:24,700 --> 00:00:30,760
+Si dice che in alcuni di essi ci siano pericolosi
+labirinti ad ostacolare gli avventurieri.
+
+3
+00:00:31,260 --> 00:00:32,380
+Mai scoperti.
+
+4
+00:00:32,380 --> 00:00:33,550
+Inesplorati.
+
+5
+00:00:33,550 --> 00:00:35,300
+Irraggiungibili.
+
+6
+00:00:35,680 --> 00:00:40,040
+La gente chiama questi luoghi ricchi di mistero...
+
+7
+00:00:40,510 --> 00:00:42,610
+dungeon nascosti!
+
+8
+00:00:51,960 --> 00:00:54,500
+Benvenuto...
+
+9
+00:00:56,240 --> 00:01:00,080
+Vieni avanti, o valoroso giovane.
+
+10
+00:01:01,240 --> 00:01:04,250
+Ti aspetto al secondo piano.
+
+11
+00:01:14,200 --> 00:01:15,680
+Da questa parte.
+
+12
+00:01:24,640 --> 00:01:26,100
+Da questa parte.
+
+13
+00:01:45,700 --> 00:01:49,710
+#01 "Un potente set di abilità"
+
+14
+00:01:52,240 --> 00:01:55,760
+Io, Noir Stardia, sono il terzogenito di un nobile.
+
+15
+00:01:56,650 --> 00:01:59,180
+Dopo essermi diplomato
+alla Scuola Preparatoria Jastal,
+
+16
+00:01:59,180 --> 00:02:00,390
+ho deciso di abbandonare gli studi
+
+17
+00:02:00,390 --> 00:02:01,890
+e di cercarmi un lavoro.
+
+18
+00:02:05,650 --> 00:02:08,620
+Oggi doveva essere il mio primo giorno di lavoro, ma...
+
+19
+00:02:11,400 --> 00:02:14,730
+Padre? Madre? Che succede?
+
+20
+00:02:14,730 --> 00:02:17,840
+Riguardo alla biblioteca
+presso la quale hai trovato lavoro...
+
+21
+00:02:18,390 --> 00:02:20,870
+Sì, oggi è il mio primo giorno.
+
+22
+00:02:20,870 --> 00:02:24,110
+Il fatto è che il figlio del visconte ha interferito,
+
+23
+00:02:24,110 --> 00:02:26,200
+non potrai più lavorarci.
+
+24
+00:02:29,120 --> 00:02:30,880
+Società Aristocratica
+
+25
+00:02:30,710 --> 00:02:34,430
+Saremo anche nobili, ma la famiglia Stardia
+ricopre il semplice rango di baronetto.
+
+26
+00:02:30,960 --> 00:02:35,130
+Baronetto
+
+27
+00:02:31,000 --> 00:02:35,130
+Visconte
+
+28
+00:02:31,000 --> 00:02:35,130
+Barone
+
+29
+00:02:31,040 --> 00:02:35,130
+Conte
+
+30
+00:02:31,080 --> 00:02:35,130
+Marchese
+
+31
+00:02:31,170 --> 00:02:35,130
+Duca
+
+32
+00:02:34,460 --> 00:02:40,380
+Bibliotecario
+
+33
+00:02:34,460 --> 00:02:40,430
+Barone
+
+34
+00:02:34,460 --> 00:02:40,430
+Visconte
+
+35
+00:02:34,460 --> 00:02:40,430
+Conte
+
+36
+00:02:36,300 --> 00:02:40,430
+Visconte
+
+37
+00:02:36,630 --> 00:02:38,420
+Siamo nobili poveri che non hanno speranze
+
+38
+00:02:38,420 --> 00:02:39,860
+contro quelli di rango più elevato.
+
+39
+00:02:42,550 --> 00:02:45,730
+Padre, alzate la testa, vi prego.
+
+40
+00:02:45,730 --> 00:02:48,950
+Per voi non provo altro che risentimento... cioè, rispetto.
+
+41
+00:02:48,950 --> 00:02:51,290
+Guarda che lo so che intendevi la prima!
+
+42
+00:02:51,290 --> 00:02:54,740
+Ma immagino che la vera domanda sia...
+Che faccio adesso?
+
+43
+00:02:54,740 --> 00:02:57,230
+Padre di merda. Volevo dire, nobile Padre.
+
+44
+00:02:57,230 --> 00:03:00,620
+Stavolta non hai nemmeno esitato!
+Ho avvertito chiaramente la tua cattiveria!
+
+45
+00:03:00,620 --> 00:03:03,300
+Capisco la tua rabbia, figlio mio!
+
+46
+00:03:03,300 --> 00:03:05,190
+Io non lo accetto!
+
+47
+00:03:05,190 --> 00:03:08,420
+Chi ha osato rubare il lavoro al mio adorato fratello?
+
+48
+00:03:08,420 --> 00:03:09,890
+Andrò a parlarci di persona!
+
+49
+00:03:09,890 --> 00:03:15,250
+Alice, apprezzo il pensiero,
+ma qui si parla del figlio di un visconte.
+
+50
+00:03:17,240 --> 00:03:20,450
+Ma... non è giusto, mio caro fratello!
+
+51
+00:03:20,830 --> 00:03:25,640
+Ci sono! Perché non fai l'esame
+per l'Accademia degli Eroi?
+
+52
+00:03:25,920 --> 00:03:28,020
+L'Accademia degli Eroi, eh?
+
+53
+00:03:28,470 --> 00:03:33,610
+Quelli che si diplomano lì possono diventare
+cacciatori di mostri o cavalieri reali.
+
+54
+00:03:33,610 --> 00:03:37,180
+In parole povere, sei a posto per tutta la vita.
+
+55
+00:03:38,710 --> 00:03:40,640
+Non riuscirei mai a superarlo.
+
+56
+00:03:40,640 --> 00:03:42,460
+Dovresti almeno provarci!
+
+57
+00:03:42,460 --> 00:03:45,160
+Se non dovessi farcela, ci penserò io
+a prendermi cura di te, fratellone!
+
+58
+00:03:45,610 --> 00:03:47,910
+V-Va bene...
+
+59
+00:03:51,600 --> 00:03:53,560
+Noir!
+
+60
+00:03:56,550 --> 00:03:58,490
+Eeeehi!
+
+61
+00:03:59,130 --> 00:04:00,520
+Buongiorno!
+
+62
+00:04:00,980 --> 00:04:02,620
+Buongiorno a te, Emma.
+
+63
+00:04:02,620 --> 00:04:05,440
+Lei è Emma Brightness.
+
+64
+00:04:05,440 --> 00:04:08,750
+È nata in una famiglia di baroni,
+il che vuol dire che è molto ricca,
+
+65
+00:04:08,750 --> 00:04:10,700
+però i nostri genitori sono amici
+
+66
+00:04:10,700 --> 00:04:12,600
+e quindi lo siamo anche noi due fin da piccoli.
+
+67
+00:04:12,600 --> 00:04:15,580
+A partire da oggi siamo entrambi bibliotecari!
+
+68
+00:04:15,580 --> 00:04:17,110
+Facciamo del nostro meglio!
+
+69
+00:04:17,750 --> 00:04:20,990
+In realtà, Emma, a questo proposito..
+
+70
+00:04:22,360 --> 00:04:26,020
+Q-Q-Quindi... non puoi fare il bibliotecario?
+
+71
+00:04:28,200 --> 00:04:29,490
+Ma questo...
+
+72
+00:04:31,330 --> 00:04:33,490
+S-Sei molto delusa?
+
+73
+00:04:33,490 --> 00:04:34,890
+Beh, il fatto è che...
+
+74
+00:04:34,890 --> 00:04:37,610
+avevo grandi notizie!
+
+75
+00:04:38,140 --> 00:04:40,090
+Riguardo alla tua abilità.
+
+76
+00:04:40,090 --> 00:04:42,760
+Abilità? Intendi il mio Grande Saggio?
+
+77
+00:04:43,130 --> 00:04:50,890
+Abilità [Grande Saggio]
+
+78
+00:04:43,350 --> 00:04:46,320
+Grande Saggio è la mia sola e unica abilità.
+
+79
+00:04:45,800 --> 00:04:50,890
+Dice all'utilizzatore tutto ciò che c'è da
+sapere sul mondo (persino l'inspiegabile)
+
+80
+00:04:46,750 --> 00:04:49,270
+Mi dice tutto ciò che c'è da sapere sul mondo.
+
+81
+00:04:49,270 --> 00:04:50,890
+È un'abilità piuttosto rara.
+
+82
+00:04:50,890 --> 00:04:55,730
+I miei genitori hanno fatto i salti di gioia quando
+hanno fatto valutare le mie capacità in chiesa.
+
+83
+00:04:51,940 --> 00:04:53,580
+Ma è meraviglioso, figlio mio!
+
+84
+00:04:53,580 --> 00:04:55,730
+Oh, che meraviglia!
+
+85
+00:04:56,240 --> 00:04:57,560
+Tuttavia...
+
+86
+00:04:58,480 --> 00:05:00,650
+non riesco a usare l'abilità Grande Saggio.
+
+87
+00:05:00,520 --> 00:05:03,570
+Che tempo farà domani?
+
+88
+00:05:01,690 --> 00:05:03,570
+O meglio, ci riesco...
+
+89
+00:05:01,980 --> 00:05:03,570
+Soleggiato!
+
+90
+00:05:03,850 --> 00:05:05,550
+ma ogni volta che lo faccio,
+
+91
+00:05:05,550 --> 00:05:08,960
+mi viene un mal di testa tanto forte
+che preferirei morire.
+
+92
+00:05:08,960 --> 00:05:11,260
+Ecco perché non la uso.
+
+93
+00:05:11,740 --> 00:05:15,040
+Giusto ieri mi è capitato di sfogliare
+i testi antichi
+
+94
+00:05:15,040 --> 00:05:16,820
+e ho trovato questo passaggio:
+
+95
+00:05:17,670 --> 00:05:22,200
+"Ogni volta che il grande saggio del passato, Marlin,
+era tormentato da tremendi mal di testa,
+
+96
+00:05:22,200 --> 00:05:26,280
+chiedeva baci alle sue mogli."
+
+97
+00:05:26,670 --> 00:05:28,400
+Perché mai?
+
+98
+00:05:28,400 --> 00:05:32,560
+Evidentemente era un rimedio efficace
+contro il mal di testa! Ovvio!
+
+99
+00:05:32,560 --> 00:05:33,520
+Eh?
+
+100
+00:05:33,520 --> 00:05:36,140
+H-Ha senso, non credi?
+
+101
+00:05:37,150 --> 00:05:39,030
+In realtà potresti aver ragione...
+
+102
+00:05:41,010 --> 00:05:43,900
+T-Ti andrebbe di fare una prova?
+
+103
+00:05:44,300 --> 00:05:45,240
+Ne sei sicura?
+
+104
+00:05:45,900 --> 00:05:48,590
+B-B-Beh, con chi altri vorresti tentare?!
+
+105
+00:05:48,590 --> 00:05:51,630
+È solo un bacio! E noi ci conosciamo da sempre...
+
+106
+00:05:51,630 --> 00:05:54,520
+E siamo praticamente adulti, ormai!
+
+107
+00:05:55,720 --> 00:05:56,610
+Se è così...
+
+108
+00:05:56,610 --> 00:05:57,410
+Eh?!
+
+109
+00:06:01,170 --> 00:06:02,870
+A-Aspetta!
+
+110
+00:06:03,420 --> 00:06:06,800
+Troviamo un posto più adatto...
+
+111
+00:06:13,640 --> 00:06:15,980
+P-Procedi pure.
+
+112
+00:06:19,800 --> 00:06:21,150
+Spero tu sia pronta.
+
+113
+00:06:38,860 --> 00:06:39,960
+Puoi farcela!
+
+114
+00:06:43,240 --> 00:06:45,900
+Rispondi alla mia richiesta, Grande Saggio.
+
+115
+00:06:48,230 --> 00:06:49,330
+Come desideri.
+
+116
+00:06:50,110 --> 00:06:53,580
+Devo diventare più forte se voglio superare l'esame
+per l'Accademia degli Eroi.
+
+117
+00:06:53,580 --> 00:06:55,890
+C'è un modo efficace per diventare forti?
+
+118
+00:06:56,310 --> 00:06:58,770
+Devi esplorare un dungeon nascosto.
+
+119
+00:06:58,770 --> 00:07:02,520
+Un dungeon nascosto? Qual è il più vicino?
+
+120
+00:07:02,520 --> 00:07:06,670
+C'è una caverna 15.000 metri a sud-ovest di qui.
+
+121
+00:07:06,670 --> 00:07:10,530
+Attiva l'interruttore sulla parete
+e troverai il Labirinto Infini—
+
+122
+00:07:12,240 --> 00:07:13,530
+Il mal di testa mi sta uccidendo!
+
+123
+00:07:14,060 --> 00:07:15,700
+Dobbiamo baciarci di nuovo?
+
+124
+00:07:15,700 --> 00:07:16,830
+Sì, ti prego!
+
+125
+00:07:25,360 --> 00:07:27,550
+Mi sta passando...
+
+126
+00:07:40,160 --> 00:07:43,350
+La testa... ti fa male ancora?
+
+127
+00:07:43,350 --> 00:07:44,260
+Sì...
+
+128
+00:07:52,130 --> 00:07:53,610
+Ho tutto l'equipaggiamento che mi serve.
+
+129
+00:07:54,410 --> 00:07:56,870
+Ho persino preso in prestito una spada da mio padre.
+
+130
+00:08:05,610 --> 00:08:09,220
+È qui che si trova l'interruttore?
+
+131
+00:08:22,050 --> 00:08:25,140
+Per aprire la porta è necessaria la formula magica.
+
+132
+00:08:25,140 --> 00:08:27,230
+E la formula in questione è...
+
+133
+00:08:29,590 --> 00:08:32,060
+"Dungeon nascosto in cui solo io posso entrare!
+
+134
+00:08:32,060 --> 00:08:34,570
+Permettimi di allenarmi in segreto
+per diventare il più forte del mondo!"
+
+135
+00:08:50,750 --> 00:08:52,300
+Da questa parte.
+
+136
+00:09:12,630 --> 00:09:16,200
+E-Ehm... Sei viva, vero?
+
+137
+00:09:16,200 --> 00:09:18,490
+Prego... tocca la mia testa.
+
+138
+00:09:24,330 --> 00:09:26,830
+Mi chiamo Olivia Servant!
+
+139
+00:09:24,330 --> 00:09:29,880
+Mi chiamo Olivia Servant,
+sono un'avventuriera di super super prima qualità
+
+140
+00:09:26,830 --> 00:09:29,880
+Sono un'avventuriera
+di super super super prima qualità!
+
+141
+00:09:29,880 --> 00:09:33,800
+Vedi, mi sono imbattuta in questo dungeon nascosto
+durante una delle mie passeggiate.
+
+142
+00:09:33,800 --> 00:09:36,590
+Ho capito da sola come accedervi e sono entrata.
+
+143
+00:09:36,590 --> 00:09:40,720
+Ho incontrato un mostro al secondo piano
+e l'ho fatto fuori in due secondi.
+
+144
+00:09:40,720 --> 00:09:42,720
+Stava andando tutto bene,
+
+145
+00:09:43,420 --> 00:09:45,600
+ma poi si è attivata una trappola.
+
+146
+00:09:47,000 --> 00:09:50,470
+E da quel momento di 200 anni fa
+sono rimasta incatenata qui.
+
+147
+00:09:50,470 --> 00:09:51,780
+200 anni?!
+
+148
+00:09:51,780 --> 00:09:52,800
+Allora ti libero subi—
+
+149
+00:09:52,800 --> 00:09:56,740
+Fermo, un momento! Queste sono catene speciali,
+si chiamano Catene della Morte.
+
+150
+00:09:56,740 --> 00:09:59,360
+Se le spezzi, puoi anche dire addio a Olivia.
+
+151
+00:09:59,360 --> 00:10:02,030
+Eh? E allora perché mi hai fatto venire fin qui?
+
+152
+00:10:02,030 --> 00:10:04,340
+Ero in cerca di qualcuno con cui parlare.
+
+153
+00:10:04,340 --> 00:10:08,800
+Ero convinta che nessuno potesse sentirmi,
+ma poi sei comparso tu!
+
+154
+00:10:09,690 --> 00:10:14,030
+Non hai idea di quanto
+io abbia aspettato questo momento!
+
+155
+00:10:14,590 --> 00:10:19,480
+Piuttosto, se hai trovato questo dungeon,
+devi avere un gran potenziale.
+
+156
+00:10:19,480 --> 00:10:20,920
+Come ti chiami?
+
+157
+00:10:20,920 --> 00:10:22,470
+Noir Stardia.
+
+158
+00:10:22,470 --> 00:10:24,130
+Noir, eh?
+
+159
+00:10:24,130 --> 00:10:26,350
+E dimmi, cosa ti porta fin qui?
+
+160
+00:10:26,350 --> 00:10:27,840
+Beh...
+
+161
+00:10:30,090 --> 00:10:32,940
+Tutto chiaro, ho capito.
+
+162
+00:10:33,770 --> 00:10:36,360
+Ma sono certa che il Grande Saggio
+abbia detto anche questo!
+
+163
+00:10:36,360 --> 00:10:40,520
+"La super sexy Olivia è sigillata al secondo piano!"
+
+164
+00:10:40,520 --> 00:10:42,870
+No. Sono piuttosto sicuro che
+non sapesse della tua esistenza.
+
+165
+00:10:42,870 --> 00:10:46,940
+Beh, pazienza. Quindi vuoi diventare più forte, giusto?
+
+166
+00:10:46,940 --> 00:10:49,520
+Se è così puoi avere le mie abilità.
+
+167
+00:10:49,520 --> 00:10:50,370
+Eh?
+
+168
+00:10:50,370 --> 00:10:52,700
+Non posso andarmene nel breve termine...
+
+169
+00:10:52,700 --> 00:10:55,760
+Quindi dai, poggia la fronte contro la mia.
+
+170
+00:10:55,760 --> 00:10:58,260
+I-In questo modo?
+
+171
+00:11:01,800 --> 00:11:03,700
+Ta-dà!
+
+172
+00:11:03,700 --> 00:11:07,380
+Adesso sì che sei pieno di abilità, Noir.
+Le mie, ovviamente.
+
+173
+00:11:07,800 --> 00:11:10,590
+Ora posso morire senza rimpianti.
+
+174
+00:11:11,030 --> 00:11:13,270
+Ehi, aspetta! Non puoi mica morire così!
+
+175
+00:11:13,270 --> 00:11:15,460
+Come se potessi davvero morire.
+
+176
+00:11:15,460 --> 00:11:18,350
+D'ora in poi, puoi chiamarmi "Maestra".
+
+177
+00:11:19,280 --> 00:11:22,530
+Ora ti farò un breve riassunto delle mie abilità.
+
+178
+00:11:23,030 --> 00:11:24,790
+L'abilità Creazione.
+
+179
+00:11:24,790 --> 00:11:28,860
+In pratica puoi creare
+qualsiasi abilità ti venga in mente.
+
+180
+00:11:28,860 --> 00:11:30,270
+L'abilità Concessione.
+
+181
+00:11:30,270 --> 00:11:34,000
+Ti permette di donare a persone e oggetti
+le abilità che hai creato.
+
+182
+00:11:31,120 --> 00:11:31,790
+Noir
+
+183
+00:11:31,120 --> 00:11:31,790
+Ali
+
+184
+00:11:34,580 --> 00:11:36,310
+L'abilità Modifica.
+
+185
+00:11:36,290 --> 00:11:37,250
+Noir
+
+186
+00:11:36,290 --> 00:11:37,250
+Ali
+
+187
+00:11:36,630 --> 00:11:40,000
+Ti permette di modificare le tue abilità
+o quelle degli altri.
+
+188
+00:11:36,800 --> 00:11:37,250
+————
+
+189
+00:11:36,880 --> 00:11:37,250
+————
+
+190
+00:11:40,670 --> 00:11:43,670
+Quindi Creazione, Concessione e Modifica.
+
+191
+00:11:40,670 --> 00:11:51,350
+Abilità
+
+192
+00:11:40,670 --> 00:11:51,350
+Creazione
+
+193
+00:11:41,800 --> 00:11:51,350
+Concessione
+
+194
+00:11:42,550 --> 00:11:51,350
+Modifica
+
+195
+00:11:43,670 --> 00:11:47,240
+In base a quanto saprò sfruttarle,
+potrò creare attacchi spaventosamente potenti.
+
+196
+00:11:47,240 --> 00:11:49,020
+Ma fa' attenzione.
+
+197
+00:11:49,020 --> 00:11:53,470
+Per usare queste abilità
+hai bisogno di life points, o LP.
+
+198
+00:11:51,350 --> 00:11:53,940
+Life points
+
+199
+00:11:53,870 --> 00:11:57,350
+Più potente è l'abilità, più LP consuma,
+
+200
+00:11:53,940 --> 00:12:00,820
+Lento
+
+201
+00:11:53,940 --> 00:12:00,820
+Veloce
+
+202
+00:11:57,350 --> 00:12:00,700
+per cui assicurati di sfruttare la Conversione dei LP.
+
+203
+00:12:00,320 --> 00:12:08,700
+Conversione dei LP
+
+204
+00:12:00,700 --> 00:12:02,510
+Conversione dei LP?
+
+205
+00:12:02,510 --> 00:12:07,810
+Se fai qualcosa di piacevole,
+la tua soddisfazione viene convertita in LP.
+
+206
+00:12:08,700 --> 00:12:10,670
+Soddisfare i tuoi impulsi sessuali, ad esempio.
+
+207
+00:12:10,670 --> 00:12:13,160
+Il contatto con una persona dell'altro sesso
+che trovi affascinante.
+
+208
+00:12:13,160 --> 00:12:14,850
+Poi c'è la fame.
+
+209
+00:12:14,850 --> 00:12:17,660
+Va bene sia mangiare cibi deliziosi
+che assaporare delle prelibatezze.
+
+210
+00:12:17,660 --> 00:12:19,170
+E poi c'è il desiderio per le cose terrene.
+
+211
+00:12:19,170 --> 00:12:21,900
+Guadagna tanta grana e spendila
+come se non ci fosse un domani.
+
+212
+00:12:22,470 --> 00:12:24,960
+Q-Quindi mi stai dicendo di diventare un edonista.
+
+213
+00:12:25,500 --> 00:12:29,120
+Oh, a proposito.
+Se i tuoi LP scendono a zero, muori.
+
+214
+00:12:29,120 --> 00:12:31,590
+Questo magari potevi dirmelo prima.
+
+215
+00:12:31,590 --> 00:12:33,920
+Quanti LP hai al momento?
+
+216
+00:12:33,920 --> 00:12:35,270
+Concentrati.
+
+217
+00:12:35,270 --> 00:12:36,890
+V-Va bene.
+
+218
+00:12:37,950 --> 00:12:39,610
+550.
+
+219
+00:12:39,610 --> 00:12:43,740
+550, eh? Perché non fai una prova
+con l'abilità Creazione, allora?
+
+220
+00:12:43,740 --> 00:12:45,330
+D'accordo.
+
+221
+00:12:45,330 --> 00:12:46,370
+Allora vado.
+
+222
+00:12:52,840 --> 00:12:55,610
+Creazione: Proiettile di Pietra.
+
+223
+00:12:58,710 --> 00:13:00,000
+Abilità
+
+224
+00:12:58,710 --> 00:13:00,000
+Proiettile di Pietra
+
+225
+00:13:00,590 --> 00:13:03,590
+Noir Stardia  LP.550
+
+226
+00:13:00,590 --> 00:13:03,590
+Abilità [Grande Saggio]
+Abilità\h[Creazione] [Modifica]
+Abilità [Concessione]
+Abilità [Conversione dei LP]
+Abilità\h[Proiettile di pietra]
+
+227
+00:13:05,570 --> 00:13:09,680
+Proiettile di Pietra condensa la polvere
+nell'aria davanti alla mia mano...
+
+228
+00:13:10,170 --> 00:13:11,340
+e la usa per colpire!
+
+229
+00:13:14,830 --> 00:13:16,770
+L-L'ho sconfitto...
+
+230
+00:13:17,510 --> 00:13:19,610
+Ora però mi sento stanco.
+
+231
+00:13:20,370 --> 00:13:24,420
+D'ora in poi devo capire come racimolare LP.
+
+232
+00:13:24,950 --> 00:13:27,610
+Ma per oggi...
+
+233
+00:13:30,330 --> 00:13:32,590
+Oh, fratellone!
+
+234
+00:13:33,860 --> 00:13:38,670
+Le mie gambe sono comode come cusciotto... ehm, cuscino?
+
+235
+00:13:38,670 --> 00:13:41,420
+Ah, mi sento di nuovo vivo.
+
+236
+00:13:41,910 --> 00:13:44,230
+Potresti darmi anche un abbraccio
+della buonanotte?
+
+237
+00:13:45,900 --> 00:13:50,380
+Sono davvero fortunato ad avere
+una sorellina tanto carina e gentile!
+
+238
+00:13:50,470 --> 00:13:52,930
+Noir Stardia
+
+239
+00:13:54,200 --> 00:13:56,440
+The Hidden Dungeon Only I Can Enter.
+
+240
+00:14:01,640 --> 00:14:03,880
+Scusa l'attesa, Noir.
+
+241
+00:14:05,150 --> 00:14:08,640
+Scusa se ti ho chiamato così all'improvviso.
+
+242
+00:14:08,640 --> 00:14:11,140
+Ma no, figurati. Di cosa volevi parlare?
+
+243
+00:14:11,140 --> 00:14:12,820
+Avrei un favore da chiederti.
+
+244
+00:14:13,140 --> 00:14:15,970
+Aspetta, oggi mi sembri un po' diversa.
+
+245
+00:14:15,970 --> 00:14:18,310
+T-Tu dici?
+
+246
+00:14:18,310 --> 00:14:20,840
+In genere sei più pudica...
+
+247
+00:14:20,840 --> 00:14:23,490
+Beh, perché mi fissano tutti il seno!
+
+248
+00:14:23,490 --> 00:14:25,170
+È naturale che io cerchi di nasconderlo.
+
+249
+00:14:25,830 --> 00:14:28,050
+Non sono certo che questo vestito aiuti...
+
+250
+00:14:28,050 --> 00:14:30,860
+Certo che no, perché oggi
+dovrebbe essere un giorno speciale!
+
+251
+00:14:30,860 --> 00:14:32,280
+Noir, sei un idiota.
+
+252
+00:14:32,280 --> 00:14:34,330
+Scusa! Ero solo preoccupato per te.
+
+253
+00:14:34,330 --> 00:14:36,950
+Dopotutto ci conosciamo da sempre, sei preziosa per me.
+
+254
+00:14:36,950 --> 00:14:40,190
+Dirmi che sono preziosa non basta mica!
+
+255
+00:14:40,190 --> 00:14:43,150
+A-Allora... posso abbracciarti?
+
+256
+00:14:44,110 --> 00:14:45,610
+C-Certo...
+
+257
+00:14:47,840 --> 00:14:50,360
+Va bene... allora vado.
+
+258
+00:14:51,990 --> 00:14:55,190
+Il tuo profumo è così rilassante.
+
+259
+00:14:55,190 --> 00:14:56,660
+Per non parlare di...
+
+260
+00:14:56,660 --> 00:14:58,660
+Noir Stardia
+
+261
+00:14:58,870 --> 00:15:01,420
+Qualche ora prima
+
+262
+00:15:01,710 --> 00:15:03,830
+Quindi, Olivia...
+
+263
+00:15:03,830 --> 00:15:05,200
+Qualcuno ha parlato?
+
+264
+00:15:05,880 --> 00:15:07,840
+M-Maestra...
+
+265
+00:15:07,840 --> 00:15:09,050
+Sì?
+
+266
+00:15:09,050 --> 00:15:11,880
+Speravo di creare un'abilità che mi aiutasse
+
+267
+00:15:11,880 --> 00:15:13,930
+con l'esame per l'Accademia degli Eroi.
+
+268
+00:15:13,930 --> 00:15:16,090
+Questo si chiama barare!
+
+269
+00:15:16,090 --> 00:15:17,560
+Sei tremenda, lo sai vero?
+
+270
+00:15:17,560 --> 00:15:19,870
+E tu invece sei troppo santarellino.
+
+271
+00:15:19,870 --> 00:15:22,460
+Ecco perché ti hanno soffiato il lavoro.
+
+272
+00:15:23,520 --> 00:15:27,610
+Consuma ben 300 LP, ma ho l'abilità giusta per te.
+
+273
+00:15:27,610 --> 00:15:28,900
+Ti interessa?
+
+274
+00:15:28,900 --> 00:15:30,280
+Sì, ti prego!
+
+275
+00:15:30,650 --> 00:15:32,280
+In tal caso...
+
+276
+00:15:32,610 --> 00:15:40,160
+Occhio Perspicace
+
+277
+00:15:32,610 --> 00:15:40,160
+Permette di sbirciare
+le informazioni su ogni
+creatura o oggetto
+
+278
+00:15:32,960 --> 00:15:35,180
+Questa abilità consente di sbirciare
+ogni tipo di informazione...
+
+279
+00:15:35,180 --> 00:15:37,010
+Occhio Perspicace!
+
+280
+00:15:37,010 --> 00:15:40,290
+Con questa potrai affrontare l'esame senza problemi!
+
+281
+00:15:40,820 --> 00:15:42,500
+Grazie, Emma.
+
+282
+00:15:42,500 --> 00:15:45,630
+Figurati. In pratica è come un semplice saluto.
+
+283
+00:15:45,990 --> 00:15:49,230
+Bene, ora posso creare
+l'abilità Occhio Perspicace con Creazione.
+
+284
+00:15:49,170 --> 00:15:50,550
+Noir Stardia  LP.950
+
+285
+00:15:49,170 --> 00:15:52,130
+Abilità   [Grande Saggio]
+Abilità  \h[Creazione] [Modifica]
+Abilità \h [Concessione]
+Abilità \h [Conversione dei LP]
+Abilità \h [Proiettile di Pietra]
+Abilità   [Occhio Perspicace]
+
+286
+00:15:49,170 --> 00:15:52,130
+Noir Stardia  LP.650
+
+287
+00:15:53,350 --> 00:15:54,970
+Facciamo una prova.
+
+288
+00:15:56,550 --> 00:16:03,270
+Emma Brightness  Lv.17
+
+289
+00:15:56,550 --> 00:16:03,270
+Specie
+Professione
+Abilità
+
+290
+00:15:57,010 --> 00:16:03,270
+[Umana]
+[Bibliotecaria]
+[Due Pugnali (Grado C)]
+[Colpo di Vento]
+
+291
+00:15:57,130 --> 00:15:58,180
+Le vedo!
+
+292
+00:15:58,180 --> 00:16:00,600
+Questo vuol dire che supererò l'esame di sicuro!
+
+293
+00:16:00,600 --> 00:16:02,670
+Devo ringraziare Emma come si deve.
+
+294
+00:16:03,450 --> 00:16:06,220
+Ah, sento le spalle così rigide.
+
+295
+00:16:06,220 --> 00:16:07,730
+Il mio seno è troppo pesante.
+
+296
+00:16:08,210 --> 00:16:09,070
+Ci sono!
+
+297
+00:16:09,070 --> 00:16:15,070
+Abilità
+
+298
+00:16:09,070 --> 00:16:15,070
+Tette Piccole
+
+299
+00:16:09,330 --> 00:16:12,030
+Userò Creazione e poi assegnerò a Emma
+l'abilità Tette Piccole.
+
+300
+00:16:12,030 --> 00:16:15,060
+Servono 80 LP in totale per fare tutto...
+
+301
+00:16:12,070 --> 00:16:15,070
+Necessari per Creazione         LP.30
+Concessione a Emma              LP.50
+
+302
+00:16:15,410 --> 00:16:16,310
+Ecco!
+
+303
+00:16:27,000 --> 00:16:29,710
+C-Cos'è successo?!
+
+304
+00:16:29,710 --> 00:16:32,320
+C-Come? Perché?!
+
+305
+00:16:32,320 --> 00:16:35,000
+Ora le tue spalle non saranno più tanto rigide.
+
+306
+00:16:35,000 --> 00:16:37,810
+Tranquilla, le tette piccole piacciono
+a tantissime persone. Non è fantastico?
+
+307
+00:16:37,810 --> 00:16:39,350
+Ma fai sul serio?
+
+308
+00:16:39,350 --> 00:16:40,250
+Certo!
+
+309
+00:16:40,250 --> 00:16:42,430
+Anche se devo dire che io le preferisco grandi.
+
+310
+00:16:42,430 --> 00:16:46,190
+Ridammi subito le mie tette, brutto idiota!
+
+311
+00:16:46,680 --> 00:16:49,560
+Alla fine ho usato Modifica
+e le ho fatte tornare come prima.
+
+312
+00:16:50,000 --> 00:16:51,940
+Che spreco di LP...
+
+313
+00:16:52,740 --> 00:16:54,950
+Accademia degli Eroi        Il giorno dell'esame
+
+314
+00:16:54,950 --> 00:16:56,280
+Credi di farcela?
+
+315
+00:16:56,280 --> 00:16:57,530
+Ma certo.
+
+316
+00:16:57,530 --> 00:16:59,480
+Baroni e visconti...
+
+317
+00:16:59,480 --> 00:17:02,910
+Sono su tutto un altro livello
+rispetto a un baronetto come me.
+
+318
+00:17:03,500 --> 00:17:06,040
+Comincerà ora l'esame d'ingresso.
+
+319
+00:17:06,040 --> 00:17:09,330
+Dovrete raccogliere materiali dai mostri.
+
+320
+00:17:09,330 --> 00:17:12,300
+Verrete giudicati in base alla quantità e alla rarità
+dei materiali che riporterete qui.
+
+321
+00:17:12,300 --> 00:17:16,430
+Si tratta di una competizione a squadre,
+vi dividerete in gruppi di tre.
+
+322
+00:17:16,800 --> 00:17:18,920
+Se tornerete a mani vuote, sarete bocciati!
+
+323
+00:17:18,920 --> 00:17:19,800
+È tutto!
+
+324
+00:17:19,800 --> 00:17:21,200
+Dobbiamo formare una squadra?
+
+325
+00:17:21,200 --> 00:17:22,570
+Nessuno ce l'aveva detto.
+
+326
+00:17:22,570 --> 00:17:24,330
+Farò meglio a sbrigarmi a trovare qualcuno.
+
+327
+00:17:25,190 --> 00:17:27,580
+S-Scusatemi. Vi andrebbe di...
+
+328
+00:17:27,580 --> 00:17:31,200
+Hm? Puzzi di baronetto.
+
+329
+00:17:36,500 --> 00:17:37,540
+Uhm...
+
+330
+00:17:38,500 --> 00:17:40,610
+No, non mi va di associarmi
+a della spazzatura come te.
+
+331
+00:17:43,200 --> 00:17:44,750
+Spazzatura, eh?
+
+332
+00:17:49,080 --> 00:17:50,420
+Ehi, facciamo squadra insieme?
+
+333
+00:17:51,500 --> 00:17:53,740
+Ehilà, Noir!
+
+334
+00:17:53,740 --> 00:17:56,380
+E-Emma? Tu che ci fai qui?
+
+335
+00:17:56,380 --> 00:17:58,240
+E il tuo lavoro da bibliotecaria?
+
+336
+00:17:58,240 --> 00:18:02,430
+L'ho lasciato. Ho deciso di provare
+anch'io ad entrare all'Accademia degli Eroi.
+
+337
+00:18:02,430 --> 00:18:05,560
+N-Non posso credere tu l'abbia lasciato così...
+
+338
+00:18:05,560 --> 00:18:07,590
+Beh, non mi permetteva di stare con te.
+
+339
+00:18:08,310 --> 00:18:11,940
+Noir, che stupido che sei.
+Dai, facciamo squadra insieme.
+
+340
+00:18:13,700 --> 00:18:15,640
+Ehi, volete formare un gruppo?
+
+341
+00:18:16,650 --> 00:18:18,790
+Mi chiamo Lenore Bludon.
+
+342
+00:18:18,790 --> 00:18:21,490
+Non c'è bisogno di essere formali con me.
+Più siete informali, meglio è.
+
+343
+00:18:22,010 --> 00:18:25,390
+Io sono Emma Brightness, mia signo... Lenore.
+
+344
+00:18:25,390 --> 00:18:29,060
+Brightness? Ah, una famiglia di baroni.
+
+345
+00:18:29,520 --> 00:18:31,530
+Io mi chiamo Noir Stardia.
+
+346
+00:18:31,530 --> 00:18:34,040
+Non ho chiesto il tuo nome.
+
+347
+00:18:34,040 --> 00:18:37,570
+Perché dovrei disturbarmi a ricordare
+il nome di un baronetto?
+
+348
+00:18:38,380 --> 00:18:39,580
+Bene, ci siamo!
+
+349
+00:18:39,580 --> 00:18:44,110
+Raccogliete più materiali possibile
+entro domani a mezzogiorno.
+
+350
+00:18:44,710 --> 00:18:46,630
+Potete ottenerli in qualunque modo preferiate.
+
+351
+00:18:46,630 --> 00:18:47,770
+Iniziate!
+
+352
+00:18:47,770 --> 00:18:48,470
+Il mercato!
+
+353
+00:18:48,470 --> 00:18:49,640
+Comprerò tutto io!
+
+354
+00:18:49,640 --> 00:18:52,910
+Q-Quindi si possono anche comprare?
+
+355
+00:18:52,910 --> 00:18:56,650
+Immagino di sì. Non ha mai detto che
+è obbligatorio sconfiggere i mostri, per cui...
+
+356
+00:18:56,650 --> 00:18:59,400
+Dividiamoci.
+
+357
+00:18:59,960 --> 00:19:03,740
+Vedi di non trascinarci a fondo, Signor
+Gradino Più Basso della Scala Aristocratica.
+
+358
+00:19:04,240 --> 00:19:07,350
+Chi è più ricco parte avvantaggiato, a quanto pare.
+
+359
+00:19:07,350 --> 00:19:08,320
+Già...
+
+360
+00:19:08,820 --> 00:19:10,700
+Che hai intenzione di fare, Noir?
+
+361
+00:19:10,700 --> 00:19:13,630
+Se vuoi raccogliere materiali cacciando,
+vengo insieme a te.
+
+362
+00:19:13,630 --> 00:19:16,100
+No, tu aspetta qui, Emma.
+
+363
+00:19:16,490 --> 00:19:18,520
+Ho un'idea.
+
+364
+00:19:19,720 --> 00:19:22,930
+Ero certo di trovare tantissimi mostri rari
+nel dungeon nascosto.
+
+365
+00:19:22,930 --> 00:19:26,390
+Ecco perché sono salito al terzo piano, però...
+
+366
+00:19:27,600 --> 00:19:29,850
+Stiamo forse scherzando?!
+
+367
+00:19:30,940 --> 00:19:33,370
+Io sono ancora al livello 23...
+
+368
+00:19:30,940 --> 00:19:37,690
+Mietitore Lv.99
+
+369
+00:19:30,940 --> 00:19:37,690
+Abilità [Fendente Mortale]
+Abilità  Ogni danno inferto al nemico con la
+Abilità  Falce si tradurrà in Morte Istantanea.
+Abilità  Questo effetto può essere evitato
+Abilità  solo tramite specifica resistenza.
+
+370
+00:19:33,750 --> 00:19:36,960
+Senza contare che se mi prende con quella falce
+per me è morte istantanea.
+
+371
+00:19:47,360 --> 00:19:51,330
+S-Se usassi l'abilità Modifica per eliminare
+il suo attacco che causa Morte Istantanea...
+
+372
+00:19:52,330 --> 00:19:56,790
+Abilità [Fendente Mortale]
+
+373
+00:19:52,540 --> 00:19:56,790
+LP per eliminare:  4000
+
+374
+00:19:53,680 --> 00:19:55,880
+Impossibile! Morirei letteralmente 8 volte!
+
+375
+00:19:59,050 --> 00:20:08,010
+Noir Stardia
+
+376
+00:19:59,600 --> 00:20:01,780
+Ho creato l'abilità Pesante
+e l'ho assegnata al Mietitore.
+
+377
+00:20:02,860 --> 00:20:04,900
+Per ora sono riuscito a fermarlo, ma...
+
+378
+00:20:04,900 --> 00:20:07,720
+mi è costata 200 LP.
+
+379
+00:20:10,350 --> 00:20:12,380
+Mi sento mancare le forze...
+
+380
+00:20:13,230 --> 00:20:16,790
+Ho perso così tanti LP
+da sentire la mia vita che fluisce via...
+
+381
+00:20:17,230 --> 00:20:19,460
+Però... devo farcela...
+
+382
+00:20:19,460 --> 00:20:20,990
+Non c'è altra scelta!
+
+383
+00:20:28,060 --> 00:20:32,500
+Userò 100 LP per l'abilità Modifica
+e ingrandirò il Proiettile di Pietra fino a 100 cm!
+
+384
+00:20:28,870 --> 00:20:34,000
+Noir Stardia
+
+385
+00:20:28,870 --> 00:20:34,000
+Proiettile di Pietra
+
+386
+00:20:35,420 --> 00:20:38,880
+Sai, ti trovo un po' troppo magro.
+Sicuro di mangiare a sufficienza?
+
+387
+00:20:38,880 --> 00:20:42,330
+Ecco a te. Questo dovrebbe saziarti!
+
+388
+00:20:43,690 --> 00:20:45,390
+Proiettile di Pietra 100!
+
+389
+00:20:55,980 --> 00:20:58,730
+Noir Stardia
+
+390
+00:20:56,870 --> 00:20:58,730
+S-Sono esausto...
+
+391
+00:21:03,430 --> 00:21:08,490
+Ora annuncerò le migliori tre squadre
+stando ai risultati dell'esame d'ingresso.
+
+392
+00:21:08,490 --> 00:21:12,370
+Non ha ancora nominato il nostro gruppo.
+
+393
+00:21:12,370 --> 00:21:14,040
+G-Già...
+
+394
+00:21:14,620 --> 00:21:20,210
+Al terzo posto, il Team Genos con 5.890 punti.
+
+395
+00:21:21,150 --> 00:21:26,070
+Al secondo posto, il Team Elizabeth con 11.550 punti!
+
+396
+00:21:26,070 --> 00:21:28,310
+N-Niente ancora, non ci ha nominati.
+
+397
+00:21:28,830 --> 00:21:30,430
+Forse non siamo proprio entrati in classifica...
+
+398
+00:21:30,430 --> 00:21:33,280
+D-Dovremmo essere andati bene...
+
+399
+00:21:33,280 --> 00:21:35,060
+Cioè, la Maestra ha detto...
+
+400
+00:21:35,980 --> 00:21:39,520
+Non risulterebbe strano
+se portassi questo all'esame?
+
+401
+00:21:39,520 --> 00:21:40,230
+In effetti sì.
+
+402
+00:21:40,230 --> 00:21:42,560
+Ma è sicuramente meglio di uno slime dorato,
+
+403
+00:21:42,560 --> 00:21:43,980
+che non esiste in questo continente.
+
+404
+00:21:43,980 --> 00:21:46,110
+Tanto è un mostro come un altro, andrà bene.
+
+405
+00:21:46,420 --> 00:21:50,210
+P-Però... se non ci nominano nemmeno...
+
+406
+00:21:52,120 --> 00:21:53,840
+E al primo posto...
+
+407
+00:21:56,830 --> 00:22:00,460
+il Team Lenore con 128.000 punti!
+
+408
+00:22:01,070 --> 00:22:03,630
+128...
+
+409
+00:22:03,630 --> 00:22:05,090
+128.000...
+
+410
+00:22:05,090 --> 00:22:09,090
+Tra i loro materiali hanno portato
+il teschio del diabolico mietitore.
+
+411
+00:22:09,090 --> 00:22:12,340
+Con questo punteggio passano l'esame
+e allo stesso tempo riscrivono la storia.
+
+412
+00:22:12,340 --> 00:22:16,390
+C-Che dicevi riguardo al fatto che
+si trattava di un mostro qualunque, Maestra?
+
+413
+00:22:16,390 --> 00:22:19,290
+Ops, colpa mia.
+
+414
+00:22:19,290 --> 00:22:22,240
+Un mietitore per me è una cosa da nulla,
+
+415
+00:22:22,240 --> 00:22:25,190
+ma immagino che per uno studente
+ucciderne uno sia una specie di miracolo.
+
+416
+00:22:25,700 --> 00:22:27,500
+Beh, pazienza.
+
+417
+00:22:29,200 --> 00:22:33,450
+E così ho passato senza problemi
+l'esame per l'Accademia degli Eroi.
+
+418
+00:22:33,450 --> 00:22:37,460
+La mia famiglia ne è entusiasta
+e questo ha messo tutti di buonumore.
+
+419
+00:22:37,840 --> 00:22:40,480
+O almeno era così fino a quando
+abbiamo visto la tassa d'iscrizione.
+
+420
+00:22:40,920 --> 00:22:43,160
+300.000 rel?
+
+421
+00:22:43,160 --> 00:22:45,960
+Come mi procuro tutti questi soldi?
+
+422
+00:24:17,710 --> 00:24:20,270
+Prossimo episodio, "La gilda e l'addetta alla reception".
+
+423
+00:24:18,310 --> 00:24:21,980
+#02 "La gilda e l'addetta alla reception"
+
+424
+00:24:21,980 --> 00:24:27,730
+Illustrazione: Shiratama

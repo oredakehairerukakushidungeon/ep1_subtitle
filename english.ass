@@ -1,0 +1,484 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,1,0,3,0010,0045,0050,1
+Style: sign_3576_25_Aristocratic_Soc,Times New Roman,34,&H0059A7BA,&H000000FF,&H00FFFFFF,&H00376179,-1,0,0,0,100,100,0,0,1,2,3,8,0158,0158,0080,1
+Style: sign_3704_34_Baron,Arial,16,&H00131D2B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0132,0455,0263,1
+Style: sign_6789_82_Skill__Great_Sag,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H8021232A,-1,0,0,0,100,100,0,0,1,2,1,2,0203,0213,0075,1
+Style: Text_Box_Body,Arial,24,&HA0000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0000,0000,0020,1
+Style: Text_Box_Text,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,1,4,0164,0098,0000,1
+Style: sign_7206_94_Q__What_s_tomorr,Comic Sans MS,22,&H00DD7E60,&H000000FF,&H00C0705B,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,4,0010,0390,0000,1
+Style: sign_16800_201_Skills_,Arial,24,&H00656464,&H000000FF,&H00494243,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,3,8,0281,0281,0059,1
+Style: Time/Place_Setting,Arial,24,&H00FFFFFF,&H000000FF,&HB421232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,0,2,0208,0208,0085,1
+Style: Illustration,Trebuchet MS,20,&H00E166E7,&H000000FF,&H00FFFFFF,&H00D683DB,0,0,0,0,100,100,0,0,1,1,1,3,0383,0040,0045,1
+Style: Next_Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,2,0,1,0040,0010,0055,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.21,0:00:12.82,Narration,Narrator,0000,0000,0000,,This world is filled with dungeons.
+Dialogue: 0,0:00:24.70,0:00:30.76,Narration,Narrator,0000,0000,0000,,It is said that some of them even have \Nperilous labyrinths that thwart adventurers.
+Dialogue: 0,0:00:31.26,0:00:32.38,Narration,Narrator,0000,0000,0000,,Undiscovered.
+Dialogue: 0,0:00:32.38,0:00:33.55,Narration,Narrator,0000,0000,0000,,Untrodden.
+Dialogue: 0,0:00:33.55,0:00:35.30,Narration,Narrator,0000,0000,0000,,Unreachable.
+Dialogue: 0,0:00:35.68,0:00:40.04,Narration,Narrator,0000,0000,0000,,People called these places rich in mystery...
+Dialogue: 0,0:00:40.51,0:00:42.61,Narration,Narrator,0000,0000,0000,,hidden dungeons!
+Dialogue: 0,0:00:51.96,0:00:54.50,Main,Olivia,0000,0000,0000,,Welcome...
+Dialogue: 0,0:00:56.24,0:01:00.08,Main,Olivia,0000,0000,0000,,Come forth, brave one.
+Dialogue: 0,0:01:01.24,0:01:04.25,Main,Olivia,0000,0000,0000,,I await you on the second floor.
+Dialogue: 0,0:01:14.20,0:01:15.68,Main,Olivia,0000,0000,0000,,This way.
+Dialogue: 0,0:01:24.64,0:01:26.10,Main,Olivia,0000,0000,0000,,This way.
+Dialogue: 0,0:01:45.73,0:01:49.69,Ep_Title,Sign,0000,0000,0000,,{\fad(459,500)\blur1.5\fscx96}#01 "Powerful Skill Set"
+Dialogue: 0,0:01:52.24,0:01:55.76,Italics,Noir,0000,0000,0000,,I, Noir Stardia, \Nam the third son of a noble.
+Dialogue: 0,0:01:56.65,0:01:59.18,Italics,Noir,0000,0000,0000,,After graduating from the \NJastal Preparatory School,
+Dialogue: 0,0:01:59.18,0:02:01.89,Italics,Noir,0000,0000,0000,,I decided to pursue a career \Ninstead of higher education.
+Dialogue: 0,0:02:05.72,0:02:08.62,Italics,Noir,0000,0000,0000,,Today was supposed to be \Nmy first day on the job, but...
+Dialogue: 0,0:02:11.40,0:02:14.73,Main,Noir,0000,0000,0000,,Father? Mother? What's wrong?
+Dialogue: 0,0:02:14.73,0:02:17.84,Main,Father,0000,0000,0000,,Well, that library you're \Nsupposed to work at...
+Dialogue: 0,0:02:18.39,0:02:20.87,Main,Noir,0000,0000,0000,,Yes, today's my first day.
+Dialogue: 0,0:02:20.87,0:02:24.11,Main,Father,0000,0000,0000,,Actually, the viscount's son interfered,
+Dialogue: 0,0:02:24.11,0:02:26.20,Main,Father,0000,0000,0000,,and you won't be able to work there after all.
+Dialogue: 0,0:02:26.20,0:02:27.12,Main,Noir,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:29.12,0:02:30.88,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(320,689)}Aristocratic Society
+Dialogue: 0,0:02:30.71,0:02:34.43,Italics,Noir,0000,0000,0000,,We may be nobles, but the Stardia \Nfamily only held a baronetcy.
+Dialogue: 0,0:02:30.96,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(316,685)\fs20\shad1\3c&HDCDFD6&\bord1\pos(318,242)\c&H121E12&\4c&H7F5165&\fnTrebuchet MS}Baronet
+Dialogue: 0,0:02:31.00,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(526,685)\fs20\shad1\3c&HA2DEAA&\bord1\pos(318,157)\c&H55A261&\4c&H278C46&}Viscount
+Dialogue: 0,0:02:31.00,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(442,685)\fs20\shad1\3c&HF2C2BA&\bord1\pos(318,199)\fnArial\c&H8E4338&\4c&HAF703A&}Baron
+Dialogue: 0,0:02:31.04,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(611,685)\fs20\shad1\3c&HAFC9D2&\bord1\pos(318,117)\c&H6C8CC1&\4c&H374B6D&}Earl
+Dialogue: 0,0:02:31.08,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(696,685)\fs20\shad1\3c&HD3D7D1&\bord1\pos(318,74)\c&H92918E&\4c&H73767E&}Marquess
+Dialogue: 0,0:02:31.17,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(731,685)\fs20\shad1\3c&HAFC9D2&\bord1\pos(318,29)}Duke
+Dialogue: 0,0:02:34.46,0:02:40.43,Main,Sign,0000,0000,0000,,{\fad(695,980)\fnTimes New Roman\b1\fs28\c&H000000&\bord0\shad0\an5\pos(320,305)}Librarian
+Dialogue: 0,0:02:34.46,0:02:40.43,sign_3704_34_Baron,Sign,0000,0000,0000,,{\fad(695,980)}Baron
+Dialogue: 0,0:02:34.46,0:02:40.43,sign_3704_34_Baron,Sign,0000,0000,0000,,{\fad(695,980)\pos(254,103)}Baron
+Dialogue: 0,0:02:34.46,0:02:40.43,sign_3704_34_Baron,Sign,0000,0000,0000,,{\fad(695,980)\pos(480,104)\fscx80}Viscount
+Dialogue: 0,0:02:34.46,0:02:40.43,sign_3704_34_Baron,Sign,0000,0000,0000,,{\fad(695,980)\pos(390,97)}Earl
+Dialogue: 0,0:02:36.30,0:02:40.43,sign_3704_34_Baron,Sign,0000,0000,0000,,{\fad(1,980)\pos(320,85)}Viscount
+Dialogue: 0,0:02:36.63,0:02:39.86,Italics,Noir,0000,0000,0000,,We're just poor nobles who stand no \Nchance against anyone ranked higher.
+Dialogue: 0,0:02:42.55,0:02:45.73,Main,Noir,0000,0000,0000,,Father, please raise your head.
+Dialogue: 0,0:02:45.73,0:02:48.95,Main,Noir,0000,0000,0000,,I absolutely deplore you... \NI mean, adore you, Father.
+Dialogue: 0,0:02:48.95,0:02:51.29,Main,Noir's Father,0000,0000,0000,,You totally meant the first part!
+Dialogue: 0,0:02:51.29,0:02:54.74,Main,Noir,0000,0000,0000,,But I guess the real question is... \Nwhat do I do now?
+Dialogue: 0,0:02:54.74,0:02:57.23,Main,Noir,0000,0000,0000,,You shitty father... I mean, Father.
+Dialogue: 0,0:02:57.23,0:03:00.62,Main,Noir's Father,0000,0000,0000,,You didn't even hesitate that time! \NI felt that malice!
+Dialogue: 0,0:03:00.62,0:03:03.30,Main,Noir's Father,0000,0000,0000,,I feel your anger, my son!
+Dialogue: 0,0:03:03.30,0:03:05.19,Main,Alice,0000,0000,0000,,I will not accept this!
+Dialogue: 0,0:03:05.19,0:03:08.42,Main,Alice,0000,0000,0000,,Who is this fiend who took \Nmy dearest brother's position?
+Dialogue: 0,0:03:08.42,0:03:09.89,Main,Alice,0000,0000,0000,,I will go talk to them personally!
+Dialogue: 0,0:03:09.89,0:03:15.25,Main,Noir,0000,0000,0000,,Alice, I appreciate it, but we're \Ntalking about the son of a viscount.
+Dialogue: 0,0:03:15.25,0:03:16.21,Main,Noir's Father,0000,0000,0000,,Uh-huh! Uh-huh!
+Dialogue: 0,0:03:17.24,0:03:20.28,Main,Alice,0000,0000,0000,,But... that's simply not fair, \Nmy dear brother!
+Dialogue: 0,0:03:20.83,0:03:25.64,Main,Alice,0000,0000,0000,,I know! Why not take the exam \Nfor the Hero Academy?
+Dialogue: 0,0:03:25.92,0:03:28.02,Main,Noir,0000,0000,0000,,The Hero Academy, eh?
+Dialogue: 0,0:03:28.47,0:03:33.61,Italics,Noir,0000,0000,0000,,Those who graduate from the Hero Academy \Ncan become monster hunters or royal knights.
+Dialogue: 0,0:03:33.61,0:03:37.18,Italics,Noir,0000,0000,0000,,Basically, you're set for life if you make it there.
+Dialogue: 0,0:03:38.71,0:03:40.64,Main,Noir,0000,0000,0000,,I'd never pass.
+Dialogue: 0,0:03:40.64,0:03:42.46,Main,Alice,0000,0000,0000,,You should at least try!
+Dialogue: 0,0:03:42.46,0:03:45.16,Main,Alice,0000,0000,0000,,If you don't make it, \NI'll take care of you myself!
+Dialogue: 0,0:03:45.61,0:03:47.91,Main,Noir,0000,0000,0000,,Th-Thanks...
+Dialogue: 0,0:03:51.60,0:03:53.56,Main,Emma,0000,0000,0000,,Noir!
+Dialogue: 0,0:03:56.55,0:03:58.49,Main,Emma,0000,0000,0000,,Hey!
+Dialogue: 0,0:03:59.13,0:04:00.52,Main,Emma,0000,0000,0000,,Morning!
+Dialogue: 0,0:04:00.98,0:04:02.62,Main,Noir,0000,0000,0000,,Morning, Emma.
+Dialogue: 0,0:04:02.62,0:04:05.44,Italics,Noir,0000,0000,0000,,This is Emma Brightness.
+Dialogue: 0,0:04:05.44,0:04:08.75,Italics,Noir,0000,0000,0000,,She was born into a barony, \Nmeaning her family is wealthy,
+Dialogue: 0,0:04:08.75,0:04:10.70,Italics,Noir,0000,0000,0000,,but our parents are friends,
+Dialogue: 0,0:04:10.70,0:04:12.60,Italics,Noir,0000,0000,0000,,and she's been my friend since we were kids.
+Dialogue: 0,0:04:12.60,0:04:15.58,Main,Emma,0000,0000,0000,,We're both going to be \Nlibrarians starting today!
+Dialogue: 0,0:04:15.58,0:04:17.11,Main,Emma,0000,0000,0000,,Let us do our best!
+Dialogue: 0,0:04:17.75,0:04:20.99,Main,Noir,0000,0000,0000,,Actually, about that, Emma...
+Dialogue: 0,0:04:20.99,0:04:22.36,Main,Emma,0000,0000,0000,,What?!
+Dialogue: 0,0:04:22.36,0:04:26.02,Main,Emma,0000,0000,0000,,Th-Th-Then... you can't be a librarian?
+Dialogue: 0,0:04:26.45,0:04:27.48,Main,Noir,0000,0000,0000,,No...
+Dialogue: 0,0:04:28.20,0:04:29.49,Main,Emma,0000,0000,0000,,But...
+Dialogue: 0,0:04:31.33,0:04:33.49,Main,Noir,0000,0000,0000,,Y-You're that disappointed?
+Dialogue: 0,0:04:33.49,0:04:34.89,Main,Emma,0000,0000,0000,,Well, I mean...
+Dialogue: 0,0:04:34.89,0:04:37.61,Main,Emma,0000,0000,0000,,I had some really good news!
+Dialogue: 0,0:04:38.14,0:04:40.09,Main,Emma,0000,0000,0000,,About your skill.
+Dialogue: 0,0:04:40.09,0:04:42.76,Main,Noir,0000,0000,0000,,Skill? You mean my Great Sage skill?
+Dialogue: 0,0:04:43.13,0:04:50.89,Text_Box_Body,,0000,0000,0000,,{\1a&HFF&\3a&HFF&\3c&H000000&\p1\fscx424\fscy304\bord5.5\blur1\pos(317,210)\t(2865,3281,1 \3a&H00&)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:04:43.13,0:04:50.89,Text_Box_Body,,0000,0000,0000,,{\1a&HFF&\3a&HFF&\p1\fscx424\fscy304\bord4\pos(317,210)\t(2865,3281,1 \1a&H99&\3a&H00&)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:04:43.13,0:04:50.89,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(403,1)\move(315,225,315,185,2656,3281)}Skill {\fs30\fscy110}[Great Sage]
+Dialogue: 0,0:04:43.35,0:04:46.32,Italics,Noir,0000,0000,0000,,{\an8}The Great Sage skill \Nis my one and only skill.
+Dialogue: 0,0:04:46.22,0:04:50.89,Text_Box_Text,Sign,0000,0000,0000,,{\fad(399,1)\pos(164,210)}Tells the user everything about the world\N(even the unexplained).
+Dialogue: 0,0:04:46.75,0:04:49.27,Italics,Noir,0000,0000,0000,,{\an8}It tells me everything about the world.
+Dialogue: 0,0:04:49.27,0:04:50.89,Italics,Noir,0000,0000,0000,,{\an8}It's a pretty rare skill.
+Dialogue: 0,0:04:51.24,0:04:55.73,Italics,Noir,0000,0000,0000,,My parents jumped for joy when they \Nhad my skill appraised at the church.
+Dialogue: 0,0:04:51.94,0:04:53.58,Flashback,Dad,0000,0000,0000,,{\an8}Fantastic, my son!
+Dialogue: 0,0:04:53.58,0:04:55.73,Flashback,Mom,0000,0000,0000,,{\an8}Oh, how wonderful!
+Dialogue: 0,0:04:56.24,0:04:57.56,Italics,Noir,0000,0000,0000,,But...
+Dialogue: 0,0:04:58.48,0:05:00.65,Italics,Noir,0000,0000,0000,,I can't use the Great Sage skill.
+Dialogue: 0,0:05:00.52,0:05:03.57,sign_7206_94_Q__What_s_tomorr,Sign,0000,0000,0000,,{\pos(10,155)}Q: What's tomorrow's\N\h\h\h\hweather forecast?
+Dialogue: 0,0:05:01.69,0:05:03.57,Italics,Noir,0000,0000,0000,,Well, actually, I can...
+Dialogue: 0,0:05:01.98,0:05:03.57,sign_7206_94_Q__What_s_tomorr,Sign,0000,0000,0000,,{\c&H4B39EB&\3c&H4E3ECC&\pos(428,146)}A: It'll be sunny!
+Dialogue: 0,0:05:03.85,0:05:05.55,Italics,Noir,0000,0000,0000,,But every time I use it,
+Dialogue: 0,0:05:05.55,0:05:08.96,Italics,Noir,0000,0000,0000,,I'm plagued with a headache \Nso bad that I wish for death.
+Dialogue: 0,0:05:08.96,0:05:11.26,Italics,Noir,0000,0000,0000,,Which is why I don't use it.
+Dialogue: 0,0:05:11.74,0:05:15.04,Main,Emma,0000,0000,0000,,I just happened to be going through \Nthe ancient texts yesterday,
+Dialogue: 0,0:05:15.04,0:05:16.82,Main,Emma,0000,0000,0000,,and I found this passage...
+Dialogue: 0,0:05:17.67,0:05:22.20,Main,Emma,0000,0000,0000,,"Whenever the great sage of old, Marlin, \Nwas plagued with terrible headaches,
+Dialogue: 0,0:05:22.20,0:05:26.28,Main,Emma,0000,0000,0000,,he demanded kisses from his wives."
+Dialogue: 0,0:05:26.67,0:05:28.40,Main,Noir,0000,0000,0000,,Why, though?
+Dialogue: 0,0:05:28.40,0:05:32.56,Main,Emma,0000,0000,0000,,They must've been effective \Nagainst his headaches! Duh!
+Dialogue: 0,0:05:32.56,0:05:33.52,Main,Noir,0000,0000,0000,,What?
+Dialogue: 0,0:05:33.52,0:05:36.14,Main,Emma,0000,0000,0000,,Th-That makes sense, doesn't it?
+Dialogue: 0,0:05:37.15,0:05:39.03,Main,Noir,0000,0000,0000,,Actually, you might have a point.
+Dialogue: 0,0:05:41.01,0:05:43.90,Main,Emma,0000,0000,0000,,D-Do you want to give it a try?
+Dialogue: 0,0:05:44.30,0:05:45.24,Main,Noir,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:05:45.90,0:05:48.59,Main,Emma,0000,0000,0000,,W-W-Well, who else are \Nyou going to try that with?!
+Dialogue: 0,0:05:48.59,0:05:51.63,Main,Emma,0000,0000,0000,,It's just a kiss! And we've known \Neach other forever...
+Dialogue: 0,0:05:51.63,0:05:54.52,Main,Emma,0000,0000,0000,,And we're totally adults!
+Dialogue: 0,0:05:55.72,0:05:56.61,Main,Noir,0000,0000,0000,,In that case...
+Dialogue: 0,0:05:56.61,0:05:57.41,Main,Emma,0000,0000,0000,,Huh?!
+Dialogue: 0,0:06:01.17,0:06:02.87,Main,Emma,0000,0000,0000,,W-Wait.
+Dialogue: 0,0:06:03.42,0:06:06.80,Main,Emma,0000,0000,0000,,Let's find a better spot...
+Dialogue: 0,0:06:13.64,0:06:15.98,Main,Emma,0000,0000,0000,,Y-You can go ahead.
+Dialogue: 0,0:06:19.80,0:06:21.15,Main,Noir,0000,0000,0000,,I hope you're ready.
+Dialogue: 0,0:06:38.86,0:06:39.96,Main,Emma,0000,0000,0000,,You can do it!
+Dialogue: 0,0:06:43.24,0:06:45.90,Italics,Noir,0000,0000,0000,,Answer my query, Great Sage.
+Dialogue: 0,0:06:48.23,0:06:49.33,Main,Great Sage,0000,0000,0000,,As you wish.
+Dialogue: 0,0:06:50.11,0:06:53.58,Italics,Noir,0000,0000,0000,,I want to become stronger so I can pass \Nthe exam for the Hero Academy.
+Dialogue: 0,0:06:53.58,0:06:55.89,Italics,Noir,0000,0000,0000,,What's the most efficient way \Nto become stronger?
+Dialogue: 0,0:06:56.31,0:06:58.77,Main,Great Sage,0000,0000,0000,,Explore a hidden dungeon.
+Dialogue: 0,0:06:58.77,0:07:02.52,Italics,Noir,0000,0000,0000,,A hidden dungeon? Where's the closest one?
+Dialogue: 0,0:07:02.52,0:07:06.67,Main,Great Sage,0000,0000,0000,,There lies a cave 15,000 meters \Nsouthwest of here.
+Dialogue: 0,0:07:06.67,0:07:10.53,Main,Great Sage,0000,0000,0000,,Activate the switch in the wall, \Nand you will find the Infinite Labyrin—
+Dialogue: 0,0:07:12.24,0:07:13.53,Main,Noir,0000,0000,0000,,My head's killing me!
+Dialogue: 0,0:07:14.06,0:07:15.70,Main,Emma,0000,0000,0000,,Should we kiss again?
+Dialogue: 0,0:07:15.70,0:07:16.83,Main,Noir,0000,0000,0000,,Yes, please!
+Dialogue: 0,0:07:25.36,0:07:27.55,Italics,Noir,0000,0000,0000,,My headache's fading...
+Dialogue: 0,0:07:40.16,0:07:43.35,Main,Emma,0000,0000,0000,,Does... your head still hurt?
+Dialogue: 0,0:07:43.35,0:07:44.26,Main,Noir,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:52.13,0:07:53.61,Italics,Noir,0000,0000,0000,,I've got all the right gear.
+Dialogue: 0,0:07:54.41,0:07:56.87,Italics,Noir,0000,0000,0000,,I even borrowed a sword from Father.
+Dialogue: 0,0:08:05.61,0:08:09.22,Main,Noir,0000,0000,0000,,Is this where the switch is?
+Dialogue: 0,0:08:22.05,0:08:25.14,Main,Great Sage,0000,0000,0000,,You will need a spell to open the door.
+Dialogue: 0,0:08:25.14,0:08:27.23,Main,Great sage,0000,0000,0000,,And that spell is...
+Dialogue: 0,0:08:29.59,0:08:32.06,Main,Noir,0000,0000,0000,,"Hidden dungeon only I can enter!
+Dialogue: 0,0:08:32.06,0:08:34.57,Main,Noir,0000,0000,0000,,Let me train in secret to become \Nthe strongest in the world!"
+Dialogue: 0,0:08:50.75,0:08:52.30,Main,Olivia,0000,0000,0000,,This way.
+Dialogue: 0,0:09:12.63,0:09:16.20,Main,Noir,0000,0000,0000,,U-Um... You are alive, right?
+Dialogue: 0,0:09:16.20,0:09:18.49,Main,Olivia,0000,0000,0000,,Touch my head.
+Dialogue: 0,0:09:24.33,0:09:26.83,Main,Olivia,0000,0000,0000,,I am Olivia Servant!
+Dialogue: 0,0:09:24.37,0:09:29.88,Main,Sign,0000,0000,0000,,{\an8\fnTimes New Roman\b1\bord0\shad0\1a&Hff&\pos(320,10)\t(1,777,1 \1a&H44&)}I am {\1a&HFF&\t(737,2237,1 \1a&H44&)}Olivia Servant\N{\1a&FF&\t(2238,4781,1 \1a&H44&)}a totally super-awesome adventurer
+Dialogue: 0,0:09:26.83,0:09:29.88,Main,Olivia,0000,0000,0000,,A totally super-awesome adventurer!
+Dialogue: 0,0:09:29.88,0:09:33.80,Main,Olivia,0000,0000,0000,,You see, I happened to stumble upon \Nthis hidden dungeon on one of my walks.
+Dialogue: 0,0:09:33.80,0:09:36.59,Main,Olivia,0000,0000,0000,,I figured out how to get in all by myself.
+Dialogue: 0,0:09:36.59,0:09:40.72,Main,Olivia,0000,0000,0000,,I ran into a monster on the second floor \Nand decimated it in two seconds.
+Dialogue: 0,0:09:40.72,0:09:42.72,Main,Olivia,0000,0000,0000,,Things were going peachy,
+Dialogue: 0,0:09:43.42,0:09:45.60,Main,Olivia,0000,0000,0000,,but then a trap activated.
+Dialogue: 0,0:09:47.00,0:09:50.47,Main,Olivia,0000,0000,0000,,I've been tied up in here \Nfor 200 years since then.
+Dialogue: 0,0:09:50.47,0:09:52.80,Main,Noir,0000,0000,0000,,For 200 years?! I'll undo your restraints right—
+Dialogue: 0,0:09:52.80,0:09:56.74,Main,Olivia,0000,0000,0000,,Nope, hold it. These are special \Nchains called Death Chains.
+Dialogue: 0,0:09:56.74,0:09:59.36,Main,Olivia,0000,0000,0000,,Cut them and say bye-bye to Olivia.
+Dialogue: 0,0:09:59.36,0:10:02.03,Main,Noir,0000,0000,0000,,Huh? Then why did you call me here?
+Dialogue: 0,0:10:02.03,0:10:04.34,Main,Olivia,0000,0000,0000,,I've been looking for someone to talk to.
+Dialogue: 0,0:10:04.34,0:10:08.80,Main,Olivia,0000,0000,0000,,I figured no one would ever hear me, \Nbut you actually showed up!
+Dialogue: 0,0:10:09.69,0:10:14.03,Main,Olivia,0000,0000,0000,,You have {\i1}no{\i0} idea how long \NI've been waiting for this moment!
+Dialogue: 0,0:10:14.59,0:10:19.48,Main,Olivia,0000,0000,0000,,Anyway, you must have real potential, \Nconsidering you found this dungeon.
+Dialogue: 0,0:10:19.48,0:10:20.92,Main,Olivia,0000,0000,0000,,What's your name?
+Dialogue: 0,0:10:20.92,0:10:22.47,Main,Noir,0000,0000,0000,,It's Noir Stardia.
+Dialogue: 0,0:10:22.47,0:10:24.13,Main,Olivia,0000,0000,0000,,Noir, eh?
+Dialogue: 0,0:10:24.13,0:10:26.35,Main,Olivia,0000,0000,0000,,So what brought you here, anyway?
+Dialogue: 0,0:10:26.35,0:10:27.84,Main,Noir,0000,0000,0000,,Well...
+Dialogue: 0,0:10:30.09,0:10:32.94,Main,Olivia,0000,0000,0000,,Right. I got you.
+Dialogue: 0,0:10:33.77,0:10:36.36,Main,Olivia,0000,0000,0000,,But I'm sure the Great Sage also said this!
+Dialogue: 0,0:10:36.36,0:10:40.52,Main,Olivia,0000,0000,0000,,"The super-hot babe Olivia \Nis sealed away in B2!"
+Dialogue: 0,0:10:40.52,0:10:42.87,Main,Noir,0000,0000,0000,,Nope. He didn't say a word about you.
+Dialogue: 0,0:10:42.87,0:10:46.94,Main,Olivia,0000,0000,0000,,Well, whatever. \NSo you wanna get stronger, right?
+Dialogue: 0,0:10:46.94,0:10:49.52,Main,Olivia,0000,0000,0000,,Then you can have my skills.
+Dialogue: 0,0:10:49.52,0:10:50.37,Main,Noir,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:50.37,0:10:52.70,Main,Olivia,0000,0000,0000,,Well, I'm not going anywhere anytime soon...
+Dialogue: 0,0:10:52.70,0:10:55.76,Main,Olivia,0000,0000,0000,,So just tap your forehead against mine.
+Dialogue: 0,0:10:55.76,0:10:58.26,Main,Noir,0000,0000,0000,,L-Like this?
+Dialogue: 0,0:11:01.80,0:11:03.70,Main,Olivia,0000,0000,0000,,Dun dun da-dun!
+Dialogue: 0,0:11:03.70,0:11:07.38,Main,Olivia,0000,0000,0000,,You've quite literally got skills, \NNoir. Mine, that is.
+Dialogue: 0,0:11:07.80,0:11:10.59,Main,Olivia,0000,0000,0000,,Now I can die without any regrets.
+Dialogue: 0,0:11:11.03,0:11:13.27,Main,Noir,0000,0000,0000,,Wait! You can't just die now!
+Dialogue: 0,0:11:13.27,0:11:15.46,Main,Olivia,0000,0000,0000,,Pfft. Like I'd actually die.
+Dialogue: 0,0:11:15.46,0:11:18.35,Main,Olivia,0000,0000,0000,,You can address me as "Master" from now on.
+Dialogue: 0,0:11:19.28,0:11:22.53,Main,Olivia,0000,0000,0000,,Now, I'll give you a simple \Nrundown of my skills.
+Dialogue: 0,0:11:23.03,0:11:24.79,Main,Olivia,0000,0000,0000,,The Get Creative skill.
+Dialogue: 0,0:11:24.79,0:11:28.86,Main,Olivia,0000,0000,0000,,You can create pretty much any \Nskill your mind can think of.
+Dialogue: 0,0:11:28.86,0:11:30.27,Main,Olivia,0000,0000,0000,,The Bestow skill.
+Dialogue: 0,0:11:30.27,0:11:34.00,Main,Olivia,0000,0000,0000,,You can give the skills you've \Ncreated to other people or objects.
+Dialogue: 0,0:11:31.12,0:11:31.79,Text_Box_Body,,0000,0000,0000,,{\1a&HFF&\3a&HFF&\3c&H000000&\p1\fscx130\fscy330\bord5.5\blur1\t(1,195,1 \3a&H00&)\pos(455,120)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:11:31.12,0:11:31.79,Text_Box_Body,,0000,0000,0000,,{\1a&HFF&\3a&HFF&\p1\fscx130\fscy330\bord4\t(1,195,1 \1a&H77&\3a&H00&)\pos(455,120)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:11:31.12,0:11:31.79,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(69,1)\pos(440,93)}Noir
+Dialogue: 0,0:11:31.33,0:11:31.79,Text_Box_Text,Sign,0000,0000,0000,,{\fad(69,1)\an5\pos(455,120)\fs22}Wings
+Dialogue: 0,0:11:34.58,0:11:36.31,Main,Olivia,0000,0000,0000,,The Editor skill.
+Dialogue: 0,0:11:36.29,0:11:37.25,Text_Box_Body,,0000,0000,0000,,{\fad(1,54)\p1\fscx130\fscy330\bord5.5\blur1\pos(471,190)\3c&H000000&}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:11:36.29,0:11:37.25,Text_Box_Body,,0000,0000,0000,,{\fad(1,54)\p1\fscx130\fscy330\bord4\pos(471,190)\1a&HCC&}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:11:36.29,0:11:37.25,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(1,54)\pos(456,163)}Noir
+Dialogue: 0,0:11:36.29,0:11:37.25,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,54)\an5\fs22\pos(471,190)}Wings
+Dialogue: 0,0:11:36.63,0:11:39.81,Main,Olivia,0000,0000,0000,,You can edit the skills you've \Ngiven to yourself or others.
+Dialogue: 0,0:11:36.80,0:11:37.25,Text_Box_Text,,0000,0000,0000,,{\fad(62,54)\c&H4933CF&\shad0\fnArial\pos(440,188)}————
+Dialogue: 0,0:11:36.88,0:11:37.25,Text_Box_Text,,0000,0000,0000,,{\fad(66,54)\c&H4933CF&\shad0\fnArial\pos(440,194)}————
+Dialogue: 0,0:11:40.67,0:11:43.67,Main,Noir,0000,0000,0000,,So... Get Creative, Bestow, and Editor.
+Dialogue: 0,0:11:40.67,0:11:52.23,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\fad(1,937)}Skills
+Dialogue: 0,0:11:40.67,0:11:52.23,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\q2\pos(104,160)\c&H34D236&\3c&H439544&\fad(1,937)}Get Creative
+Dialogue: 0,0:11:41.80,0:11:52.23,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\pos(320,160)\c&H1377EC&\3c&H1452C2&\fad(1,937)}Bestow
+Dialogue: 0,0:11:42.55,0:11:52.23,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\c&HC03079&\3c&H832650&\pos(536,160)\fad(1,937)}Editor
+Dialogue: 0,0:11:43.67,0:11:47.24,Main,Noir,0000,0000,0000,,Depending on how I use these, I can \Ncreate insanely powerful attacks.
+Dialogue: 0,0:11:47.24,0:11:49.02,Main,Olivia,0000,0000,0000,,But be careful.
+Dialogue: 0,0:11:49.02,0:11:53.47,Main,Olivia,0000,0000,0000,,To use any of these skills, \Nyou need life points, or LP.
+Dialogue: 0,0:11:51.35,0:11:53.94,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\fad(903,1)\q2\pos(320,175)}Life Points
+Dialogue: 0,0:11:53.87,0:11:57.35,Main,Olivia,0000,0000,0000,,The stronger the skill, \Nthe more LP it consumes,
+Dialogue: 0,0:11:53.94,0:12:00.82,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\fad(1,518)\pos(136,84)\c&H0906A7&\3c&HFFFFFF&\shad1\4c&H9BD9D9&}Slow
+Dialogue: 0,0:11:53.94,0:12:00.82,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\fad(1,518)\pos(303,84)\c&HDA7818&\3c&HFFFFFF&\shad1\4c&H9BD9D9&}Fast
+Dialogue: 0,0:11:57.35,0:12:00.70,Main,Olivia,0000,0000,0000,,so make sure you use LP \NConversion when that happens.
+Dialogue: 0,0:12:00.32,0:12:08.70,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\fad(525,1)\q2\pos(320,130)\c&H54BAEA&\3c&H2B4DAF&}LP {\c&HAA8416&\3c&H795719&}Conversion
+Dialogue: 0,0:12:00.70,0:12:02.51,Main,Noir,0000,0000,0000,,LP Conversion?
+Dialogue: 0,0:12:02.51,0:12:07.81,Main,Olivia,0000,0000,0000,,If you do something that feels good, \Nyour satisfaction gets turned into LP.
+Dialogue: 0,0:12:07.81,0:12:08.70,Main,Noir,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:08.70,0:12:10.67,Main,Olivia,0000,0000,0000,,For example, fulfilling your sexual desires.
+Dialogue: 0,0:12:10.67,0:12:13.16,Main,Olivia,0000,0000,0000,,Getting close with a charming \N person of the opposite sex.
+Dialogue: 0,0:12:13.16,0:12:14.85,Main,Olivia,0000,0000,0000,,Then there's hunger.
+Dialogue: 0,0:12:14.85,0:12:17.66,Main,Olivia,0000,0000,0000,,Eating delicious foods and savoring \Ndelicacies are both effective.
+Dialogue: 0,0:12:17.66,0:12:19.17,Main,Olivia,0000,0000,0000,,Finally, the desire for worldly things.
+Dialogue: 0,0:12:19.17,0:12:21.90,Main,Olivia,0000,0000,0000,,Earn that dough and spend it \Nlike there's no tomorrow.
+Dialogue: 0,0:12:22.47,0:12:24.96,Main,Noir,0000,0000,0000,,S-So you're telling me to be a hedonist.
+Dialogue: 0,0:12:25.50,0:12:29.12,Main,Olivia,0000,0000,0000,,Oh, FYI, if your LP reaches zero, you die.
+Dialogue: 0,0:12:29.12,0:12:31.59,Italics,Noir,0000,0000,0000,,Maybe tell me that first.
+Dialogue: 0,0:12:31.59,0:12:33.92,Main,Olivia,0000,0000,0000,,How much LP do you have right now?
+Dialogue: 0,0:12:33.92,0:12:35.27,Main,Olivia,0000,0000,0000,,Concentrate.
+Dialogue: 0,0:12:35.27,0:12:36.89,Main,Noir,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:12:37.95,0:12:39.61,Main,Noir,0000,0000,0000,,Five hundred fifty.
+Dialogue: 0,0:12:39.61,0:12:43.74,Main,Olivia,0000,0000,0000,,Five hundred fifty, eh? \NWhy don't you give Get Creative a shot?
+Dialogue: 0,0:12:43.74,0:12:46.37,Main,Noir,0000,0000,0000,,All right. Here I go.
+Dialogue: 0,0:12:49.21,0:12:50.04,Main,Golden Slime,0000,0000,0000,,Jiggle.
+Dialogue: 0,0:12:50.89,0:12:52.12,Main,Golden Slime,0000,0000,0000,,Jiggle.
+Dialogue: 0,0:12:52.84,0:12:55.61,Main,Noir,0000,0000,0000,,Get Creative: Stone Bullet skill.
+Dialogue: 0,0:12:58.71,0:13:00.02,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(1,292)\fs30\an8\pos(142,60)\3c&H4C4B49&\4c&H4C4B49&}Skill
+Dialogue: 0,0:12:58.71,0:13:00.02,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(1,292)\fs30\an8\3c&H4C4B49&\4c&H4C4B49&\pos(482,45)}Stone Bullet
+Dialogue: 0,0:13:00.59,0:13:03.59,Text_Box_Body,,0000,0000,0000,,{\p1\fscx250\fscy330\bord3\blur1\pos(500,215)\3c&H000000&}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:13:00.59,0:13:03.59,Text_Box_Body,,0000,0000,0000,,{\p1\fscx250\fscy330\bord2\1a&HAA&\pos(500,215)\c&HAF8264&}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:13:00.59,0:13:03.59,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\pos(500,188)\fs16\shad1\bord1}Noir Stardia  {\fs12}LP.{\fs20}550
+Dialogue: 0,0:13:00.59,0:13:03.59,Text_Box_Text,Sign,0000,0000,0000,,{\fs12\pos(403,217)\an4\4a&H88&}Skills {\fs13}[Great Sage]\N{\fs12\alpha&HFF&}Skill {\fs13\alpha&H00&\4a&H88&}\h[Get Creative] [Editor] [Bestow]\N{\fs12\alpha&HFF&}Skill {\fs13\alpha&H00&\4a&H88&}\h[LP Conversion] {\alpha&HFF&\t(2359,2567,1 \alpha&H00&\4a&H88&)}[Stone Bullet]
+Dialogue: 0,0:13:03.59,0:13:05.18,Main,Golden Slime,0000,0000,0000,,Jiggle, jiggle, jiggle.
+Dialogue: 0,0:13:05.57,0:13:09.68,Italics,Noir,0000,0000,0000,,Stone Bullet visualizes condensing dust \Nin the air in front of my hand...
+Dialogue: 0,0:13:10.17,0:13:11.34,Italics,Noir,0000,0000,0000,,and fires it!
+Dialogue: 0,0:13:14.83,0:13:16.77,Main,Noir,0000,0000,0000,,I-I beat it...
+Dialogue: 0,0:13:17.51,0:13:19.61,Main,Noir,0000,0000,0000,,But I'm kinda tired now.
+Dialogue: 0,0:13:20.37,0:13:24.42,Main,Noir,0000,0000,0000,,I'm going to have to figure out how \Nto rake in that LP from now on.
+Dialogue: 0,0:13:24.95,0:13:27.61,Main,Noir,0000,0000,0000,,But for today...
+Dialogue: 0,0:13:30.33,0:13:32.59,Main,Alice,0000,0000,0000,,Oh, Big Brother!
+Dialogue: 0,0:13:33.86,0:13:38.67,Main,Alice,0000,0000,0000,,Is my lap a comferble... \Na comfortable pillow for you?
+Dialogue: 0,0:13:38.67,0:13:41.42,Main,Noir,0000,0000,0000,,Man, I feel alive again.
+Dialogue: 0,0:13:41.91,0:13:44.23,Main,Noir,0000,0000,0000,,Can I get a goodnight hug, too?
+Dialogue: 0,0:13:44.23,0:13:45.01,Main,Alice,0000,0000,0000,,Huh?!
+Dialogue: 0,0:13:45.90,0:13:50.38,Main,Noir,0000,0000,0000,,I'm so blessed to have such \Na cute, kind little sister!
+Dialogue: 0,0:13:50.47,0:13:52.93,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(443,1)\fs16\3a&H66&\4a&H66&\pos(445,218)\an1}Noir Stardia
+Dialogue: 0,0:13:54.20,0:13:56.44,Main,Alice,0000,0000,0000,,{\i1}The Hidden Dungeon Only I Can Enter{\i0}.
+Dialogue: 0,0:14:01.64,0:14:03.88,Main,Emma,0000,0000,0000,,Sorry to keep you waiting, Noir.
+Dialogue: 0,0:14:05.15,0:14:08.64,Main,Noir,0000,0000,0000,,S-Sorry to call you out of the blue.
+Dialogue: 0,0:14:08.64,0:14:11.14,Main,Emma,0000,0000,0000,,No, it's fine. What did \Nyou want to talk about?
+Dialogue: 0,0:14:11.14,0:14:12.82,Main,Noir,0000,0000,0000,,I have a favor to ask.
+Dialogue: 0,0:14:13.14,0:14:15.97,Main,Noir,0000,0000,0000,,Also, you seem a bit different today.
+Dialogue: 0,0:14:15.97,0:14:18.31,Main,Emma,0000,0000,0000,,Y-You think so?
+Dialogue: 0,0:14:18.31,0:14:20.84,Main,Noir,0000,0000,0000,,You're usually more reserved.
+Dialogue: 0,0:14:20.84,0:14:23.49,Main,Emma,0000,0000,0000,,Well, everyone's always staring at my chest!
+Dialogue: 0,0:14:23.49,0:14:25.17,Main,Emma,0000,0000,0000,,Of course I'd want to hide it.
+Dialogue: 0,0:14:25.83,0:14:28.05,Main,Noir,0000,0000,0000,,I'm not sure if that outfit is helping...
+Dialogue: 0,0:14:28.05,0:14:30.86,Main,Emma,0000,0000,0000,,Well, that's because today's \Nsupposed to be special!
+Dialogue: 0,0:14:30.86,0:14:32.28,Main,Emma,0000,0000,0000,,Noir, you doofus.
+Dialogue: 0,0:14:32.28,0:14:34.33,Main,Noir,0000,0000,0000,,Sorry! I was just worried.
+Dialogue: 0,0:14:34.33,0:14:36.95,Main,Noir,0000,0000,0000,,I've known you forever,\Nand you're important to me.
+Dialogue: 0,0:14:36.95,0:14:40.19,Main,Emma,0000,0000,0000,,Just saying that I'm important \Nto you isn't enough!
+Dialogue: 0,0:14:40.19,0:14:43.15,Main,Noir,0000,0000,0000,,Th-Then... can I hug you?
+Dialogue: 0,0:14:44.11,0:14:45.61,Main,Emma,0000,0000,0000,,Sure...
+Dialogue: 0,0:14:47.84,0:14:50.36,Main,Noir,0000,0000,0000,,Okay... here I go.
+Dialogue: 0,0:14:51.99,0:14:55.19,Main,Noir,0000,0000,0000,,Your scent is so calming.
+Dialogue: 0,0:14:55.19,0:14:56.66,Main,Noir,0000,0000,0000,,Not to mention...
+Dialogue: 0,0:14:56.66,0:14:58.66,Main,Sign,0000,0000,0000,,{\fs16\3a&H66&\4a&H66&\an1\pos(460,17)\b1\bord1}Noir Stardia
+Dialogue: 0,0:14:58.87,0:15:01.42,Time/Place_Setting,Sign,0000,0000,0000,,{\blur2}A few hours prior
+Dialogue: 0,0:15:01.71,0:15:03.83,Flashback,Noir,0000,0000,0000,,So, Olivia...
+Dialogue: 0,0:15:03.83,0:15:05.20,Flashback,Olivia,0000,0000,0000,,You hear somethin'?
+Dialogue: 0,0:15:05.88,0:15:07.84,Flashback,Noir,0000,0000,0000,,M-Master...
+Dialogue: 0,0:15:07.84,0:15:09.05,Flashback,Olivia,0000,0000,0000,,Yes?
+Dialogue: 0,0:15:09.05,0:15:12.00,Flashback,Noir,0000,0000,0000,,I was hoping I could make \Na skill that would help me
+Dialogue: 0,0:15:12.00,0:15:13.93,Flashback,Noir,0000,0000,0000,,with the Hero Academy exam.
+Dialogue: 0,0:15:13.93,0:15:16.09,Flashback,Olivia,0000,0000,0000,,This calls for cheating!
+Dialogue: 0,0:15:16.09,0:15:17.56,Flashback,Noir,0000,0000,0000,,You're awful, you know that?
+Dialogue: 0,0:15:17.56,0:15:19.87,Flashback,Olivia,0000,0000,0000,,And you're too much of a goody two shoes.
+Dialogue: 0,0:15:19.87,0:15:22.46,Flashback,Olivia,0000,0000,0000,,That's exactly why they took your job.
+Dialogue: 0,0:15:23.52,0:15:27.61,Flashback,Olivia,0000,0000,0000,,It takes 300 LP to use, \Nbut I've got just the skill for you.
+Dialogue: 0,0:15:27.61,0:15:28.90,Flashback,Olivia,0000,0000,0000,,You interested?
+Dialogue: 0,0:15:28.90,0:15:30.28,Flashback,Noir,0000,0000,0000,,Yes, please!
+Dialogue: 0,0:15:30.65,0:15:32.28,Flashback,Olivia,0000,0000,0000,,In that case...
+Dialogue: 0,0:15:32.61,0:15:40.16,Text_Box_Body,,0000,0000,0000,,{\fad(447,347)\p1\fscx265\fscy420\bord3\blur1\pos(500,240)\3c&H000000&\t(7204,7579,1 \1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:32.61,0:15:40.16,Text_Box_Body,,0000,0000,0000,,{\fad(447,347)\p1\fscx265\fscy420\bord2\1a&HAA&\c&HAF8264&\pos(500,240)\t(7204,7579,1 \1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:32.61,0:15:40.16,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(447,347)\fs18\an7\pos(410,185)\3c&H43463A&\bord1.5\t(7204,7579,1 \1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}Discerning Eye
+Dialogue: 0,0:15:32.61,0:15:40.16,Text_Box_Text,Sign,0000,0000,0000,,{\fad(447,347)\pos(416,240)\an4\b0\t(7204,7579,1 \1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}Have a peek into\Ninformation about any\Nliving creature or object.
+Dialogue: 0,0:15:32.96,0:15:35.18,Flashback,Olivia,0000,0000,0000,,The skill that grants you a peek \Ninto any kind of information:
+Dialogue: 0,0:15:35.18,0:15:37.01,Flashback,Olivia,0000,0000,0000,,The Discerning Eye!
+Dialogue: 0,0:15:37.01,0:15:40.29,Flashback,Olivia,0000,0000,0000,,With this, you're good to go on your exam!
+Dialogue: 0,0:15:40.82,0:15:42.50,Main,Noir,0000,0000,0000,,Thanks, Emma.
+Dialogue: 0,0:15:42.50,0:15:45.63,Main,Emma,0000,0000,0000,,It's fine. This is basically a greeting.
+Dialogue: 0,0:15:45.99,0:15:49.23,Italics,Noir,0000,0000,0000,,Okay, now to Get Creative and \Ncreate the Discerning Eye skill.
+Dialogue: 0,0:15:49.17,0:15:50.55,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(403,1)\fs22\shad1\bord1\pos(483,151)}Noir Stardia  {\fs18}LP.{\fs30}950
+Dialogue: 0,0:15:49.17,0:15:52.13,Text_Box_Body,,0000,0000,0000,,{\fad(403,1)\p1\fscx294\fscy394\bord3\blur1\an1\move(490,260,490,266,1363,1617)\3c&H000000&\t(1363,1613,1 \fscy460)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:49.17,0:15:52.13,Text_Box_Body,,0000,0000,0000,,{\fad(403,1)\p1\fscx294\fscy394\bord2\1a&HAA&\c&HAF8264&\an1\move(490,260,490,266,1363,1617)\t(1363,1613,1 \fscy460)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:49.17,0:15:52.13,Text_Box_Text,Sign,0000,0000,0000,,{\fad(403,1)\fs14\an4\4a&H88&\move(380,190,380,173,1363,1617)}Skills {\fs15}[Great Sage]\N{\fs14\alpha&HFF&}Skill {\fs15\alpha&H00&\4a&H88&}\h[Get Creative] [Editor] [Bestow]\N{\fs14\alpha&HFF&}Skill {\fs15\alpha&H00&\4a&H88&}\h[LP Conversion] [Stone Bullet]\N{\fs14\alpha&HFF&}Skill {\fs15\alpha&HFF&\t(1363,1738,1\alpha&H00&\4a&H88&)}\h[Discerning Eye]
+Dialogue: 0,0:15:49.17,0:15:52.13,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fs22\shad1\bord1\move(483,151,483,137,1363,1613)\alpha&HFF&\t(488,1362,1 \alpha&H00&)}Noir Stardia  {\fs18}LP.{\fs30\t(488,1362,1 \alpha&H00&)}650
+Dialogue: 0,0:15:53.35,0:15:54.97,Italics,Noir,0000,0000,0000,,Let's try it out.
+Dialogue: 0,0:15:56.55,0:16:03.27,Text_Box_Body,,0000,0000,0000,,{\fad(406,892)\p1\bord3\blur1\3c&H000000&\fscx320\fscy560\pos(164,82)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:56.55,0:16:03.27,Text_Box_Body,,0000,0000,0000,,{\fad(406,892)\p1\bord2\1a&HAA&\c&H582A0A&\fscx320\fscy560\pos(164,82)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:56.55,0:16:03.27,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(406,892)\an4\q2\pos(48,21.333)\fs22}Emma Brightness  {\fs18}Lv.{\fs30}17
+Dialogue: 0,0:15:56.55,0:16:03.27,Text_Box_Text,Sign,0000,0000,0000,,{\fad(406,892)\an9\fs16\pos(110,40)\fscy120}Species\N{\fscx95}Occupation\N{\fscx100}Skills
+Dialogue: 0,0:15:57.01,0:16:03.27,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,892)\an7\fs16\pos(118,40)\fscy120\alpha&HFF&\t(1,196,1 \alpha&H00&)}[Human]\N{\alpha&HFF&\t(30,237,1 \alpha&H00&)}[Librarian]\N{\alpha&HFF&\fscx78\t(72,279,1 \alpha&H00&)}[Dual-Wielded Daggers (Grade C)]\N{\alpha&HFF&\fscx100\t(113,321,1 \alpha&H00&)}[Wind Strike]
+Dialogue: 0,0:15:57.13,0:15:58.18,Italics,Noir,0000,0000,0000,,I see it!
+Dialogue: 0,0:15:58.18,0:16:00.60,Italics,Noir,0000,0000,0000,,This means I'll pass for sure!
+Dialogue: 0,0:16:00.60,0:16:02.67,Italics,Noir,0000,0000,0000,,I need to make sure I thank Emma properly.
+Dialogue: 0,0:16:03.45,0:16:06.22,Main,Emma,0000,0000,0000,,Man, my shoulders are so stiff.
+Dialogue: 0,0:16:06.22,0:16:07.73,Main,Emma,0000,0000,0000,,My chest is way too heavy.
+Dialogue: 0,0:16:08.21,0:16:09.07,Italics,Noir,0000,0000,0000,,All right!
+Dialogue: 0,0:16:09.07,0:16:15.07,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fs30\an8\pos(138,10)\shad2\4a&H00&}Skill
+Dialogue: 0,0:16:09.07,0:16:15.07,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fs30\an8\shad2\4a&H00&\pos(506,10)}Small Boobs
+Dialogue: 0,0:16:09.33,0:16:12.03,Italics,Noir,0000,0000,0000,,I'll use Get Creative and \Ngive Emma Small Boobs.
+Dialogue: 0,0:16:11.61,0:16:15.07,Text_Box_Body,,0000,0000,0000,,{\fad(778,1)\p1\bord3\blur1\3c&H000000&\fscx260\fscy500\pos(520,180)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:16:11.61,0:16:15.07,Text_Box_Body,,0000,0000,0000,,{\fad(778,1)\p1\bord2\1a&HAA&\c&H76421D&\fscx260\fscy500\pos(520,180)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:16:12.03,0:16:15.06,Italics,Noir,0000,0000,0000,,I'll need a total of 80 LP to do this, but...
+Dialogue: 0,0:16:12.07,0:16:15.07,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(359,1)\an4\q2\fs18\pos(424,180)\3a&H44&\4a&H44&\bord1\fscx70\fscy130}Needed to Get Creative          LP.{\fs30}30\N{\fs18\alpha&HFF&\t(653,1070,1 \3a&H44&\4a&H44&\1a&H00&)}Needed to Bestow to Emma  LP.{\fs30}50
+Dialogue: 0,0:16:15.41,0:16:16.31,Main,Noir,0000,0000,0000,,There!
+Dialogue: 0,0:16:27.00,0:16:29.71,Main,Emma,0000,0000,0000,,Wh-What just happened?!
+Dialogue: 0,0:16:29.71,0:16:32.32,Main,Emma,0000,0000,0000,,Wh-What? Why?!
+Dialogue: 0,0:16:32.32,0:16:35.00,Main,Noir,0000,0000,0000,,Now your shoulders won't be so stiff.
+Dialogue: 0,0:16:35.00,0:16:37.81,Main,Noir,0000,0000,0000,,Don't worry, plenty of people \Nlove small boobs. Isn't that great?
+Dialogue: 0,0:16:37.81,0:16:39.35,Main,Emma,0000,0000,0000,,Are you being serious right now?
+Dialogue: 0,0:16:39.35,0:16:40.25,Main,Noir,0000,0000,0000,,Yup!
+Dialogue: 0,0:16:40.25,0:16:42.43,Main,Noir,0000,0000,0000,,Though I definitely prefer them big.
+Dialogue: 0,0:16:42.43,0:16:46.19,Main,Emma,0000,0000,0000,,Gimme back my boobs, you doofus!
+Dialogue: 0,0:16:46.68,0:16:49.56,Italics,Noir,0000,0000,0000,,I ended up having to use Editor \Nto give her boobs back.
+Dialogue: 0,0:16:50.00,0:16:51.94,Italics,Noir,0000,0000,0000,,Talk about a waste of LP.
+Dialogue: 0,0:16:52.74,0:16:54.95,Time/Place_Setting,Sign,0000,0000,0000,,{\q2\blur2\fad(981,1)\pos(320,300)}Hero Academy        The Day of the Exam
+Dialogue: 0,0:16:55.25,0:16:56.28,Main,Male Noble 1,0000,0000,0000,,Feeling confident?
+Dialogue: 0,0:16:56.28,0:16:57.53,Main,Male Noble 2,0000,0000,0000,,But of course.
+Dialogue: 0,0:16:57.53,0:16:59.48,Italics,Noir,0000,0000,0000,,Barons and viscounts...
+Dialogue: 0,0:16:59.48,0:17:02.91,Italics,Noir,0000,0000,0000,,They're totally different \Nfrom a baronet like me.
+Dialogue: 0,0:17:03.50,0:17:06.04,Main,Director,0000,0000,0000,,We will now begin the entrance exam.
+Dialogue: 0,0:17:06.40,0:17:09.33,Main,Director,0000,0000,0000,,Your task is to collect raw \Nmaterials from monsters.
+Dialogue: 0,0:17:09.33,0:17:12.30,Main,Director,0000,0000,0000,,You'll be judged on how much you bring \Nin and how rare the materials are.
+Dialogue: 0,0:17:12.30,0:17:16.43,Main,Director,0000,0000,0000,,This will be a team effort in which \Nyou split up into groups of three.
+Dialogue: 0,0:17:16.80,0:17:18.92,Main,Director,0000,0000,0000,,Return empty-handed, and you fail!
+Dialogue: 0,0:17:18.92,0:17:19.80,Main,Director,0000,0000,0000,,That is all!
+Dialogue: 0,0:17:19.80,0:17:21.20,Main,Examinee 3,0000,0000,0000,,We have to make a team?
+Dialogue: 0,0:17:21.20,0:17:22.57,Main,Examinee 4,0000,0000,0000,,No one told us that before.
+Dialogue: 0,0:17:22.57,0:17:24.33,Main,Examinee 5,0000,0000,0000,,I'd better hurry up and find people.
+Dialogue: 0,0:17:25.19,0:17:27.58,Main,Noir,0000,0000,0000,,E-Excuse me. Would you like to...
+Dialogue: 0,0:17:27.58,0:17:31.20,Main,Examinee 6,0000,0000,0000,,Hm? You reek of baronet stench.
+Dialogue: 0,0:17:36.50,0:17:37.54,Main,Noir,0000,0000,0000,,Um...
+Dialogue: 0,0:17:38.50,0:17:40.61,Main,Examinee 7,0000,0000,0000,,Yeah, I don't associate with trash.
+Dialogue: 0,0:17:43.20,0:17:44.75,Italics,Noir,0000,0000,0000,,Trash, huh?
+Dialogue: 0,0:17:49.08,0:17:50.42,Main,Emma,0000,0000,0000,,Hey, wanna team up?
+Dialogue: 0,0:17:51.50,0:17:53.74,Main,Emma,0000,0000,0000,,Heya, Noir!
+Dialogue: 0,0:17:53.74,0:17:56.38,Main,Noir,0000,0000,0000,,E-Emma? What are you doing here?
+Dialogue: 0,0:17:56.38,0:17:58.24,Main,Noir,0000,0000,0000,,What about your librarian job?
+Dialogue: 0,0:17:58.24,0:18:02.43,Main,Emma,0000,0000,0000,,I quit. I figured I'd give the \NHero Academy a shot, too.
+Dialogue: 0,0:18:02.43,0:18:05.56,Main,Noir,0000,0000,0000,,I-I can't believe you quit that easily...
+Dialogue: 0,0:18:05.56,0:18:07.59,Main,Emma,0000,0000,0000,,Well, I didn't get to be with you.
+Dialogue: 0,0:18:07.59,0:18:08.31,Main,Noir,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:08.31,0:18:11.94,Main,Emma,0000,0000,0000,,Noir, you doofus. Come on, let's team up.
+Dialogue: 0,0:18:13.70,0:18:15.64,Main,Lenore,0000,0000,0000,,Hey, want to team up?
+Dialogue: 0,0:18:16.65,0:18:18.79,Main,Lenore,0000,0000,0000,,I'm Lenore Bludon.
+Dialogue: 0,0:18:18.79,0:18:21.49,Main,Lenore,0000,0000,0000,,You don't need to be formal with me. \NThe more casual, the better.
+Dialogue: 0,0:18:22.01,0:18:25.39,Main,Emma,0000,0000,0000,,I'm Emma Brightness, my la... Lenore.
+Dialogue: 0,0:18:25.39,0:18:29.06,Main,Lenore,0000,0000,0000,,Brightness? Ah, a barony.
+Dialogue: 0,0:18:29.52,0:18:31.53,Main,Noir,0000,0000,0000,,I'm Noir Stardia.
+Dialogue: 0,0:18:31.53,0:18:34.04,Main,Lenore,0000,0000,0000,,I didn't ask for your name.
+Dialogue: 0,0:18:34.04,0:18:37.57,Main,Lenore,0000,0000,0000,,Why would I bother remembering \Nthe name of a baronet?
+Dialogue: 0,0:18:37.57,0:18:38.38,Main,Noir,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:38.38,0:18:39.58,Main,Director,0000,0000,0000,,Now, then...
+Dialogue: 0,0:18:39.58,0:18:44.11,Main,Director,0000,0000,0000,,Gather as many materials \Nas you can by noon tomorrow.
+Dialogue: 0,0:18:44.71,0:18:46.63,Main,Director,0000,0000,0000,,You can obtain them in any way you'd like.
+Dialogue: 0,0:18:46.63,0:18:47.77,Main,Director,0000,0000,0000,,Begin!
+Dialogue: 0,0:18:47.77,0:18:48.47,Main,Examinee 8,0000,0000,0000,,The marketplace!
+Dialogue: 0,0:18:48.47,0:18:49.64,Main,Examinee 9,0000,0000,0000,,I'm buying everything!
+Dialogue: 0,0:18:49.64,0:18:52.91,Main,Emma,0000,0000,0000,,Y-You can buy the materials, too?
+Dialogue: 0,0:18:52.91,0:18:56.65,Main,Noir,0000,0000,0000,,I guess so. He never said you had to \Nactually defeat any monsters, so...
+Dialogue: 0,0:18:56.65,0:18:59.40,Main,Lenore,0000,0000,0000,,Let's split up.
+Dialogue: 0,0:18:59.96,0:19:03.74,Main,Lenore,0000,0000,0000,,Don't drag us down, Mr. Bottom \Nof the Aristocratic Food Chain.
+Dialogue: 0,0:19:04.24,0:19:07.35,Main,Emma,0000,0000,0000,,I guess the rich definitely \Nhave the upper hand.
+Dialogue: 0,0:19:07.35,0:19:08.32,Main,Noir,0000,0000,0000,,Yeah...
+Dialogue: 0,0:19:08.82,0:19:10.70,Main,Emma,0000,0000,0000,,What are you going to do, Noir?
+Dialogue: 0,0:19:10.70,0:19:13.63,Main,Emma,0000,0000,0000,,If you're going to hunt for your \Nmaterials, I'll come with you.
+Dialogue: 0,0:19:13.63,0:19:16.10,Main,Noir,0000,0000,0000,,No, you wait here, Emma.
+Dialogue: 0,0:19:16.49,0:19:18.52,Main,Noir,0000,0000,0000,,I have an idea.
+Dialogue: 0,0:19:19.72,0:19:22.93,Italics,Noir,0000,0000,0000,,I was sure there'd be plenty of rare \Nmonsters in a hidden dungeon.
+Dialogue: 0,0:19:22.93,0:19:26.39,Italics,Noir,0000,0000,0000,,And that's why I came to \Nthe third floor, but...
+Dialogue: 0,0:19:27.60,0:19:29.85,Main,Noir,0000,0000,0000,,Are you serious right now?!
+Dialogue: 0,0:19:30.94,0:19:33.37,Italics,Noir,0000,0000,0000,,{\an8}I'm still level 23...
+Dialogue: 0,0:19:30.94,0:19:37.69,Text_Box_Body,,0000,0000,0000,,{\p1\bord4\blur1\3c&H000000&\fscx320\fscy280\an1\t(2900,3483,1 \fscy560)\move(488.5,230,488.5,258,2900,3483)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:30.94,0:19:37.69,Text_Box_Body,,0000,0000,0000,,{\p1\bord3\1a&HAA&\c&H582A0A&\fscx320\fscy280\an1\t(2900,3483,1 \fscy560)\move(488.5,230,488.5,258,2900,3483)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:30.94,0:19:37.69,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\move(489,156,489,100,2900,3483)}Dead Reaper Lv.{\fs36}99
+Dialogue: 0,0:19:30.94,0:19:37.69,Text_Box_Text,Sign,0000,0000,0000,,{\fs15\an7\fscx85\fscy120\move(367,166,367,110,2900,3483)}Skill [Execution Slash]\N{\alpha&HFF&}Skill {\alpha&HFF&\t(2983,3024,1 \alpha&H00&)}Any damage dealt to its enemy with the\N{\alpha&HFF&}Skill {\alpha&HFF&\t(3108,3149,1 \alpha&H00&)}Scythe means Instant Death. Effect cannot \N{\alpha&HFF&}Skill {\alpha&HFF&\t(3275,3316,1 \alpha&H00&)}be avoided without specific resistance.
+Dialogue: 0,0:19:33.75,0:19:36.96,Italics,Noir,0000,0000,0000,,{\an8}Not to mention, if that Scythe hits me, \Nit's an insta-death for me.
+Dialogue: 0,0:19:47.36,0:19:51.33,Italics,Noir,0000,0000,0000,,I-If I use my Editor skill and \Ndelete its Instant Death attack...
+Dialogue: 0,0:19:52.33,0:19:56.79,Text_Box_Body,,0000,0000,0000,,{\fad(570,470)\p1\bord4\blur1\3c&H000000&\fscx320\fscy280\an1\pos(488.5,230)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:52.33,0:19:56.79,Text_Box_Body,,0000,0000,0000,,{\fad(570,470)\p1\bord3\1a&HAA&\c&H582A0A&\fscx260\fscy300\an1\pos(475,252)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:52.33,0:19:56.79,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(570,470)\fs18\pos(476,169)}Skill {\fs24\fscx90}[Execution Slash]
+Dialogue: 0,0:19:52.54,0:19:56.79,Text_Box_Text,Sign,0000,0000,0000,,{\fad(401,470)\pos(476,190)\fscx90\an5\b0}LP needed to delete: {\fs32\b1}4000
+Dialogue: 0,0:19:53.68,0:19:55.88,Italics,Noir,0000,0000,0000,,Nope! I'd literally die eight times!
+Dialogue: 0,0:19:59.05,0:20:08.01,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(1,513)\an1\fnTrebuchet MS\fs18\pos(420,207)\3c&H24211E&\4c&H25221E&}Noir Stardia
+Dialogue: 0,0:19:59.60,0:20:01.78,Italics,Noir,0000,0000,0000,,I created the skill Heavy \Nand Bestowed it on the Reaper.
+Dialogue: 0,0:20:02.86,0:20:04.90,Italics,Noir,0000,0000,0000,,I managed to stop it for now,
+Dialogue: 0,0:20:04.90,0:20:07.72,Italics,Noir,0000,0000,0000,,but that instantly cost me 200 LP...
+Dialogue: 0,0:20:10.35,0:20:12.38,Italics,Noir,0000,0000,0000,,I feel so weak...
+Dialogue: 0,0:20:13.23,0:20:16.79,Italics,Noir,0000,0000,0000,,I lost so much LP, I can actually \Nfeel my life draining away...
+Dialogue: 0,0:20:17.23,0:20:19.46,Italics,Noir,0000,0000,0000,,But... I have to do this...
+Dialogue: 0,0:20:19.46,0:20:20.99,Italics,Noir,0000,0000,0000,,There's no other way!
+Dialogue: 0,0:20:28.06,0:20:32.50,Italics,Noir,0000,0000,0000,,{\an8}I'll use 100 LP and my Editor skill to make\Nthe Stone Bullet size 100 centimeters!
+Dialogue: 0,0:20:28.87,0:20:34.00,Main,Sign,0000,0000,0000,,{\fad(858,1)\an1\fnTrebuchet MS\fs18\3c&H24211E&\4c&H25221E&\pos(420,197)}Noir Stardia
+Dialogue: 0,0:20:28.87,0:20:34.00,Main,Sign,0000,0000,0000,,{\fad(858,1)\an1\fnTrebuchet MS\fs18\3c&H24211E&\shad0\pos(423,316)\fscx80}Stone Bullet
+Dialogue: 0,0:20:35.42,0:20:38.88,Main,Noir,0000,0000,0000,,You know, you seem a bit thin. \NHave you been eating properly?
+Dialogue: 0,0:20:38.88,0:20:42.33,Main,Noir,0000,0000,0000,,Here. This should fill you up!
+Dialogue: 0,0:20:43.69,0:20:45.39,Main,Noir,0000,0000,0000,,Stone Bullet 100!
+Dialogue: 0,0:20:55.98,0:20:58.73,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(858,1)\fs16\an7\pos(209,19)}Noir Stardia
+Dialogue: 0,0:20:56.87,0:20:58.73,Main,Noir,0000,0000,0000,,I-I'm exhausted...
+Dialogue: 0,0:21:03.43,0:21:08.49,Main,Director,0000,0000,0000,,And now I will announce the top three \Nteams from the entrance exam results.
+Dialogue: 0,0:21:08.49,0:21:12.37,Main,Lenore,0000,0000,0000,,He hasn't called our team at all.
+Dialogue: 0,0:21:12.37,0:21:14.04,Main,Noir,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:21:14.62,0:21:20.21,Main,Director,0000,0000,0000,,In third place, Team Genos with 5,890 points.
+Dialogue: 0,0:21:21.15,0:21:26.07,Main,Director,0000,0000,0000,,In second place, Team Elizabeth \Nwith 11,550 points.
+Dialogue: 0,0:21:26.07,0:21:28.31,Main,Lenore,0000,0000,0000,,H-He still hasn't called us.
+Dialogue: 0,0:21:28.83,0:21:30.43,Main,Emma,0000,0000,0000,,Maybe we didn't even rank...
+Dialogue: 0,0:21:30.43,0:21:33.28,Italics,Noir,0000,0000,0000,,W-We should be okay.
+Dialogue: 0,0:21:33.28,0:21:35.06,Italics,Noir,0000,0000,0000,,I mean, Master said...
+Dialogue: 0,0:21:35.98,0:21:39.52,Flashback,Noir,0000,0000,0000,,It wouldn't be weird if I brought \Nthis to the exam, right?
+Dialogue: 0,0:21:39.52,0:21:40.23,Flashback,Olivia,0000,0000,0000,,Nah.
+Dialogue: 0,0:21:40.23,0:21:43.98,Flashback,Olivia,0000,0000,0000,,It's better than bringing a golden slime, \Nwhich doesn't exist on this continent.
+Dialogue: 0,0:21:43.98,0:21:46.11,Flashback,Olivia,0000,0000,0000,,They're grunts anyway, so you'll be fine.
+Dialogue: 0,0:21:46.42,0:21:50.21,Italics,Noir,0000,0000,0000,,B-But... if he doesn't call us...
+Dialogue: 0,0:21:52.12,0:21:53.84,Main,Director,0000,0000,0000,,And in first place...
+Dialogue: 0,0:21:56.83,0:22:00.46,Main,Director,0000,0000,0000,,Team Lenore with 128,000 points!
+Dialogue: 0,0:22:01.07,0:22:03.63,Main,Emma,0000,0000,0000,,O-One hundred and twenty...
+Dialogue: 0,0:22:03.63,0:22:05.09,Main,Noir,0000,0000,0000,,...eight thousand...
+Dialogue: 0,0:22:05.09,0:22:09.09,Main,Director,0000,0000,0000,,They had the skull of the extremely \Ndiabolical Dead Reaper among their materials.
+Dialogue: 0,0:22:09.09,0:22:12.34,Main,Director,0000,0000,0000,,This means they pass and \Nrewrite history with that score.
+Dialogue: 0,0:22:12.34,0:22:16.39,Italics,Noir,0000,0000,0000,,Wh-What were you saying \Nabout this being a grunt, Master?
+Dialogue: 0,0:22:16.39,0:22:19.29,Main,Olivia,0000,0000,0000,,Whoops, my bad.
+Dialogue: 0,0:22:19.29,0:22:22.24,Main,Olivia,0000,0000,0000,,A Dead Reaper is nothing to me,
+Dialogue: 0,0:22:22.24,0:22:25.19,Main,Olivia,0000,0000,0000,,but I guess a student hunting \Nthem would be a miracle.
+Dialogue: 0,0:22:25.70,0:22:27.50,Main,Olivia,0000,0000,0000,,Well, whatever.
+Dialogue: 0,0:22:29.20,0:22:33.45,Italics,Noir,0000,0000,0000,,And so, I safely passed the exam \Nfor the Hero Academy.
+Dialogue: 0,0:22:33.45,0:22:37.46,Italics,Noir,0000,0000,0000,,My family was ecstatic, and this \Nbrightened everyone's moods.
+Dialogue: 0,0:22:37.84,0:22:40.48,Italics,Noir,0000,0000,0000,,That is, until we saw the enrollment fee.
+Dialogue: 0,0:22:40.92,0:22:43.16,Main,Noir,0000,0000,0000,,Three hundred thousand rels?
+Dialogue: 0,0:22:43.16,0:22:45.96,Main,Noir,0000,0000,0000,,How am I supposed to get that kind of money?
+Dialogue: 0,0:24:17.71,0:24:20.27,Main,Noir,0000,0000,0000,,{\an8}Next time, "The Guild and the Receptionist."
+Dialogue: 0,0:24:18.31,0:24:21.98,Next_Ep_Title,Sign,0000,0000,0000,,{\blur1\fad(647,1)}#02 {\fscx90}"The Guild and the Receptionist"
+Dialogue: 0,0:24:21.98,0:24:27.73,Illustration,Sign,0000,0000,0000,,{\blur1}Illustration: Shiratama

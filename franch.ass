@@ -1,0 +1,451 @@
+﻿[Script Info]
+Title: [Erai-raws] Français (France)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0002,0002,0025,1
+Style: Italique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0002,0002,0025,1
+Style: TiretsDefault,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,1,0020,0002,0025,1
+Style: Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,1,0,3,0010,0045,0050,1
+Style: sign_3576_25_Aristocratic_Soc,Times New Roman,34,&H0059A7BA,&H000000FF,&H00FFFFFF,&H00376179,-1,0,0,0,100,100,0,0,1,2,3,8,0158,0158,0080,1
+Style: sign_3704_34_Baron,Arial,16,&H00131D2B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0132,0455,0263,1
+Style: sign_6789_82_Skill__Great_Sag,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H8021232A,-1,0,0,0,100,100,0,0,1,2,1,2,0203,0213,0075,1
+Style: Text_Box_Body,Arial,24,&HA0000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0000,0000,0020,1
+Style: Text_Box_Text,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,1,4,0164,0098,0000,1
+Style: sign_7206_94_Q__What_s_tomorr,Comic Sans MS,24,&H00DD7E60,&H000000FF,&H00C0705B,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,4,0010,0390,0000,1
+Style: sign_16800_201_Skills_,Arial,24,&H00656464,&H000000FF,&H00494243,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,3,8,0281,0281,0059,1
+Style: Time/Place_Setting,Arial,24,&H00FFFFFF,&H000000FF,&HB421232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,0,2,0208,0208,0085,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.28,0:00:12.82,Italique,Narration,0000,0000,0000,,Il existe de par le monde\Nde nombreux repaires.
+Dialogue: 0,0:00:24.79,0:00:28.21,Italique,Narration,0000,0000,0000,,Il est dit que ces derniers\Nrenferment de redoutables labyrinthes
+Dialogue: 0,0:00:28.34,0:00:30.50,Italique,Narration,0000,0000,0000,,qu’évitent tous les aventuriers.
+Dialogue: 0,0:00:31.51,0:00:35.09,Italique,Narration,0000,0000,0000,,Non explorés, vierges\Net inaccessibles,
+Dialogue: 0,0:00:35.76,0:00:40.10,Italique,Narration,0000,0000,0000,,ces lieux remplis de mystères\Nsont dénommés…
+Dialogue: 0,0:00:40.72,0:00:42.52,Italique,Narration,0000,0000,0000,,les donjons cachés.
+Dialogue: 0,0:00:52.15,0:00:54.45,Italique,Olivia,0000,0000,0000,,Tu es arrivé jusque-là…
+Dialogue: 0,0:00:56.53,0:00:59.95,Italique,Olivia,0000,0045,0000,,Poursuis ton chemin,\Ncourageux héros.
+Dialogue: 0,0:01:01.37,0:01:04.25,Italique,Olivia,0000,0000,0000,,Je t’attends au 2e niveau.
+Dialogue: 0,0:01:14.34,0:01:15.67,Italique,Olivia,0000,0000,0000,,Par ici.
+Dialogue: 0,0:01:24.68,0:01:26.02,Italique,Olivia,0000,0000,0000,,Ouvre la porte.
+Dialogue: 0,0:01:45.70,0:01:49.67,Ep_Title,Sign,0000,0000,0000,,{\blur1.5\fscx96\fad(489,489)}CAPACITÉS IMPRESSIONNANTES
+Dialogue: 0,0:01:52.34,0:01:55.76,Italique,Noir,0000,0000,0000,,Moi, Noir Stardia,\Nsuis le 3e fils d’une famille de nobles.
+Dialogue: 0,0:01:56.74,0:01:59.01,Italique,Noir,0000,0000,0000,,Après avoir été diplômé\Nde l’école Jastal,
+Dialogue: 0,0:01:59.18,0:02:01.89,Italique,Noir,0000,0000,0000,,j’ai décidé de travailler\Nplutôt que d’étudier.
+Dialogue: 0,0:02:05.77,0:02:08.52,Italique,Noir,0000,0000,0000,,Aujourd’hui,\Nc’est mon premier jour de travail.
+Dialogue: 0,0:02:11.40,0:02:14.73,Default,Noir,0000,0000,0000,,Père ? Mère ? Que vous arrive-t-il ?
+Dialogue: 0,0:02:15.07,0:02:17.82,Default,Père,0000,0000,0000,,C’est à propos de la bibliothèque\Nqui t’emploie.
+Dialogue: 0,0:02:18.49,0:02:20.87,Default,Noir,0000,0000,0000,,Oui, je commence ce matin.
+Dialogue: 0,0:02:21.07,0:02:24.08,Default,Père,0000,0000,0000,,Ô malheur, le fils du vicomte\Na mis son nez là-dedans.
+Dialogue: 0,0:02:24.20,0:02:26.20,Default,Père,0000,0000,0000,,Tu ne peux plus y travailler !
+Dialogue: 0,0:02:29.12,0:02:30.88,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(320,689)}SOCIÉTÉ NOBLE
+Dialogue: 0,0:02:30.88,0:02:34.25,Italique,Noir,0000,0000,0000,,Bien que les Stardia soient nobles,\Nils ne sont que baronnets.
+Dialogue: 0,0:02:30.96,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(316,685)\fs20\shad1\3c&HDCDFD6&\bord1\pos(318,242)\c&H121E12&\4c&H7F5165&\fnTrebuchet MS}BARONNET
+Dialogue: 0,0:02:31.00,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(526,685)\fs20\shad1\3c&HA2DEAA&\bord1\pos(318,157)\c&H55A261&\4c&H278C46&}VICOMTE
+Dialogue: 0,0:02:31.00,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(442,685)\fs20\shad1\3c&HF2C2BA&\bord1\pos(318,199)\fnArial\c&H8E4338&\4c&HAF703A&}BARON
+Dialogue: 0,0:02:31.04,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(611,685)\fs20\shad1\3c&HAFC9D2&\bord1\pos(318,117)\c&H6C8CC1&\4c&H374B6D&}COMTE
+Dialogue: 0,0:02:31.08,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(696,685)\fs20\shad1\3c&HD3D7D1&\bord1\pos(318,74)\c&H92918E&\4c&H73767E&}MARQUIS
+Dialogue: 0,0:02:31.17,0:02:35.13,sign_3576_25_Aristocratic_Soc,Sign,0000,0000,0000,,{\fad(731,685)\fs20\shad1\3c&HAFC9D2&\bord1\pos(318,29)}DUC
+Dialogue: 0,0:02:34.46,0:02:40.43,Default,Sign,0000,0000,0000,,{\fad(695,980)\fnTimes New Roman\b1\fs28\c&H000000&\bord1\3c&FFFFFF&\shad0\an5\pos(320,305)}BIBLIOTHÉCAIRE
+Dialogue: 0,0:02:34.46,0:02:40.43,sign_3704_34_Baron,Sign,0000,0000,0000,,{\fad(695,980)}BARON
+Dialogue: 0,0:02:34.46,0:02:40.43,sign_3704_34_Baron,Sign,0000,0000,0000,,{\fad(695,980)\pos(254,103)}BARON
+Dialogue: 0,0:02:34.46,0:02:40.43,sign_3704_34_Baron,Sign,0000,0000,0000,,{\fad(695,980)\pos(480,104)\fscx80}VICOMTE
+Dialogue: 0,0:02:34.46,0:02:40.43,sign_3704_34_Baron,Sign,0000,0000,0000,,{\fad(695,980)\pos(390,97)}COMTE
+Dialogue: 0,0:02:36.30,0:02:40.43,sign_3704_34_Baron,Sign,0000,0000,0000,,{\fad(1,980)\pos(320,85)}VICOMTE
+Dialogue: 0,0:02:36.67,0:02:39.73,Italique,Noir,0000,0000,0000,,Cela dit, en haut de la pyramide,\Nil y a des rangs supérieurs.
+Dialogue: 0,0:02:42.64,0:02:45.31,Default,Noir,0000,0000,0000,,Père, relevez-vous.
+Dialogue: 0,0:02:45.85,0:02:48.93,Default,Noir,0000,0000,0000,,Je ne vous en veux pas\Nle moins du monde.
+Dialogue: 0,0:02:49.06,0:02:51.27,Default,Père,0000,0000,0000,,Je suis sûr que si !
+Dialogue: 0,0:02:51.40,0:02:54.77,Default,Noir,0000,0000,0000,,Sachant ça,\Ncomment vais-je me débrouiller ?
+Dialogue: 0,0:02:54.90,0:02:56.07,Default,Noir,0000,0000,0000,,Père à la noix…
+Dialogue: 0,0:02:56.40,0:02:57.23,Default,Noir,0000,0000,0000,,Oups, père.
+Dialogue: 0,0:02:57.48,0:03:00.57,Default,Père,0000,0000,0000,,Tu as dit « père à la noix » !\NJ’ai entendu !
+Dialogue: 0,0:03:00.70,0:03:03.28,Default,Père,0000,0000,0000,,Ta rancune envers moi est évidente,\Nmon fils !
+Dialogue: 0,0:03:03.45,0:03:04.74,Default,Alice,0000,0000,0000,,Je ne suis pas d’accord.
+Dialogue: 0,0:03:05.37,0:03:09.87,Default,Alice,0000,0000,0000,,Qui a volé l’emploi de mon frère ?\NJe vais faire une pétition !
+Dialogue: 0,0:03:10.00,0:03:12.58,Default,Noir,0000,0000,0000,,Alice, ta compassion me touche,
+Dialogue: 0,0:03:12.75,0:03:14.88,Default,Noir,0000,0000,0000,,mais on parle du fils du vicomte, là.
+Dialogue: 0,0:03:17.30,0:03:20.13,Default,Alice,0000,0000,0000,,Ça me fait trop mal au cœur\Npour toi !
+Dialogue: 0,0:03:20.97,0:03:25.39,Default,Alice,0000,0000,0000,,Je sais ! Et si tu passais\Nl’examen de l’école des héros ?
+Dialogue: 0,0:03:26.06,0:03:27.89,Default,Noir,0000,0000,0000,,L’école des héros ?
+Dialogue: 0,0:03:28.56,0:03:33.40,Default,Noir,0000,0000,0000,,Une fois diplômé\Nde cette école particulière,
+Dialogue: 0,0:03:33.73,0:03:37.15,Default,Noir,0000,0000,0000,,le travail ne manque pas\Ncomme garde royal ou comme chasseur.
+Dialogue: 0,0:03:38.86,0:03:40.65,Default,Noir,0000,0000,0000,,Je n’y arriverai jamais…
+Dialogue: 0,0:03:40.78,0:03:42.24,Default,Alice,0000,0000,0000,,Tu peux essayer, au moins !
+Dialogue: 0,0:03:42.57,0:03:45.16,Default,Alice,0000,0000,0000,,Si tu échoues,\Nje me chargerai de t’entretenir.
+Dialogue: 0,0:03:46.62,0:03:47.53,Default,Noir,0000,0000,0000,,Entendu…
+Dialogue: 0,0:03:51.75,0:03:53.54,Default,Emma,0000,0000,0000,,Noir !
+Dialogue: 0,0:03:56.71,0:03:58.50,Default,Emma,0000,0000,0000,,Hé, oh !
+Dialogue: 0,0:03:59.21,0:04:00.46,Default,Emma,0000,0000,0000,,Bonjour !
+Dialogue: 0,0:04:01.09,0:04:02.34,Default,Noir,0000,0000,0000,,Bonjour, Emma.
+Dialogue: 0,0:04:02.76,0:04:05.05,Italique,Noir,0000,0000,0000,,Voici Emma Brightness.
+Dialogue: 0,0:04:05.55,0:04:08.51,Italique,Noir,0000,0000,0000,,Elle est issue\Nd’une riche famille de barons.
+Dialogue: 0,0:04:08.85,0:04:12.27,Italique,Noir,0000,0000,0000,,Nos parents sont amis.\NJe la connais depuis l’enfance.
+Dialogue: 0,0:04:12.74,0:04:15.46,Default,Emma,0000,0000,0000,,À partir d’aujourd’hui,\Non va être bibliothécaires !
+Dialogue: 0,0:04:15.65,0:04:17.11,Default,Emma,0000,0000,0000,,Serrons-nous les coudes.
+Dialogue: 0,0:04:17.94,0:04:20.57,Default,Noir,0000,0000,0000,,Emma, à propos de ça…
+Dialogue: 0,0:04:22.74,0:04:25.95,Default,Emma,0000,0000,0000,,Alors comme ça,\Ntu ne peux pas avoir le poste ?
+Dialogue: 0,0:04:26.53,0:04:27.45,Default,Noir,0000,0000,0000,,Non…
+Dialogue: 0,0:04:28.28,0:04:29.49,Default,Emma,0000,0000,0000,,Je rêve…
+Dialogue: 0,0:04:31.37,0:04:33.50,Default,Noir,0000,0000,0000,,Tu es déçue à ce point ?
+Dialogue: 0,0:04:33.62,0:04:37.42,Default,Emma,0000,0000,0000,,Évidemment !\NJ’avais une bonne histoire à raconter…
+Dialogue: 0,0:04:38.34,0:04:40.09,Default,Emma,0000,0000,0000,,tu sais, concernant ta capacité.
+Dialogue: 0,0:04:40.34,0:04:42.76,Default,Noir,0000,0000,0000,,Ma capacité ? Le Grand Sage ?
+Dialogue: 0,0:04:43.13,0:04:50.89,Text_Box_Body,Sign,0000,0000,0000,,{\1a&HFF&\3a&HFF&\3c&H000000&\p1\fscx424\fscy304\bord5.5\blur1\pos(317,210)\t(2865,3281,1 \3a&H00&)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:04:43.13,0:04:50.89,Text_Box_Body,Sign,0000,0000,0000,,{\1a&HFF&\3a&HFF&\p1\fscx424\fscy304\bord4\pos(317,210)\t(2865,3281,1 \1a&H99&\3a&H00&)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:04:43.13,0:04:50.89,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(403,1)\move(315,225,315,185,2656,3281)\fs18}CAPACITÉ {\fs20\fscy110}[GRAND SAGE]
+Dialogue: 0,0:04:43.42,0:04:46.18,Italique,Noir,0000,0000,0000,,{\an8}Le Grand Sage\Nest mon unique capacité.
+Dialogue: 0,0:04:46.22,0:04:50.89,Text_Box_Text,Sign,0000,0000,0000,,{\fad(399,1)\pos(164,210)}ENSEIGNE TOUS LES SAVOIRS DU MONDE (MÊME LES CHOSES INEXPLIQUÉES)
+Dialogue: 0,0:04:46.84,0:04:50.76,Italique,Noir,0000,0000,0000,,{\an8}C’est un don assez rare\Nqui m’apprend tous les savoirs du monde.
+Dialogue: 0,0:04:51.31,0:04:53.81,Italique,Noir,0000,0000,0000,,Quand il a été identifié à l’église,
+Dialogue: 0,0:04:53.93,0:04:55.77,Italique,Noir,0000,0000,0000,,mes parents étaient fous de joie.
+Dialogue: 0,0:04:56.40,0:04:57.27,Italique,Noir,0000,0000,0000,,Toutefois,
+Dialogue: 0,0:04:58.56,0:05:00.57,Italique,Noir,0000,0000,0000,,je ne sais pas comment m’en servir.
+Dialogue: 0,0:05:00.52,0:05:03.57,sign_7206_94_Q__What_s_tomorr,Sign,0000,0000,0000,,{\pos(20,165)}Q : QUEL TEMPS FERA-T-IL,\N\h\h\h\hDEMAIN ?
+Dialogue: 0,0:05:01.82,0:05:03.57,Italique,Noir,0000,0000,0000,,Techniquement, j’y parviens.
+Dialogue: 0,0:05:01.98,0:05:03.57,sign_7206_94_Q__What_s_tomorr,Sign,0000,0000,0000,,{\c&H4B39EB&\3c&H4E3ECC&\pos(500,158)}R : IL FERA\NBEAU !
+Dialogue: 0,0:05:03.94,0:05:05.57,Italique,Noir,0000,0000,0000,,Or, lorsque je l’utilise,
+Dialogue: 0,0:05:05.70,0:05:08.95,Italique,Noir,0000,0000,0000,,j’écope de migraines si atroces\Nque c’en est intolérable.
+Dialogue: 0,0:05:09.05,0:05:11.12,Italique,Noir,0000,0000,0000,,Par conséquent,\Nj’évite de m’en servir.
+Dialogue: 0,0:05:12.08,0:05:16.83,Default,Emma,0000,0000,0000,,Hier, j’ai consulté de vieilles archives\Net je suis tombée sur ce dicton.
+Dialogue: 0,0:05:17.79,0:05:22.05,Default,Emma,0000,0000,0000,,« Lorsque Marlin, vieux sage,\Navait de violents maux de tête,
+Dialogue: 0,0:05:22.30,0:05:26.34,Default,Emma,0000,0000,0000,,il rassemblait ses épouses\Net exigeait qu’elles l’embrassent. »
+Dialogue: 0,0:05:26.76,0:05:28.26,Default,Noir,0000,0000,0000,,Pourquoi faire ça ?
+Dialogue: 0,0:05:28.51,0:05:32.64,Default,Emma,0000,0000,0000,,Sans doute que les baisers\Natténuaient sa douleur.
+Dialogue: 0,0:05:34.52,0:05:35.89,Default,Emma,0000,0000,0000,,Tu ne crois pas ?
+Dialogue: 0,0:05:37.19,0:05:38.98,Default,Noir,0000,0000,0000,,C’est peut-être possible.
+Dialogue: 0,0:05:41.65,0:05:43.90,Default,Emma,0000,0000,0000,,Tu m’embrasses, pour vérifier ?
+Dialogue: 0,0:05:44.49,0:05:45.24,Default,Noir,0000,0000,0000,,Tu veux bien ?
+Dialogue: 0,0:05:45.94,0:05:48.66,Default,Emma,0000,0000,0000,,Bah, je suis la seule,\Nde toute façon !
+Dialogue: 0,0:05:48.78,0:05:51.53,Default,Emma,0000,0000,0000,,Je peux m’y coller,\Non se connaît depuis tout petits.
+Dialogue: 0,0:05:51.78,0:05:54.50,Default,Emma,0000,0000,0000,,On ne dirait pas,\Nmais on est adultes.
+Dialogue: 0,0:05:55.91,0:05:56.71,Default,Noir,0000,0000,0000,,Dans ce cas…
+Dialogue: 0,0:06:01.71,0:06:02.75,Default,Emma,0000,0000,0000,,Attends !
+Dialogue: 0,0:06:03.59,0:06:06.42,Default,Emma,0000,0000,0000,,Mettons-nous plus dans l’ambiance…
+Dialogue: 0,0:06:14.72,0:06:15.81,Default,Emma,0000,0000,0000,,Vas-y.
+Dialogue: 0,0:06:19.94,0:06:21.15,Default,Noir,0000,0000,0000,,Je me permets.
+Dialogue: 0,0:06:38.91,0:06:39.96,Default,Emma,0000,0000,0000,,Courage !
+Dialogue: 0,0:06:43.34,0:06:45.84,Italique,Noir,0000,0000,0000,,Réponds à ma question, Grand Sage.
+Dialogue: 0,0:06:48.38,0:06:49.30,Italique,Grand sage,0000,0000,0000,,Pour vous servir.
+Dialogue: 0,0:06:50.22,0:06:53.30,Italique,Noir,0000,0000,0000,,Afin de réussir l’examen,\Nje dois devenir plus fort.
+Dialogue: 0,0:06:53.68,0:06:55.89,Italique,Noir,0000,0000,0000,,Comment y arriver\Nde manière efficace ?
+Dialogue: 0,0:06:56.43,0:06:58.77,Italique,Grand sage,0000,0000,0000,,Explore un donjon caché.
+Dialogue: 0,0:06:58.98,0:07:00.27,Italique,Noir,0000,0000,0000,,Un donjon caché ?
+Dialogue: 0,0:07:00.77,0:07:02.52,Italique,Noir,0000,0000,0000,,Lequel est le plus près d’ici ?
+Dialogue: 0,0:07:02.77,0:07:06.48,Italique,Grand sage,0000,0000,0000,,Dans une grotte\Nà 15 000 mètres au sud-ouest,
+Dialogue: 0,0:07:06.73,0:07:10.53,Italique,Grand sage,0000,0000,0000,,dissimulé par un mécanisme d’un mur,\Nse trouve le labyrinthe infini.
+Dialogue: 0,0:07:12.41,0:07:13.53,Default,Noir,0000,0000,0000,,Ma tête !
+Dialogue: 0,0:07:14.16,0:07:16.83,TiretsDefault,Emma,0222,0000,0000,,– Refaisons-le !\N– S’il te plaît, Emma !
+Dialogue: 0,0:07:25.54,0:07:27.34,Italique,Noir,0000,0000,0000,,Ma migraine s’apaise…
+Dialogue: 0,0:07:40.23,0:07:43.35,Default,Emma,0000,0000,0000,,Tu as toujours mal ?
+Dialogue: 0,0:07:43.52,0:07:44.44,Default,Noir,0000,0000,0000,,Oui.
+Dialogue: 0,0:07:52.20,0:07:53.61,Italique,Noir,0000,0000,0000,,Je suis paré et équipé.
+Dialogue: 0,0:07:54.50,0:07:56.62,Italique,Noir,0000,0000,0000,,J’ai également\Nl’épée empruntée à père.
+Dialogue: 0,0:08:05.63,0:08:06.96,Default,Noir,0000,0000,0000,,Le mécanisme…
+Dialogue: 0,0:08:08.00,0:08:09.13,Default,Noir,0000,0000,0000,,ça serait ça ?
+Dialogue: 0,0:08:22.23,0:08:25.10,Italique,Grand sage,0000,0000,0000,,Il faut une formule\Npour ouvrir la porte.
+Dialogue: 0,0:08:25.23,0:08:27.06,Italique,Grand sage,0000,0000,0000,,La voici…
+Dialogue: 0,0:08:29.73,0:08:31.69,Default,Noir,0000,0000,0000,,Donjon caché\Noù moi seul peux entrer,
+Dialogue: 0,0:08:32.15,0:08:34.57,Default,Noir,0000,0000,0000,,je me suis entraîné\Npour être le meilleur !
+Dialogue: 0,0:08:50.92,0:08:52.21,Italique,Olivia,0000,0000,0000,,Ouvre la porte.
+Dialogue: 0,0:09:13.32,0:09:15.86,Default,Noir,0000,0000,0000,,Vous êtes vivante…\Nou j’imagine tout ça ?
+Dialogue: 0,0:09:16.28,0:09:18.49,Italique,Olivia,0000,0000,0000,,Pose ta main sur ma tête.
+Dialogue: 0,0:09:24.54,0:09:26.79,Italique,Olivia,0000,0000,0000,,Je m’appelle Olivia Servant.
+Dialogue: 0,0:09:26.92,0:09:29.50,Italique,Olivia,0000,0000,0000,,Je suis une super aventurière\Nde première classe.
+Dialogue: 0,0:09:29.92,0:09:33.55,Italique,Olivia,0000,0000,0000,,J’ai découvert ce donjon caché\Nalors que je me promenais.
+Dialogue: 0,0:09:33.92,0:09:36.59,Italique,Olivia,0000,0000,0000,,J’ai déjoué le mécanisme\Net suis entrée par moi-même.
+Dialogue: 0,0:09:36.76,0:09:40.47,Italique,Olivia,0000,0000,0000,,Au 2e niveau, un monstre a surgi,\Nque j’ai repoussé en un tour de magie.
+Dialogue: 0,0:09:40.89,0:09:42.72,Italique,Olivia,0000,0000,0000,,Tout allait bien, jusqu’à ce que…
+Dialogue: 0,0:09:43.52,0:09:45.48,Italique,Olivia,0000,0000,0000,,le piège se referme sur moi.
+Dialogue: 0,0:09:47.10,0:09:50.40,Italique,Olivia,0000,0000,0000,,Je suis ligotée ainsi depuis 200 ans.
+Dialogue: 0,0:09:50.52,0:09:52.65,Default,Noir,0000,0000,0000,,200 ans ? Je vais défaire tes fers.
+Dialogue: 0,0:09:52.77,0:09:56.74,Italique,Olivia,0000,0000,0000,,Surtout pas ! Il s’agit d’un sort\Ndu nom de Fers mortels.
+Dialogue: 0,0:09:56.99,0:09:59.07,Italique,Olivia,0000,0000,0000,,Si tu les touches, je mourrai.
+Dialogue: 0,0:10:00.12,0:10:01.87,Default,Noir,0000,0000,0000,,Pourquoi m’avoir incité à venir ?
+Dialogue: 0,0:10:02.03,0:10:04.08,Italique,Olivia,0000,0000,0000,,Je cherchais quelqu’un à qui parler.
+Dialogue: 0,0:10:04.45,0:10:08.58,Italique,Olivia,0000,0000,0000,,J’ai longtemps cru que c’était inutile,\Nmais j’ai persévéré, et te voilà !
+Dialogue: 0,0:10:09.79,0:10:13.25,Italique,Olivia,0000,0000,0000,,J’ai tellement attendu ce moment !
+Dialogue: 0,0:10:15.09,0:10:16.17,Italique,Olivia,0000,0000,0000,,Au fait,
+Dialogue: 0,0:10:16.30,0:10:19.51,Italique,Olivia,0000,0000,0000,,quels force et courage,\Nta venue ici m’impressionne.
+Dialogue: 0,0:10:19.64,0:10:20.59,Italique,Olivia,0000,0000,0000,,Quel est ton nom ?
+Dialogue: 0,0:10:21.05,0:10:22.47,Default,Noir,0000,0000,0000,,Noir Stardia.
+Dialogue: 0,0:10:22.60,0:10:23.81,Italique,Olivia,0000,0000,0000,,Noir, donc.
+Dialogue: 0,0:10:24.26,0:10:26.10,Italique,Olivia,0000,0000,0000,,Et que fais-tu dans ce lieu ?
+Dialogue: 0,0:10:26.68,0:10:27.73,Default,Noir,0000,0000,0000,,Eh bien…
+Dialogue: 0,0:10:30.23,0:10:32.98,Italique,Olivia,0000,0000,0000,,Je vois.\NJe comprends mieux la situation.
+Dialogue: 0,0:10:33.86,0:10:36.19,Italique,Olivia,0000,0000,0000,,Le Grand Sage\Na omis des informations.
+Dialogue: 0,0:10:36.44,0:10:40.49,Italique,Olivia,0000,0000,0000,,Au 2e niveau, Olivia, une beauté,\Nest retenue prisonnière.
+Dialogue: 0,0:10:40.60,0:10:42.76,Default,Noir,0000,0000,0000,,Je l’ignorais,\Nil ne t’a pas mentionnée.
+Dialogue: 0,0:10:42.87,0:10:46.95,Italique,Olivia,0000,0000,0000,,Peu importe.\NTu veux être puissant, c’est ça ?
+Dialogue: 0,0:10:47.08,0:10:49.58,Italique,Olivia,0000,0000,0000,,Dans ce cas,\Nje vais te conférer mes capacités.
+Dialogue: 0,0:10:50.54,0:10:52.46,Italique,Olivia,0000,0000,0000,,Comme tu le vois, je suis entravée.
+Dialogue: 0,0:10:52.83,0:10:55.50,Italique,Olivia,0000,0000,0000,,Pourrais-tu appuyer ta tête\Ncontre la mienne ?
+Dialogue: 0,0:10:56.88,0:10:58.13,Default,Noir,0000,0000,0000,,Comme ça ?
+Dialogue: 0,0:11:02.09,0:11:03.51,Italique,Olivia,0000,0000,0000,,Tadam !
+Dialogue: 0,0:11:03.85,0:11:07.14,Italique,Olivia,0000,0000,0000,,Tu possèdes désormais\Ntoutes mes capacités.
+Dialogue: 0,0:11:07.93,0:11:10.56,Italique,Olivia,0000,0000,0000,,Je peux enfin mourir en paix.
+Dialogue: 0,0:11:11.19,0:11:13.11,Default,Noir,0000,0000,0000,,Non ! Reste avec moi !
+Dialogue: 0,0:11:13.40,0:11:15.23,Italique,Olivia,0000,0000,0000,,Tu y as vraiment cru ?
+Dialogue: 0,0:11:15.52,0:11:18.11,Italique,Olivia,0000,0000,0000,,Je suis ton maître, à présent.
+Dialogue: 0,0:11:19.49,0:11:22.53,Italique,Olivia,0000,0000,0000,,Laisse-moi\Nt’expliquer brièvement mes dons.
+Dialogue: 0,0:11:23.16,0:11:24.41,Italique,Olivia,0000,0000,0000,,Celui de création.
+Dialogue: 0,0:11:24.91,0:11:28.41,Italique,Olivia,0000,0000,0000,,Il permet de matérialiser\Nce que tu visualises.
+Dialogue: 0,0:11:29.08,0:11:30.29,Italique,Olivia,0000,0000,0000,,Celui d’octroi.
+Dialogue: 0,0:11:30.50,0:11:34.00,Italique,Olivia,0000,0000,0000,,Il octroie les capacités que tu crées,\Nà un animal comme à un humain.
+Dialogue: 0,0:11:31.12,0:11:31.79,Text_Box_Body,Sign,0000,0000,0000,,{\1a&HFF&\3a&HFF&\3c&H000000&\p1\fscx130\fscy330\bord5.5\blur1\t(1,195,1 \3a&H00&)\pos(455,120)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:11:31.12,0:11:31.79,Text_Box_Body,Sign,0000,0000,0000,,{\1a&HFF&\3a&HFF&\p1\fscx130\fscy330\bord4\t(1,195,1 \1a&H77&\3a&H00&)\pos(455,120)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:11:31.12,0:11:31.79,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(69,1)\pos(440,93)}NOIR
+Dialogue: 0,0:11:31.33,0:11:31.79,Text_Box_Text,Sign,0000,0000,0000,,{\fad(69,1)\an5\pos(455,120)\fs22}AILES
+Dialogue: 0,0:11:34.75,0:11:36.17,Italique,Olivia,0000,0000,0000,,Celui d’édition.
+Dialogue: 0,0:11:36.29,0:11:37.25,Text_Box_Body,Sign,0000,0000,0000,,{\fad(1,54)\p1\fscx130\fscy330\bord5.5\blur1\pos(471,190)\3c&H000000&}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:11:36.29,0:11:37.25,Text_Box_Body,Sign,0000,0000,0000,,{\fad(1,54)\p1\fscx130\fscy330\bord4\pos(471,190)\1a&HCC&}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:11:36.29,0:11:37.25,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(1,54)\pos(456,163)}NOIR
+Dialogue: 0,0:11:36.29,0:11:37.25,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,54)\an5\fs22\pos(471,190)}AILES
+Dialogue: 0,0:11:36.67,0:11:39.63,Italique,Olivia,0000,0000,0000,,Les capacités attribuées\Npeuvent être modifiées.
+Dialogue: 0,0:11:36.80,0:11:37.25,Text_Box_Text,Sign,0000,0000,0000,,{\fad(62,54)\c&H4933CF&\shad0\fnArial\pos(440,188)}————
+Dialogue: 0,0:11:36.88,0:11:37.25,Text_Box_Text,Sign,0000,0000,0000,,{\fad(66,54)\c&H4933CF&\shad0\fnArial\pos(440,194)}————
+Dialogue: 0,0:11:40.67,0:11:43.39,Default,Noir,0000,0000,0000,,Création, octroi, édition…
+Dialogue: 0,0:11:40.67,0:11:52.23,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\fad(1,937)}DONS
+Dialogue: 0,0:11:40.67,0:11:52.23,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\q2\pos(104,160)\c&H34D236&\3c&H439544&\fad(1,937)}CRÉATION
+Dialogue: 0,0:11:41.80,0:11:52.23,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\pos(320,160)\c&H1377EC&\3c&H1452C2&\fad(1,937)}OCTROI
+Dialogue: 0,0:11:42.55,0:11:52.23,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\c&HC03079&\3c&H832650&\pos(536,160)\fad(1,937)}ÉDITION
+Dialogue: 0,0:11:43.80,0:11:47.10,Default,Noir,0000,0000,0000,,En fonction du procédé,\Ntoute attaque est à ma portée.
+Dialogue: 0,0:11:47.43,0:11:48.85,Italique,Olivia,0000,0000,0000,,Cependant, sois prudent.
+Dialogue: 0,0:11:49.06,0:11:53.31,Italique,Olivia,0000,0000,0000,,Tu as besoin de points vitaux, les PV,\Npour te servir de tes dons.
+Dialogue: 0,0:11:51.35,0:11:53.94,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\fad(903,1)\q2\pos(320,175)}PV
+Dialogue: 0,0:11:53.94,0:11:57.32,Italique,Olivia,0000,0000,0000,,Une puissante capacité\Nexige beaucoup de PV.
+Dialogue: 0,0:11:53.94,0:12:00.82,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\fad(1,518)\pos(136,84)\c&H0906A7&\3c&HFFFFFF&\shad1\4c&H9BD9D9&}LENT
+Dialogue: 0,0:11:53.94,0:12:00.82,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\fad(1,518)\pos(303,84)\c&HDA7818&\3c&HFFFFFF&\shad1\4c&H9BD9D9&}RAPIDE
+Dialogue: 0,0:11:57.44,0:12:00.49,Italique,Olivia,0000,0000,0000,,Tu devras alors les multiplier\Ngrâce à une conversion.
+Dialogue: 0,0:12:00.32,0:12:08.70,sign_16800_201_Skills_,Sign,0000,0000,0000,,{\fad(525,1)\q2\pos(320,130)\c&HAA8416&\3c&H795719&}CONVERSION {\c&H54BAEA&\3c&H2B4DAF&}DE PV
+Dialogue: 0,0:12:00.86,0:12:02.40,Default,Noir,0000,0000,0000,,Une conversion de PV ?
+Dialogue: 0,0:12:02.65,0:12:05.70,Italique,Olivia,0000,0000,0000,,Lorsque tu fais\Nquelque chose d’agréable,
+Dialogue: 0,0:12:05.82,0:12:08.03,Italique,Olivia,0000,0000,0000,,ton niveau de bien-être\Nest transformé en PV.
+Dialogue: 0,0:12:08.95,0:12:13.08,Italique,Olivia,0000,0000,0000,,Par exemple, le plaisir charnel.\NLe contact avec l’autre sexe…
+Dialogue: 0,0:12:13.25,0:12:17.42,Italique,Olivia,0000,0000,0000,,L’appétit, également.\NDe bons mets revigorent.
+Dialogue: 0,0:12:17.79,0:12:19.13,Italique,Olivia,0000,0000,0000,,Enfin, le désir matériel.
+Dialogue: 0,0:12:19.25,0:12:21.88,Italique,Olivia,0000,0000,0000,,Plus tu gagnes,\Nplus tu pourras te récompenser.
+Dialogue: 0,0:12:23.26,0:12:24.93,Default,Noir,0000,0000,0000,,Que des désirs…
+Dialogue: 0,0:12:25.64,0:12:29.01,Italique,Olivia,0000,0000,0000,,Et si jamais tes PV chutent à 0,\Ntu meurs.
+Dialogue: 0,0:12:29.18,0:12:31.48,Italique,Noir,0000,0000,0000,,Elle aurait pu commencer par ça.
+Dialogue: 0,0:12:31.68,0:12:33.77,Italique,Olivia,0000,0000,0000,,Où en sont tes PV, actuellement ?
+Dialogue: 0,0:12:34.00,0:12:35.27,Italique,Olivia,0000,0000,0000,,Recueille-toi, pour voir.
+Dialogue: 0,0:12:35.90,0:12:36.81,Default,Noir,0000,0000,0000,,D’accord…
+Dialogue: 0,0:12:38.11,0:12:39.61,Default,Noir,0000,0000,0000,,Ils sont à 550.
+Dialogue: 0,0:12:39.73,0:12:41.40,Italique,Olivia,0000,0000,0000,,550, hein ?
+Dialogue: 0,0:12:41.65,0:12:43.74,Italique,Olivia,0000,0000,0000,,Bien, et si tu essayais la création ?
+Dialogue: 0,0:12:44.03,0:12:46.32,Default,Noir,0000,0000,0000,,Entendu. Alors…
+Dialogue: 0,0:12:52.95,0:12:55.42,Default,Noir,0000,0000,0000,,Création,\Ncapacité de projectiles rocheux.
+Dialogue: 0,0:12:58.71,0:13:00.00,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fs30\an8\pos(142,60)\3c&H4C4B49&\4c&H4C4B49&}CAPACITÉ
+Dialogue: 0,0:12:58.71,0:13:00.00,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\an8\3c&H4C4B49&\4c&H4C4B49&\pos(482,30)}PROJECTILES ROCHEUX
+Dialogue: 0,0:13:00.59,0:13:03.59,Text_Box_Body,Sign,0000,0000,0000,,{\p1\fscx250\fscy330\bord3\blur1\pos(500,215)\3c&H000000&}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:13:00.59,0:13:03.59,Text_Box_Body,Sign,0000,0000,0000,,{\p1\fscx250\fscy330\bord2\1a&HAA&\pos(500,215)\c&HAF8264&}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:13:00.59,0:13:03.59,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\pos(500,188)\fs16\shad1\bord1}NOIR STARDIA  {\fs12}PV {\fs20}500
+Dialogue: 0,0:13:00.59,0:13:03.59,Text_Box_Text,Sign,0000,0000,0000,,{\fs12\pos(404,217)\an4\4a&H88&}CAPACITÉS {\fs13}[GRAND SAGE]\N{\fs12\alpha&HFF&}CAPACITÉS {\fs13\alpha&H00&\4a&H88&}[CRÉATION] [ÉDITION]\N{\fs12\alpha&HFF&}CAPACITÉS {\fs13\alpha&H00&\4a&H88&}[OCTROI][CONVERSION] {\alpha&HFF&\t(2359,2567,1 \alpha&H00&\4a&H88&)}\N{\fs12\alpha&HFF&}CAPACITÉS {\fs13\t(2400,1738,1 \alpha&H00&\4a&H88&)}[PROJECTILES]
+Dialogue: 0,0:13:05.72,0:13:09.64,Italique,Noir,0000,0000,0000,,Pour les projectiles rocheux,\Nje visualise les poussières de l’air
+Dialogue: 0,0:13:10.26,0:13:11.06,Italique,Noir,0000,0000,0000,,que je lance !
+Dialogue: 0,0:13:15.64,0:13:16.69,Default,Noir,0000,0000,0000,,Je l’ai eu.
+Dialogue: 0,0:13:17.69,0:13:19.61,Default,Noir,0000,0000,0000,,Je me sens un peu lourd,\Npar contre…
+Dialogue: 0,0:13:20.52,0:13:24.36,Default,Noir,0000,0000,0000,,Il va falloir que je trouve\Nun moyen de gagner des PV.
+Dialogue: 0,0:13:25.07,0:13:27.53,Default,Noir,0000,0000,0000,,Je vais en rester là pour aujourd’hui.
+Dialogue: 0,0:13:31.16,0:13:32.41,Default,Alice,0000,0000,0000,,Noir…
+Dialogue: 0,0:13:33.95,0:13:38.79,Default,Alice,0000,0000,0000,,mes genoux, est-ce qu’ils sont\Nassez confortables pour toi ?
+Dialogue: 0,0:13:39.92,0:13:41.42,Default,Noir,0000,0000,0000,,Je revis !
+Dialogue: 0,0:13:42.05,0:13:44.46,Default,Noir,0000,0000,0000,,Tu pourras m’étreindre\Navant que je m’endorme ?
+Dialogue: 0,0:13:46.09,0:13:50.26,Italique,Noir,0000,0000,0000,,J’ai la chance d’avoir une gentille sœur\Nqui est aussi jolie.
+Dialogue: 0,0:13:50.47,0:13:52.93,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(443,1)\fs16\3a&H66&\4a&H66&\pos(445,218)\an1}NOIR STARDIA PV
+Dialogue: 0,0:13:54.31,0:13:56.43,Italique,Alice,0110,0000,0000,,Donjon caché\Noù moi seule peux entrer !
+Dialogue: 0,0:14:01.77,0:14:03.94,Default,Emma,0000,0000,0000,,Désolée de t’avoir fait attendre,\NNoir.
+Dialogue: 0,0:14:05.94,0:14:08.49,Default,Noir,0000,0000,0000,,Pardonne-moi, tu as dû te déplacer.
+Dialogue: 0,0:14:08.78,0:14:11.20,Default,Emma,0000,0000,0000,,Ce n’est rien.\NDe quoi voulais-tu qu’on discute ?
+Dialogue: 0,0:14:11.30,0:14:12.91,Default,Noir,0000,0000,0000,,J’ai un service à te demander.
+Dialogue: 0,0:14:13.24,0:14:15.95,Default,Noir,0000,0000,0000,,D’ailleurs,\Ntu sembles différente, aujourd’hui.
+Dialogue: 0,0:14:16.12,0:14:18.29,Default,Emma,0000,0000,0000,,Ah ? Tu trouves ?
+Dialogue: 0,0:14:18.42,0:14:20.75,Default,Noir,0000,0000,0000,,D’habitude, tu fais plus discrète.
+Dialogue: 0,0:14:20.88,0:14:25.17,Default,Emma,0000,0000,0000,,Ils n’ont d’yeux que pour ma poitrine !\NPas le choix, je la cache.
+Dialogue: 0,0:14:25.92,0:14:28.05,Default,Noir,0000,0000,0000,,Cette tenue, elle dévoile beaucoup…
+Dialogue: 0,0:14:28.22,0:14:30.51,Default,Emma,0000,0000,0000,,Je voulais faire une exception\Npour là.
+Dialogue: 0,0:14:31.05,0:14:32.39,Default,Emma,0000,0000,0000,,Espèce d’idiot !
+Dialogue: 0,0:14:32.51,0:14:34.22,Default,Noir,0000,0000,0000,,Navré, ça m’inquiète !
+Dialogue: 0,0:14:34.51,0:14:36.77,Default,Noir,0000,0000,0000,,Tu es une amie d’enfance précieuse.
+Dialogue: 0,0:14:36.89,0:14:40.19,Default,Emma,0000,0000,0000,,Ce sont de belles paroles,\Nmais ça ne suffit pas.
+Dialogue: 0,0:14:40.56,0:14:43.15,Default,Noir,0000,0000,0000,,Si je te prenais dans mes bras,\Ntu aimerais ?
+Dialogue: 0,0:14:44.23,0:14:45.53,Default,Emma,0000,0000,0000,,Oui, pourquoi ?
+Dialogue: 0,0:14:47.99,0:14:50.36,Default,Noir,0000,0000,0000,,Bon, je me permets, dans ce cas.
+Dialogue: 0,0:14:52.12,0:14:54.83,Default,Noir,0000,0000,0000,,Ton parfum m’apaise,
+Dialogue: 0,0:14:55.33,0:14:56.20,Default,Noir,0000,0000,0000,,et aussi…
+Dialogue: 0,0:14:56.66,0:14:58.66,Default,Sign,0000,0000,0000,,{\fs16\3a&H66&\4a&H66&\an1\pos(460,17)\b1\bord1}NOIR STARDIA PV
+Dialogue: 0,0:14:58.87,0:15:01.42,Time/Place_Setting,Sign,0000,0000,0000,,{\fad(236,1)\blur2}QUELQUES HEURES AUPARAVANT
+Dialogue: 0,0:15:01.75,0:15:03.79,Italique,Noir,0000,0000,0000,,Dis-moi, Olivia…
+Dialogue: 0,0:15:06.88,0:15:07.80,Italique,Noir,0000,0000,0000,,Maître !
+Dialogue: 0,0:15:08.01,0:15:09.05,Italique,Olivia,0000,0000,0000,,Oui ?
+Dialogue: 0,0:15:09.22,0:15:13.93,Italique,Noir,0000,0000,0000,,J’aimerais créer un sort utile\Npour l’examen de l’école des héros.
+Dialogue: 0,0:15:14.05,0:15:16.10,Italique,Olivia,0000,0000,0000,,Qui dit examen dit triche !
+Dialogue: 0,0:15:16.22,0:15:17.39,Italique,Noir,0000,0000,0000,,Aucune morale…
+Dialogue: 0,0:15:17.77,0:15:22.35,Italique,Olivia,0000,0000,0000,,Tu es trop naïf, Noir. Pas étonnant\Nqu’on t’ait chipé ton travail.
+Dialogue: 0,0:15:23.81,0:15:27.61,Italique,Olivia,0000,0000,0000,,Ça te coûtera 300 PV,\Nmais j’ai ce dont tu as besoin.
+Dialogue: 0,0:15:27.73,0:15:28.78,Italique,Olivia,0000,0000,0000,,Qu’en penses-tu ?
+Dialogue: 0,0:15:29.24,0:15:30.28,Italique,Noir,0000,0000,0000,,Je suis tout ouïe !
+Dialogue: 0,0:15:30.74,0:15:32.11,Italique,Olivia,0000,0000,0000,,Il s’agit…
+Dialogue: 0,0:15:32.61,0:15:40.16,Text_Box_Body,Sign,0000,0000,0000,,{\fad(447,347)\p1\fscx265\fscy420\bord3\blur1\pos(500,240)\3c&H000000&\t(7204,7579,1 \1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:32.61,0:15:40.16,Text_Box_Body,Sign,0000,0000,0000,,{\fad(447,347)\p1\fscx265\fscy420\bord2\1a&HAA&\c&HAF8264&\pos(500,240)\t(7204,7579,1 \1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:32.61,0:15:40.16,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(447,347)\fs18\an7\pos(410,185)\3c&H43463A&\bord1.5\t(7204,7579,1 \1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}ŒIL EXPERT
+Dialogue: 0,0:15:32.61,0:15:40.16,Text_Box_Text,Sign,0000,0000,0000,,{\fad(447,347)\pos(416,240)\an4\b0\t(7204,7579,1 \1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}PERMET L’IDENTIFICATION\NDE TOUT OBJET\NOU CRÉATURE VIVANTE
+Dialogue: 0,0:15:33.03,0:15:36.91,Italique,Olivia,0000,0000,0000,,de l’Œil expert,\Nqui permet l’identification !
+Dialogue: 0,0:15:37.20,0:15:39.79,Italique,Olivia,0000,0000,0000,,Avec ça,\Nton examen sera un jeu d’enfant !
+Dialogue: 0,0:15:40.96,0:15:42.12,Default,Noir,0000,0000,0000,,Merci, Emma.
+Dialogue: 0,0:15:42.67,0:15:45.63,Default,Emma,0000,0000,0000,,De rien.\NC’est comme si on se saluait.
+Dialogue: 0,0:15:46.09,0:15:49.13,Italique,Noir,0000,0000,0000,,Parfait,\Nà moi la capacité Œil expert.
+Dialogue: 0,0:15:49.17,0:15:50.55,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(403,1)\fs22\shad1\bord1\pos(483,151)}NOIR STARDIA  {\fs18}PV {\fs30}950
+Dialogue: 0,0:15:49.17,0:15:52.13,Text_Box_Body,Sign,0000,0000,0000,,{\fad(403,1)\p1\fscx294\fscy394\bord3\blur1\an1\move(490,260,490,266,1363,1617)\3c&H000000&\t(1363,1613,1 \fscy460)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:49.17,0:15:52.13,Text_Box_Body,Sign,0000,0000,0000,,{\fad(403,1)\p1\fscx294\fscy394\bord2\1a&HAA&\c&HAF8264&\an1\move(490,260,490,266,1363,1617)\t(1363,1613,1 \fscy460)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:49.17,0:15:52.13,Text_Box_Text,Sign,0000,0000,0000,,{\fad(403,1)\fs14\an4\4a&H88&\move(380,190,380,173,1363,1617)}CAPACITÉS {\fs15}[GRAND SAGE] [CRÉATION]\N{\fs14\alpha&HFF&}CAPACI {\fs15\alpha&H00&\4a&H88&}[ÉDITION] [OCTROI]\N{\fs14\alpha&HFF&}CAPACI {\fs15\alpha&H00&\4a&H88&}[CONVERSION] [PROJECTILES]\N{\fs14\alpha&HFF&}CAPACI {\fs15\alpha&HFF&\t(1363,1738,1\alpha&H00&\4a&H88&)}[ŒIL EXPERT]
+Dialogue: 0,0:15:49.17,0:15:52.13,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fs22\shad1\bord1\move(483,151,483,137,1363,1613)\alpha&HFF&\t(488,1362,1 \alpha&H00&)}NOIR STARDIA  {\fs18}PV {\fs30\t(488,1362,1 \alpha&H00&)}650
+Dialogue: 0,0:15:53.51,0:15:54.97,Italique,Noir,0000,0000,0000,,Testons-le.
+Dialogue: 0,0:15:56.55,0:16:03.27,Text_Box_Body,Sign,0000,0000,0000,,{\fad(406,892)\p1\bord3\blur1\3c&H000000&\fscx320\fscy560\pos(164,82)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:56.55,0:16:03.27,Text_Box_Body,Sign,0000,0000,0000,,{\fad(406,892)\p1\bord2\1a&HAA&\c&H582A0A&\fscx320\fscy560\pos(164,82)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:15:56.55,0:16:03.27,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(406,892)\an4\q2\pos(48,21.333)\fs22}EMMA BRIGHTNESS  {\fs18}NIV. {\fs30}17
+Dialogue: 0,0:15:56.55,0:16:03.27,Text_Box_Text,Sign,0000,0000,0000,,{\fad(406,892)\an9\fs16\pos(110,40)\fscy120}RACE\N{\fscx95}PROFESSION\N{\fscx100}CAPACITÉS
+Dialogue: 0,0:15:57.01,0:16:03.27,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,892)\an7\fs16\pos(118,40)\fscy120\alpha&HFF&\t(1,196,1 \alpha&H00&)}[HUMAINE]\N{\alpha&HFF&\t(30,237,1 \alpha&H00&)}[BIBLIOTHÉCAIRE]\N{\alpha&HFF&\fscx78\t(72,279,1 \alpha&H00&)}[ESCRIME À DEUX MAINS (RANG C)]\N{\alpha&HFF&\fscx100\t(113,321,1 \alpha&H00&)}[TORNADE]
+Dialogue: 0,0:15:57.26,0:16:00.14,Italique,Noir,0000,0000,0000,,Ça y est !\NJe suis convaincu de réussir l’examen.
+Dialogue: 0,0:16:00.73,0:16:02.60,Italique,Noir,0000,0000,0000,,Je dois remercier Emma.
+Dialogue: 0,0:16:04.56,0:16:07.73,Default,Emma,0000,0000,0000,,J’ai les épaules courbaturées.\NMa poitrine me pèse…
+Dialogue: 0,0:16:08.36,0:16:09.07,Italique,Noir,0000,0000,0000,,Bien !
+Dialogue: 0,0:16:09.07,0:16:15.07,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fs30\an8\pos(138,10)\shad2\4a&H00&}CAPACITÉ
+Dialogue: 0,0:16:09.07,0:16:15.07,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fs24\an8\shad2\4a&H00&\pos(506,10)}PETITE POITRINE
+Dialogue: 0,0:16:09.48,0:16:11.86,Italique,Noir,0000,0000,0000,,Créons Petite Poitrine,\Ndestinée à Emma.
+Dialogue: 0,0:16:11.61,0:16:15.07,Text_Box_Body,Sign,0000,0000,0000,,{\fad(778,1)\p1\bord3\blur1\3c&H000000&\fscx260\fscy500\pos(520,180)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:16:11.61,0:16:15.07,Text_Box_Body,Sign,0000,0000,0000,,{\fad(778,1)\p1\bord2\1a&HAA&\c&H76421D&\fscx260\fscy500\pos(520,180)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:16:12.07,0:16:15.07,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(359,1)\an4\q2\fs18\pos(424,180)\3a&H44&\4a&H44&\bord1\fscx70\fscy130}COÛT DE CRÉATION          PV {\fs30}30\N{\fs18\alpha&HFF&\t(653,1070,1 \3a&H44&\4a&H44&\1a&H00&)}COÛT D’OCTROI À EMMA  PV {\fs30}50
+Dialogue: 0,0:16:12.24,0:16:14.82,Italique,Noir,0000,0130,0000,,En totalité,\Nje consommerai 80 PV, mais bon…
+Dialogue: 0,0:16:28.00,0:16:29.71,Default,Emma,0000,0000,0000,,Qu’est-ce qui m’arrive ?
+Dialogue: 0,0:16:30.51,0:16:32.30,Default,Emma,0000,0000,0000,,Pourquoi ? Comment est-ce que…
+Dialogue: 0,0:16:32.42,0:16:34.88,Default,Noir,0000,0000,0000,,Finies, les courbatures.
+Dialogue: 0,0:16:35.09,0:16:37.72,Default,Noir,0000,0000,0000,,Beaucoup d’hommes\Naiment les petits seins, ça ira.
+Dialogue: 0,0:16:37.85,0:16:39.35,Default,Emma,0000,0000,0000,,C’est vrai ?
+Dialogue: 0,0:16:39.51,0:16:42.43,Default,Noir,0000,0000,0000,,Oui, même si moi,\Nje préfère les grosses poitrines.
+Dialogue: 0,0:16:42.56,0:16:46.19,Default,Emma,0000,0000,0000,,Annule tout ça, espèce d’abruti !
+Dialogue: 0,0:16:46.66,0:16:49.62,Italique,Noir,0000,0000,0000,,Finalement, j’ai fait marche arrière\Ngrâce au don Édition.
+Dialogue: 0,0:16:50.11,0:16:51.90,Italique,Noir,0000,0000,0000,,Quel gâchis de PV…
+Dialogue: 0,0:16:52.74,0:16:54.95,Time/Place_Setting,Sign,0000,0000,0000,,{\q2\blur2\fad(981,1)\pos(320,300)}ÉCOLE DES HÉROS        JOUR DE L’EXAMEN
+Dialogue: 0,0:16:55.28,0:16:57.41,TiretsDefault,Homme A / Homme B,0236,0000,0000,,– T’es prêt ?\N– Plus que jamais !
+Dialogue: 0,0:16:57.53,0:16:59.24,Italique,Noir,0000,0000,0000,,Des barons et des vicomtes…
+Dialogue: 0,0:16:59.58,0:17:02.45,Italique,Noir,0000,0000,0000,,Rien à voir\Navec un baronnet comme moi.
+Dialogue: 0,0:17:03.62,0:17:06.04,Default,Directeur,0000,0000,0000,,Nous allons commencer\Nl’examen d’entrée.
+Dialogue: 0,0:17:06.46,0:17:09.04,Default,Directeur,0000,0000,0000,,L’objectif, collecter des matériaux\Nsur des monstres.
+Dialogue: 0,0:17:09.35,0:17:12.02,Default,Directeur,0000,0000,0000,,Votre résultat dépendra\Nde leur volume et leur rareté.
+Dialogue: 0,0:17:12.30,0:17:16.22,Default,Directeur,0000,0000,0000,,De plus, vous constituerez\Ndes équipes de trois personnes.
+Dialogue: 0,0:17:16.89,0:17:19.80,Default,Directeur,0000,0000,0000,,Ceux restant sur le carreau\Nseront disqualifiés. Dispersion.
+Dialogue: 0,0:17:19.93,0:17:22.56,TiretsDefault,Homme A / Homme B,0207,0000,0000,,– Des équipes ?\N– J’étais pas au courant !
+Dialogue: 0,0:17:22.67,0:17:24.25,Default,Fille A,0000,0000,0000,,Il faut qu’on les forme, vite.
+Dialogue: 0,0:17:25.88,0:17:27.60,Default,Noir,0000,0000,0000,,Veuillez m’excuser, on fait équipe ?
+Dialogue: 0,0:17:29.23,0:17:31.15,Default,Garçon A,0000,0000,0000,,Baronnet à la noix.
+Dialogue: 0,0:17:36.65,0:17:37.49,Default,Noir,0000,0000,0000,,Pardon…
+Dialogue: 0,0:17:38.57,0:17:40.58,Default,Homme C,0000,0000,0000,,Je m’allie pas à un moins que rien.
+Dialogue: 0,0:17:43.37,0:17:44.75,Default,Noir,0000,0000,0000,,Un moins que rien ?
+Dialogue: 0,0:17:49.21,0:17:50.42,Default,Emma,0000,0000,0000,,On fait équipe ?
+Dialogue: 0,0:17:51.84,0:17:53.59,Default,Emma,0000,0000,0000,,Me voilà, Noir.
+Dialogue: 0,0:17:54.24,0:17:56.38,Default,Noir,0000,0000,0000,,Emma ? Pourquoi tu es là ?
+Dialogue: 0,0:17:56.67,0:17:58.09,Default,Noir,0000,0000,0000,,Et la bibliothèque ?
+Dialogue: 0,0:17:58.34,0:17:59.39,Default,Emma,0000,0000,0000,,J’ai arrêté.
+Dialogue: 0,0:17:59.76,0:18:02.35,Default,Emma,0000,0000,0000,,Je compte entrer à l’école des héros,\Nmoi aussi.
+Dialogue: 0,0:18:03.14,0:18:05.27,Default,Noir,0000,0000,0000,,Tu ne peux pas renoncer comme ça…
+Dialogue: 0,0:18:05.68,0:18:07.64,Default,Emma,0000,0000,0000,,Sinon, on n’est plus ensemble.
+Dialogue: 0,0:18:08.73,0:18:10.02,Default,Emma,0000,0000,0000,,Espèce d’abruti !
+Dialogue: 0,0:18:10.69,0:18:11.94,Default,Emma,0000,0000,0000,,Allez, on s’allie.
+Dialogue: 0,0:18:13.73,0:18:14.36,Default,Lenore,0000,0000,0000,,Dites,
+Dialogue: 0,0:18:14.67,0:18:15.69,Default,Lenore,0000,0000,0000,,je peux me joindre ?
+Dialogue: 0,0:18:16.78,0:18:18.45,Default,Lenore,0000,0000,0000,,Je me nomme Lenore Bludon.
+Dialogue: 0,0:18:18.88,0:18:21.49,Default,Lenore,0000,0000,0000,,Pas de formalités entre nous,\NLenore est suffisant.
+Dialogue: 0,0:18:22.20,0:18:25.25,Default,Emma,0000,0000,0000,,Moi, c’est Emma Brightness.\NEnchantée.
+Dialogue: 0,0:18:25.54,0:18:26.83,Default,Lenore,0000,0000,0000,,Brightness ?
+Dialogue: 0,0:18:27.25,0:18:29.00,Default,Lenore,0000,0000,0000,,Ah, de la famille des barons ?
+Dialogue: 0,0:18:29.62,0:18:31.33,Default,Noir,0000,0000,0000,,Mon nom est Noir Stardia.
+Dialogue: 0,0:18:31.71,0:18:33.63,Default,Lenore,0000,0000,0000,,Inutile de te présenter.
+Dialogue: 0,0:18:34.21,0:18:37.59,Default,Lenore,0000,0000,0000,,Je ne m’embêterai pas\Nà retenir le nom d’un baronnet.
+Dialogue: 0,0:18:38.63,0:18:39.59,Default,Directeur,0000,0000,0000,,Sur ce,
+Dialogue: 0,0:18:39.76,0:18:44.10,Default,Directeur,0000,0000,0000,,vous avez jusqu’à demain midi\Npour vous emparer des matériaux.
+Dialogue: 0,0:18:44.85,0:18:47.64,Default,Directeur,0000,0000,0000,,C’est parti ! Que le meilleur gagne !
+Dialogue: 0,0:18:47.77,0:18:49.64,TiretsDefault,Homme A / Homme B,0228,0000,0000,,– Au marché !\N– On va les acheter !
+Dialogue: 0,0:18:50.48,0:18:52.90,Default,Emma,0000,0000,0000,,On peut se procurer les matériaux ?
+Dialogue: 0,0:18:53.06,0:18:56.65,Default,Noir,0000,0000,0000,,C’est vrai, il n’a pas exigé\Nqu’on abatte les monstres.
+Dialogue: 0,0:18:56.86,0:18:59.11,Default,Lenore,0000,0000,0000,,Séparons-nous à partir d’ici.
+Dialogue: 0,0:19:00.03,0:19:03.74,Default,Lenore,0000,0000,0000,,Ne me fais pas échouer,\Nbourgeois de pacotille.
+Dialogue: 0,0:19:04.37,0:19:07.37,Default,Emma,0000,0000,0000,,Comme toujours,\Nles riches sont avantagés.
+Dialogue: 0,0:19:08.96,0:19:10.50,Default,Emma,0000,0000,0000,,Qu’est-ce que tu vas faire ?
+Dialogue: 0,0:19:10.87,0:19:13.54,Default,Emma,0000,0000,0000,,Si tu pars les collecter en chassant,\Nje t’accompagne.
+Dialogue: 0,0:19:13.79,0:19:16.05,Default,Noir,0000,0000,0000,,Non, attends mon retour.
+Dialogue: 0,0:19:16.63,0:19:18.51,Default,Noir,0000,0000,0000,,Je crois que j’ai un bon plan.
+Dialogue: 0,0:19:19.76,0:19:22.72,Italique,Noir,0000,0000,0000,,Il y a beaucoup de monstres rares,\Ndans le donjon caché.
+Dialogue: 0,0:19:23.26,0:19:26.01,Italique,Noir,0000,0000,0000,,Je suis donc venu\Njusqu’au 3e niveau.
+Dialogue: 0,0:19:27.72,0:19:29.58,Italique,Noir,0000,0000,0000,,Sauf que\Nje ne m’attendais pas à ça !
+Dialogue: 0,0:19:30.94,0:19:37.69,Text_Box_Body,Sign,0000,0000,0000,,{\p1\bord4\blur1\3c&H000000&\fscx320\fscy280\an1\t(2900,3483,1 \fscy560)\move(488.5,230,488.5,258,2900,3483)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:30.94,0:19:37.69,Text_Box_Body,Sign,0000,0000,0000,,{\p1\bord3\1a&HAA&\c&H582A0A&\fscx320\fscy280\an1\t(2900,3483,1 \fscy560)\move(488.5,230,488.5,258,2900,3483)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:30.94,0:19:37.69,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\move(489,156,489,100,2900,3483)}DEAD REAPER NIV. {\fs36}99
+Dialogue: 0,0:19:30.94,0:19:37.69,Text_Box_Text,Sign,0000,0000,0000,,{\fs15\an7\fscx85\fscy120\move(367,166,367,110,2900,3483)}CAPACITÉ [MORT SUBITE]\N{\alpha&HFF&}SKILL {\alpha&HFF&\t(2983,3024,1 \alpha&H00&)}CELUI QUI SUBIT LES DÉGÂTS DE SA FAUX\N{\alpha&HFF&}SKILL {\alpha&HFF&\t(3108,3149,1 \alpha&H00&)}MEURT SUR-LE-CHAMP. IMPOSSIBLE\N{\alpha&HFF&}SKILL {\alpha&HFF&\t(3275,3316,1 \alpha&H00&)}D’Y ÉCHAPPER SANS RÉSISTANCE.
+Dialogue: 0,0:19:31.14,0:19:33.15,Italique,Noir,0000,0220,0000,,Je suis encore qu’au niveau 23.
+Dialogue: 0,0:19:33.81,0:19:36.86,Italique,Noir,0000,0220,0000,,Et puis, si je me prends sa faux,\Nje meurs sur le coup !
+Dialogue: 0,0:19:48.24,0:19:50.87,Italique,Noir,0000,0000,0000,,Si je supprime\Nsa capacité Mort subite…
+Dialogue: 0,0:19:52.33,0:19:56.79,Text_Box_Body,Sign,0000,0000,0000,,{\fad(570,470)\p1\bord4\blur1\3c&H000000&\fscx320\fscy280\an1\pos(488.5,230)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:52.33,0:19:56.79,Text_Box_Body,Sign,0000,0000,0000,,{\fad(570,470)\p1\bord3\1a&HAA&\c&H582A0A&\fscx260\fscy300\an1\pos(475,252)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:52.33,0:19:56.79,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(570,470)\fs18\pos(476,169)}CAPACITÉ {\fs20\fscx90}[MORT SUBITE]
+Dialogue: 0,0:19:52.54,0:19:56.79,Text_Box_Text,Sign,0000,0000,0000,,{\fad(401,470)\pos(476,190)\fscx90\an5\b0}COÛT D’ÉDITION : {\fs32\b1}4 000
+Dialogue: 0,0:19:53.75,0:19:55.79,Italique,Noir,0000,0035,0000,,Je vais y rester huit fois !
+Dialogue: 0,0:19:59.05,0:20:08.01,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(1,513)\an1\fnTrebuchet MS\fs18\pos(420,207)\3c&H24211E&\4c&H25221E&}NOIR STARDIA
+Dialogue: 0,0:19:59.67,0:20:01.63,Italique,Noir,0000,0000,0000,,Création, Balourd, que je lui octroie.
+Dialogue: 0,0:20:03.09,0:20:07.68,Italique,Noir,0000,0000,0000,,Je l’ai freiné,\Nmais ça m’a coûté 200 PV !
+Dialogue: 0,0:20:10.39,0:20:12.27,Italique,Noir,0000,0000,0000,,Je suis totalement exténué !
+Dialogue: 0,0:20:13.52,0:20:16.61,Italique,Noir,0000,0000,0000,,En diminuant,\Nmes PV réduisent mon énergie vitale.
+Dialogue: 0,0:20:17.36,0:20:19.11,Italique,Noir,0000,0000,0000,,Mais… je dois le vaincre !
+Dialogue: 0,0:20:19.53,0:20:20.99,Italique,Noir,0000,0000,0000,,Je n’ai pas le choix !
+Dialogue: 0,0:20:28.20,0:20:32.29,Italique,Noir,0000,0150,0000,,J’utilise 100 PV pour éditer la taille\Ndes projectiles de pierre à 100 cm.
+Dialogue: 0,0:20:28.87,0:20:34.00,Default,Sign,0000,0000,0000,,{\fad(858,1)\an1\fnTrebuchet MS\fs18\3c&H24211E&\4c&H25221E&\pos(420,197)}NOIR STARDIA
+Dialogue: 0,0:20:28.87,0:20:34.00,Default,Sign,0000,0000,0000,,{\fad(858,1)\an1\fnTrebuchet MS\fs18\3c&H24211E&\shad0\pos(423,316)\fscx80}PROJECTILES ROCHEUX
+Dialogue: 0,0:20:35.42,0:20:38.88,Default,Noir,0000,0000,0000,,Tu es bien menu, mon petit.\NTu manges correctement ?
+Dialogue: 0,0:20:39.13,0:20:42.26,Default,Noir,0000,0000,0000,,Laisse-moi t’offrir\Nquelque chose qui cale bien !
+Dialogue: 0,0:20:43.72,0:20:45.26,Default,Noir,0000,0000,0000,,Projectiles de pierre, 100 cm !
+Dialogue: 0,0:20:55.98,0:20:58.73,sign_6789_82_Skill__Great_Sag,Sign,0000,0000,0000,,{\fad(858,1)\fs16\an7\pos(209,19)}NOIR STARDIA
+Dialogue: 0,0:20:57.48,0:20:58.73,Default,Noir,0000,0000,0000,,J’en peux plus…
+Dialogue: 0,0:21:03.53,0:21:04.24,Default,Directeur,0000,0000,0000,,Bien,
+Dialogue: 0,0:21:04.53,0:21:08.49,Default,Directeur,0000,0000,0000,,je vais à présent annoncer\Nle top 3 des équipes.
+Dialogue: 0,0:21:08.62,0:21:12.12,Default,Lenore,0000,0000,0000,,Aucune chance pour nous.\NOn ne risque pas d’être nommés.
+Dialogue: 0,0:21:13.25,0:21:14.04,Default,Noir,0000,0000,0000,,Ouais…
+Dialogue: 0,0:21:14.75,0:21:17.54,Default,Directeur,0000,0000,0000,,En 3e position, équipe Jenos
+Dialogue: 0,0:21:18.17,0:21:20.21,Default,Directeur,0000,0000,0000,,avec 5 890 points.
+Dialogue: 0,0:21:21.21,0:21:23.55,Default,Directeur,0000,0000,0000,,En 2e, équipe Elizabeth,
+Dialogue: 0,0:21:23.76,0:21:25.97,Default,Directeur,0000,0000,0000,,11 550 points.
+Dialogue: 0,0:21:26.59,0:21:28.14,Italique,Lenore,0000,0000,0000,,Toujours pas…
+Dialogue: 0,0:21:29.01,0:21:30.43,Default,Emma,0000,0000,0000,,Ils sont hors de portée.
+Dialogue: 0,0:21:31.43,0:21:33.02,Italique,Noir,0000,0000,0000,,Ça devrait aller.
+Dialogue: 0,0:21:33.47,0:21:35.06,Italique,Noir,0000,0000,0000,,Après tout, d’après le maître…
+Dialogue: 0,0:21:36.10,0:21:39.44,Italique,Noir,0000,0000,0000,,Ce n’est pas contre nature,\Nd’apporter ça à l’examen ?
+Dialogue: 0,0:21:39.56,0:21:40.23,Italique,Olivia,0000,0000,0000,,Non.
+Dialogue: 0,0:21:40.44,0:21:43.90,Italique,Olivia,0000,0000,0000,,C’est plus naturel que le slime doré\Nintrouvable sur ce continent.
+Dialogue: 0,0:21:44.19,0:21:45.90,Italique,Olivia,0000,0000,0000,,Du menu fretin, en somme.
+Dialogue: 0,0:21:47.20,0:21:50.16,Italique,Noir,0000,0000,0000,,Mais si on n’est pas appelés…
+Dialogue: 0,0:21:52.27,0:21:53.49,Default,Directeur,0000,0000,0000,,Et en première position…
+Dialogue: 0,0:21:57.08,0:22:00.46,Default,Directeur,0000,0000,0000,,l’équipe Lenore, 128 000 points !
+Dialogue: 0,0:22:01.17,0:22:03.25,Default,Emma,0000,0000,0000,,128…
+Dialogue: 0,0:22:03.80,0:22:04.88,Default,Noir,0000,0000,0000,,… 000…
+Dialogue: 0,0:22:05.13,0:22:09.05,Default,Directeur,0000,0000,0000,,Parmi leurs matériaux, il y avait\Nle crâne d’un monstre inhumain.
+Dialogue: 0,0:22:09.18,0:22:12.60,Default,Directeur,0000,0000,0000,,Ils sont donc reçus\Navec un score historique.
+Dialogue: 0,0:22:12.85,0:22:16.18,Italique,Noir,0000,0000,0000,,De menu fretin ?\NVous en êtes certaine, maître ?
+Dialogue: 0,0:22:16.43,0:22:18.94,Italique,Olivia,0000,0000,0000,,Oups, je me suis peut-être trompée.
+Dialogue: 0,0:22:19.40,0:22:22.23,Italique,Olivia,0000,0000,0000,,Pour moi, un Dead Reaper,\Nc’est de la tarte,
+Dialogue: 0,0:22:22.36,0:22:25.11,Italique,Olivia,0000,0000,0000,,mais pour un étudiant,\Nc’est un miracle.
+Dialogue: 0,0:22:25.82,0:22:27.45,Italique,Olivia,0000,0000,0000,,Bah, tant pis !
+Dialogue: 0,0:22:29.36,0:22:33.20,Italique,Noir,0000,0000,0000,,De ce fait, j’ai réussi l’examen\Nde l’école des héros.
+Dialogue: 0,0:22:33.70,0:22:37.46,Italique,Noir,0000,0000,0000,,Ma famille était ravie.\NJ’étais on ne peut plus heureux,
+Dialogue: 0,0:22:37.96,0:22:40.50,Italique,Noir,0000,0000,0000,,jusqu’à recevoir la note\Ndes frais de scolarité…
+Dialogue: 0,0:22:41.25,0:22:43.13,Default,Noir,0000,0000,0000,,300 000 rels ?
+Dialogue: 0,0:22:43.29,0:22:45.80,Default,Noir,0000,0000,0000,,Comment je vais débourser tout ça ?
+Dialogue: 0,0:24:17.89,0:24:20.14,Italique,Noir,0250,0000,0000,,À suivre,\NLa guilde et la réceptionniste.
